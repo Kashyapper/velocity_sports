@@ -1368,6 +1368,7 @@ function handleCreateSpaceSubmit(e) {
             status: 'pending'
         };
         invs.push(latestInv);
+        broadcastCloudPayload({ type: 'NEW_INVITATION', inv: latestInv, space: spaces[spId] });
     });
     localStorage.setItem('velocity_chat_invitations', JSON.stringify(invs));
 
@@ -1532,7 +1533,8 @@ function selectChatSpace(spId) {
 
 function sendSpaceMessage(e, spId) {
     e.preventDefault();
-    const curr = localStorage.getItem('velocity_active_user') || 'you';
+    const rawCurr = localStorage.getItem('velocity_active_user') || 'you';
+    const curr = rawCurr.toLowerCase().trim();
     const input = document.getElementById('space-msg-input');
     const txt = input?.value.trim();
     if (!txt) return;
@@ -1541,14 +1543,96 @@ function sendSpaceMessage(e, spId) {
     const sp = spaces[spId];
     if (!sp) return;
 
+    const msgObj = { sender: curr, text: txt, time: Date.now(), reactions: {} };
     sp.messages = sp.messages || [];
-    sp.messages.push({ sender: curr, text: txt, time: Date.now(), reactions: {} });
+    sp.messages.push(msgObj);
     spaces[spId] = sp;
     localStorage.setItem('velocity_chat_spaces', JSON.stringify(spaces));
     selectChatSpace(spId);
+
+    broadcastCloudPayload({
+        type: 'CHAT_MESSAGE',
+        spaceId: spId,
+        msg: msgObj
+    });
 }
 
-// --- Real-Time Notifications & Message Sync Engine ---
+// --- Global Real-Time Cloud PubSub Engine (Serverless Cross-Device Sync) ---
+const NTFY_TOPIC = 'velocity_sports_global_chat_2026';
+let cloudPubSubConnected = false;
+
+function initGlobalCloudSync() {
+    if (cloudPubSubConnected) return;
+    try {
+        const sseUrl = `https://ntfy.sh/${NTFY_TOPIC}/sse`;
+        const evtSource = new EventSource(sseUrl);
+        
+        evtSource.onmessage = (event) => {
+            try {
+                const dataObj = JSON.parse(event.data);
+                if (!dataObj || !dataObj.message || typeof dataObj.message !== 'string') return;
+                
+                const payload = JSON.parse(dataObj.message);
+                const rawCurr = localStorage.getItem('velocity_active_user') || 'you';
+                const curr = rawCurr.toLowerCase().trim();
+
+                if (payload.type === 'CHAT_MESSAGE') {
+                    const { spaceId, msg } = payload;
+                    if ((msg.sender||'').toLowerCase().trim() === curr) return;
+
+                    const spaces = JSON.parse(localStorage.getItem('velocity_chat_spaces') || '{}');
+                    const sp = spaces[spaceId];
+                    if (!sp || !sp.members?.some(m => (m||'').toLowerCase().trim() === curr)) return;
+
+                    sp.messages = sp.messages || [];
+                    if (!sp.messages.some(m => m.time === msg.time && m.sender === msg.sender && m.text === msg.text)) {
+                        sp.messages.push(msg);
+                        spaces[spaceId] = sp;
+                        localStorage.setItem('velocity_chat_spaces', JSON.stringify(spaces));
+
+                        showLiveToast(`💬 ${sp.name}`, `@${msg.sender}: ${msg.text}`, () => jumpToChatSpace(spaceId));
+                        if (activeChatSpaceId === spaceId) selectChatSpace(spaceId);
+                        renderSocialChat();
+                    }
+                }
+
+                if (payload.type === 'NEW_INVITATION') {
+                    const { inv, space } = payload;
+                    if ((inv.from||'').toLowerCase().trim() === curr) return;
+
+                    if ((inv.to || '').toLowerCase().trim() === curr) {
+                        const invs = JSON.parse(localStorage.getItem('velocity_chat_invitations') || '[]');
+                        const spaces = JSON.parse(localStorage.getItem('velocity_chat_spaces') || '{}');
+
+                        if (!invs.some(i => i.id === inv.id)) {
+                            invs.push(inv);
+                            localStorage.setItem('velocity_chat_invitations', JSON.stringify(invs));
+                        }
+                        if (space && !spaces[space.id]) {
+                            spaces[space.id] = space;
+                            localStorage.setItem('velocity_chat_spaces', JSON.stringify(spaces));
+                        }
+
+                        showLiveToast(`💌 New Chat Invitation`, `@${inv.from} invited you to "${inv.spaceName}"`, () => switchTab('chat'));
+                        renderSocialChat();
+                    }
+                }
+            } catch(err) {}
+        };
+        cloudPubSubConnected = true;
+    } catch(e) { console.error('Pubsub init error:', e); }
+}
+
+function broadcastCloudPayload(payloadObj) {
+    try {
+        fetch(`https://ntfy.sh/${NTFY_TOPIC}`, {
+            method: 'POST',
+            body: JSON.stringify(payloadObj)
+        }).catch(err => {});
+    } catch(e) {}
+}
+
+// --- Real-Time Local Memory Sync Engine ---
 let lastKnownSpacesStr = localStorage.getItem('velocity_chat_spaces') || '{}';
 let lastKnownInvsStr = localStorage.getItem('velocity_chat_invitations') || '[]';
 let audioCtx = null;
@@ -1561,8 +1645,8 @@ function playChime() {
         osc.connect(gain);
         gain.connect(audioCtx.destination);
         osc.type = 'sine';
-        osc.frequency.setValueAtTime(587.33, audioCtx.currentTime); // D5
-        osc.frequency.setValueAtTime(880, audioCtx.currentTime + 0.08); // A5
+        osc.frequency.setValueAtTime(587.33, audioCtx.currentTime);
+        osc.frequency.setValueAtTime(880, audioCtx.currentTime + 0.08);
         gain.gain.setValueAtTime(0.15, audioCtx.currentTime);
         gain.gain.exponentialRampToValueAtTime(0.001, audioCtx.currentTime + 0.35);
         osc.start();
@@ -1604,7 +1688,8 @@ function jumpToChatSpace(spId) {
 }
 
 function checkStorageSyncLoop() {
-    const curr = localStorage.getItem('velocity_active_user') || 'you';
+    const rawCurr = localStorage.getItem('velocity_active_user') || 'you';
+    const curr = rawCurr.toLowerCase().trim();
     const newSpacesStr = localStorage.getItem('velocity_chat_spaces') || '{}';
     const newInvsStr = localStorage.getItem('velocity_chat_invitations') || '[]';
 
@@ -1614,7 +1699,7 @@ function checkStorageSyncLoop() {
 
         Object.keys(newSpaces).forEach(spId => {
             const nSp = newSpaces[spId];
-            if (!nSp || !nSp.members?.includes(curr)) return;
+            if (!nSp || !nSp.members?.some(m => (m||'').toLowerCase().trim() === curr)) return;
             const oSp = oldSpaces[spId] || { messages: [] };
             
             const oldLen = oSp.messages?.length || 0;
@@ -1622,7 +1707,7 @@ function checkStorageSyncLoop() {
 
             if (newLen > oldLen) {
                 const latestMsg = nSp.messages[newLen - 1];
-                if (latestMsg && latestMsg.sender !== curr) {
+                if (latestMsg && (latestMsg.sender||'').toLowerCase().trim() !== curr) {
                     showLiveToast(`💬 ${nSp.name}`, `@${latestMsg.sender}: ${latestMsg.text}`, () => jumpToChatSpace(spId));
                     if (activeChatSpaceId === spId) selectChatSpace(spId);
                 }
@@ -1639,8 +1724,8 @@ function checkStorageSyncLoop() {
         const oldInvs = JSON.parse(lastKnownInvsStr);
         const newInvs = JSON.parse(newInvsStr);
 
-        const myOldPending = oldInvs.filter(i => i.to === curr && i.status === 'pending').length;
-        const myNewPending = newInvs.filter(i => i.to === curr && i.status === 'pending');
+        const myOldPending = oldInvs.filter(i => (i.to||'').toLowerCase().trim() === curr && i.status === 'pending').length;
+        const myNewPending = newInvs.filter(i => (i.to||'').toLowerCase().trim() === curr && i.status === 'pending');
 
         if (myNewPending.length > myOldPending) {
             const latestInv = myNewPending[myNewPending.length - 1];
@@ -1681,6 +1766,7 @@ function checkInviteUrlParam() {
 
 // --- Init ---
 document.addEventListener('DOMContentLoaded', () => {
+    initGlobalCloudSync();
     checkInviteUrlParam();
     checkAuthOnInit();
     renderSocialChat();
