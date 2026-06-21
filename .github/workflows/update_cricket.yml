@@ -1,0 +1,31 @@
+name: Auto Update Cricket Scores
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-scores:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run cricket updater
+        run: python3 update_cricket.py --once
+
+      - name: Commit and push updated JSON
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add cricket_scores.json cricket_news.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "⚡ Auto-update cricket scores [skip ci]" && git push)

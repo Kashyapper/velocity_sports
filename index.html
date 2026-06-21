@@ -1,0 +1,616 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Velocity Sports</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-900 text-white font-sans min-h-screen flex flex-col">
+
+    <!-- Header -->
+    <header class="bg-gray-800 border-b border-gray-700 p-4 sticky top-0 z-50">
+        <div class="container mx-auto flex justify-between items-center">
+            <h1 class="text-2xl font-black tracking-wider text-red-500 flex items-center gap-2">
+                <i class="fas fa-bolt text-yellow-500"></i> VELOCITY SPORTS
+            </h1>
+            <nav class="flex space-x-1 overflow-x-auto max-w-full no-scrollbar py-1">
+                <button onclick="switchTab('football')" id="tab-football" class="tab-btn px-3 py-1.5 rounded-lg font-semibold bg-red-600 text-white transition-colors duration-200 shrink-0 text-sm md:text-base">
+                    <i class="fas fa-football-ball mr-1 md:mr-2"></i>Football
+                </button>
+                <button onclick="switchTab('soccer')" id="tab-soccer" class="tab-btn px-3 py-1.5 rounded-lg font-semibold text-gray-400 hover:text-white hover:bg-gray-700 transition-colors duration-200 shrink-0 text-sm md:text-base">
+                    <i class="fas fa-futbol mr-1 md:mr-2"></i>Soccer
+                </button>
+                <button onclick="switchTab('tennis')" id="tab-tennis" class="tab-btn px-3 py-1.5 rounded-lg font-semibold text-gray-400 hover:text-white hover:bg-gray-700 transition-colors duration-200 shrink-0 text-sm md:text-base">
+                    <i class="fas fa-tennis-ball mr-1 md:mr-2"></i>Tennis
+                </button>
+                <button onclick="switchTab('basketball')" id="tab-basketball" class="tab-btn px-3 py-1.5 rounded-lg font-semibold text-gray-400 hover:text-white hover:bg-gray-700 transition-colors duration-200 shrink-0 text-sm md:text-base">
+                    <i class="fas fa-basketball-ball mr-1 md:mr-2"></i>Basketball
+                </button>
+                <button onclick="switchTab('baseball')" id="tab-baseball" class="tab-btn px-3 py-1.5 rounded-lg font-semibold text-gray-400 hover:text-white hover:bg-gray-700 transition-colors duration-200 shrink-0 text-sm md:text-base">
+                    <i class="fas fa-baseball-ball mr-1 md:mr-2"></i>Baseball
+                </button>
+                <button onclick="switchTab('cricket')" id="tab-cricket" class="tab-btn px-3 py-1.5 rounded-lg font-semibold text-gray-400 hover:text-white hover:bg-gray-700 transition-colors duration-200 shrink-0 text-sm md:text-base">
+                    <i class="fas fa-running mr-1 md:mr-2"></i>Cricket
+                </button>
+                <button onclick="switchTab('games')" id="tab-games" class="tab-btn px-3 py-1.5 rounded-lg font-semibold text-gray-400 hover:text-white hover:bg-gray-700 transition-colors duration-200 shrink-0 text-sm md:text-base">
+                    <i class="fas fa-gamepad mr-1 md:mr-2"></i>Arcade
+                </button>
+                <button onclick="switchTab('gemini')" id="tab-gemini" class="tab-btn px-3 py-1.5 rounded-lg font-semibold text-gray-400 hover:text-white hover:bg-gray-700 transition-colors duration-200 shrink-0 text-sm md:text-base">
+                    <i class="fas fa-robot mr-1 md:mr-2"></i>Gemini AI
+                </button>
+                <button onclick="switchTab('chat')" id="tab-chat" class="tab-btn px-3 py-1.5 rounded-lg font-semibold text-gray-400 hover:text-white hover:bg-gray-700 transition-colors duration-200 shrink-0 text-sm md:text-base">
+                    <i class="fas fa-comments mr-1 md:mr-2"></i>Social Chat
+                </button>
+            </nav>
+            <div id="user-profile-badge" class="ml-3 shrink-0"></div>
+        </div>
+    </header>
+
+    <!-- Main Content Container -->
+    <main class="flex-grow container mx-auto p-4 md:p-6 max-w-6xl">
+        
+        <!-- FOOTBALL TAB -->
+        <div id="content-football" class="tab-content block space-y-6">
+            <!-- League Selector -->
+            <div class="bg-gray-800 p-1.5 rounded-xl flex flex-wrap gap-1.5 border border-gray-700 w-fit mb-4">
+                <button onclick="switchLeague('football', 'nfl')" id="league-football-nfl" class="league-football-btn bg-red-600 text-white px-3 py-1 rounded-lg text-sm font-semibold transition-all">NFL</button>
+                <button onclick="switchLeague('football', 'ufl')" id="league-football-ufl" class="league-football-btn bg-transparent text-gray-400 hover:text-white px-3 py-1 rounded-lg text-sm font-semibold transition-all">UFL</button>
+                <button onclick="switchLeague('football', 'college-football')" id="league-football-college-football" class="league-football-btn bg-transparent text-gray-400 hover:text-white px-3 py-1 rounded-lg text-sm font-semibold transition-all">College Football</button>
+            </div>
+            <div class="flex border-b border-gray-700 mb-6">
+                <button onclick="switchFootballSubTab('scores')" id="subtab-football-scores" class="subtab-football-btn px-4 py-2 border-b-2 border-red-500 font-semibold text-white">
+                    Scores & Schedule
+                </button>
+                <button onclick="switchFootballSubTab('news')" id="subtab-football-news" class="subtab-football-btn px-4 py-2 border-b-2 border-transparent text-gray-400 hover:text-white font-semibold">
+                    Latest News
+                </button>
+            </div>
+
+            <!-- Football Scores Sub-tab -->
+            <div id="football-scores" class="football-subcontent block">
+                <div class="grid md:grid-cols-2 gap-6">
+                    <div>
+                        <h3 class="text-xl font-bold mb-4 flex items-center gap-2">
+                            <span class="w-2 h-6 bg-red-500 rounded"></span> Recent Results
+                        </h3>
+                        <div id="football-recent-results-list" class="space-y-4">
+                            <!-- Dynamically populated -->
+                            <div class="animate-pulse bg-gray-800 h-24 rounded-xl"></div>
+                        </div>
+                    </div>
+                    <div>
+                        <h3 class="text-xl font-bold mb-4 flex items-center gap-2">
+                            <span class="w-2 h-6 bg-yellow-500 rounded"></span> Upcoming Games
+                        </h3>
+                        <div id="football-upcoming-games-list" class="space-y-4">
+                            <!-- Dynamically populated -->
+                            <div class="animate-pulse bg-gray-800 h-24 rounded-xl"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Football News Sub-tab -->
+            <div id="football-news" class="football-subcontent hidden">
+                <div id="football-news-grid" class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+                    <!-- Dynamically populated -->
+                    <div class="animate-pulse bg-gray-800 h-64 rounded-xl"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- SOCCER TAB -->
+        <div id="content-soccer" class="tab-content hidden space-y-6">
+            <!-- League Selector -->
+            <div class="bg-gray-800 p-1.5 rounded-xl flex flex-wrap gap-1.5 border border-gray-700 w-fit mb-4">
+                <button onclick="switchLeague('soccer', 'fifa.world')" id="league-soccer-fifa.world" class="league-soccer-btn bg-red-600 text-white px-3 py-1 rounded-lg text-sm font-semibold transition-all">FIFA World Cup</button>
+                <button onclick="switchLeague('soccer', 'eng.1')" id="league-soccer-eng.1" class="league-soccer-btn bg-transparent text-gray-400 hover:text-white px-3 py-1 rounded-lg text-sm font-semibold transition-all">Premier League</button>
+                <button onclick="switchLeague('soccer', 'usa.1')" id="league-soccer-usa.1" class="league-soccer-btn bg-transparent text-gray-400 hover:text-white px-3 py-1 rounded-lg text-sm font-semibold transition-all">MLS</button>
+                <button onclick="switchLeague('soccer', 'uefa.champions')" id="league-soccer-uefa.champions" class="league-soccer-btn bg-transparent text-gray-400 hover:text-white px-3 py-1 rounded-lg text-sm font-semibold transition-all">Champions League</button>
+            </div>
+            <div class="flex border-b border-gray-700 mb-6">
+                <button onclick="switchSoccerSubTab('scores')" id="subtab-soccer-scores" class="subtab-soccer-btn px-4 py-2 border-b-2 border-red-500 font-semibold text-white">
+                    Scores & Schedule
+                </button>
+                <button onclick="switchSoccerSubTab('news')" id="subtab-soccer-news" class="subtab-soccer-btn px-4 py-2 border-b-2 border-transparent text-gray-400 hover:text-white font-semibold">
+                    Latest News
+                </button>
+            </div>
+
+            <!-- Soccer Scores Sub-tab -->
+            <div id="soccer-scores" class="soccer-subcontent block">
+                <div class="grid md:grid-cols-2 gap-6">
+                    <div>
+                        <h3 class="text-xl font-bold mb-4 flex items-center gap-2">
+                            <span class="w-2 h-6 bg-red-500 rounded"></span> Recent Results
+                        </h3>
+                        <div id="soccer-recent-results-list" class="space-y-4">
+                            <!-- Dynamically populated -->
+                            <div class="animate-pulse bg-gray-800 h-24 rounded-xl"></div>
+                        </div>
+                    </div>
+                    <div>
+                        <h3 class="text-xl font-bold mb-4 flex items-center gap-2">
+                            <span class="w-2 h-6 bg-yellow-500 rounded"></span> Upcoming Games
+                        </h3>
+                        <div id="soccer-upcoming-games-list" class="space-y-4">
+                            <!-- Dynamically populated -->
+                            <div class="animate-pulse bg-gray-800 h-24 rounded-xl"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Soccer News Sub-tab -->
+            <div id="soccer-news" class="soccer-subcontent hidden">
+                <div id="soccer-news-grid" class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+                    <!-- Dynamically populated -->
+                    <div class="animate-pulse bg-gray-800 h-64 rounded-xl"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- TENNIS TAB -->
+        <div id="content-tennis" class="tab-content hidden space-y-6">
+            <!-- League Selector -->
+            <div class="bg-gray-800 p-1.5 rounded-xl flex flex-wrap gap-1.5 border border-gray-700 w-fit mb-4">
+                <button onclick="switchLeague('tennis', 'atp')" id="league-tennis-atp" class="league-tennis-btn bg-red-600 text-white px-3 py-1 rounded-lg text-sm font-semibold transition-all">ATP Tour</button>
+                <button onclick="switchLeague('tennis', 'wta')" id="league-tennis-wta" class="league-tennis-btn bg-transparent text-gray-400 hover:text-white px-3 py-1 rounded-lg text-sm font-semibold transition-all">WTA Tour</button>
+            </div>
+            <div class="flex border-b border-gray-700 mb-6">
+                <button onclick="switchTennisSubTab('scores')" id="subtab-tennis-scores" class="subtab-tennis-btn px-4 py-2 border-b-2 border-red-500 font-semibold text-white">
+                    Scores & Schedule
+                </button>
+                <button onclick="switchTennisSubTab('news')" id="subtab-tennis-news" class="subtab-tennis-btn px-4 py-2 border-b-2 border-transparent text-gray-400 hover:text-white font-semibold">
+                    Latest News
+                </button>
+            </div>
+
+            <!-- Tennis Scores Sub-tab -->
+            <div id="tennis-scores" class="tennis-subcontent block">
+                <div class="grid md:grid-cols-2 gap-6">
+                    <div>
+                        <h3 class="text-xl font-bold mb-4 flex items-center gap-2">
+                            <span class="w-2 h-6 bg-red-500 rounded"></span> Recent Results
+                        </h3>
+                        <div id="tennis-recent-results-list" class="space-y-4">
+                            <div class="animate-pulse bg-gray-800 h-24 rounded-xl"></div>
+                        </div>
+                    </div>
+                    <div>
+                        <h3 class="text-xl font-bold mb-4 flex items-center gap-2">
+                            <span class="w-2 h-6 bg-yellow-500 rounded"></span> Upcoming Matches
+                        </h3>
+                        <div id="tennis-upcoming-games-list" class="space-y-4">
+                            <div class="animate-pulse bg-gray-800 h-24 rounded-xl"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Tennis News Sub-tab -->
+            <div id="tennis-news" class="tennis-subcontent hidden">
+                <div id="tennis-news-grid" class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+                    <div class="animate-pulse bg-gray-800 h-64 rounded-xl"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- BASKETBALL TAB -->
+        <div id="content-basketball" class="tab-content hidden space-y-6">
+            <!-- League Selector -->
+            <div class="bg-gray-800 p-1.5 rounded-xl flex flex-wrap gap-1.5 border border-gray-700 w-fit mb-4">
+                <button onclick="switchLeague('basketball', 'nba')" id="league-basketball-nba" class="league-basketball-btn bg-red-600 text-white px-3 py-1 rounded-lg text-sm font-semibold transition-all">NBA</button>
+                <button onclick="switchLeague('basketball', 'wnba')" id="league-basketball-wnba" class="league-basketball-btn bg-transparent text-gray-400 hover:text-white px-3 py-1 rounded-lg text-sm font-semibold transition-all">WNBA</button>
+                <button onclick="switchLeague('basketball', 'mens-college-basketball')" id="league-basketball-mens-college-basketball" class="league-basketball-btn bg-transparent text-gray-400 hover:text-white px-3 py-1 rounded-lg text-sm font-semibold transition-all">NCAA Men's</button>
+            </div>
+            <div class="flex border-b border-gray-700 mb-6">
+                <button onclick="switchBasketballSubTab('scores')" id="subtab-basketball-scores" class="subtab-basketball-btn px-4 py-2 border-b-2 border-red-500 font-semibold text-white">
+                    Scores & Schedule
+                </button>
+                <button onclick="switchBasketballSubTab('news')" id="subtab-basketball-news" class="subtab-basketball-btn px-4 py-2 border-b-2 border-transparent text-gray-400 hover:text-white font-semibold">
+                    Latest News
+                </button>
+            </div>
+
+            <!-- Basketball Scores Sub-tab -->
+            <div id="basketball-scores" class="basketball-subcontent block">
+                <div class="grid md:grid-cols-2 gap-6">
+                    <div>
+                        <h3 class="text-xl font-bold mb-4 flex items-center gap-2">
+                            <span class="w-2 h-6 bg-red-500 rounded"></span> Recent Results
+                        </h3>
+                        <div id="basketball-recent-results-list" class="space-y-4">
+                            <div class="animate-pulse bg-gray-800 h-24 rounded-xl"></div>
+                        </div>
+                    </div>
+                    <div>
+                        <h3 class="text-xl font-bold mb-4 flex items-center gap-2">
+                            <span class="w-2 h-6 bg-yellow-500 rounded"></span> Upcoming Games
+                        </h3>
+                        <div id="basketball-upcoming-games-list" class="space-y-4">
+                            <div class="animate-pulse bg-gray-800 h-24 rounded-xl"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Basketball News Sub-tab -->
+            <div id="basketball-news" class="basketball-subcontent hidden">
+                <div id="basketball-news-grid" class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+                    <div class="animate-pulse bg-gray-800 h-64 rounded-xl"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- BASEBALL TAB -->
+        <div id="content-baseball" class="tab-content hidden space-y-6">
+            <!-- League Selector -->
+            <div class="bg-gray-800 p-1.5 rounded-xl flex flex-wrap gap-1.5 border border-gray-700 w-fit mb-4">
+                <button onclick="switchLeague('baseball', 'mlb')" id="league-baseball-mlb" class="league-baseball-btn bg-red-600 text-white px-3 py-1 rounded-lg text-sm font-semibold transition-all">MLB</button>
+                <button onclick="switchLeague('baseball', 'college-baseball')" id="league-baseball-college-baseball" class="league-baseball-btn bg-transparent text-gray-400 hover:text-white px-3 py-1 rounded-lg text-sm font-semibold transition-all">College Baseball</button>
+            </div>
+            <div class="flex border-b border-gray-700 mb-6">
+                <button onclick="switchBaseballSubTab('scores')" id="subtab-baseball-scores" class="subtab-baseball-btn px-4 py-2 border-b-2 border-red-500 font-semibold text-white">
+                    Scores & Schedule
+                </button>
+                <button onclick="switchBaseballSubTab('news')" id="subtab-baseball-news" class="subtab-baseball-btn px-4 py-2 border-b-2 border-transparent text-gray-400 hover:text-white font-semibold">
+                    Latest News
+                </button>
+            </div>
+
+            <!-- Baseball Scores Sub-tab -->
+            <div id="baseball-scores" class="baseball-subcontent block">
+                <div class="grid md:grid-cols-2 gap-6">
+                    <div>
+                        <h3 class="text-xl font-bold mb-4 flex items-center gap-2">
+                            <span class="w-2 h-6 bg-red-500 rounded"></span> Recent Results
+                        </h3>
+                        <div id="baseball-recent-results-list" class="space-y-4">
+                            <div class="animate-pulse bg-gray-800 h-24 rounded-xl"></div>
+                        </div>
+                    </div>
+                    <div>
+                        <h3 class="text-xl font-bold mb-4 flex items-center gap-2">
+                            <span class="w-2 h-6 bg-yellow-500 rounded"></span> Upcoming Games
+                        </h3>
+                        <div id="baseball-upcoming-games-list" class="space-y-4">
+                            <div class="animate-pulse bg-gray-800 h-24 rounded-xl"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Baseball News Sub-tab -->
+            <div id="baseball-news" class="baseball-subcontent hidden">
+                <div id="baseball-news-grid" class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+                    <div class="animate-pulse bg-gray-800 h-64 rounded-xl"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- CRICKET TAB -->
+        <div id="content-cricket" class="tab-content hidden space-y-6">
+            <!-- League Selector -->
+            <div class="bg-gray-800 p-1.5 rounded-xl flex flex-wrap gap-1.5 border border-gray-700 w-fit mb-4">
+                <button onclick="switchLeague('cricket', 'all')" id="league-cricket-all" class="league-cricket-btn bg-red-600 text-white px-3 py-1 rounded-lg text-sm font-semibold transition-all">All Matches</button>
+                <button onclick="switchLeague('cricket', 'international')" id="league-cricket-international" class="league-cricket-btn bg-transparent text-gray-400 hover:text-white px-3 py-1 rounded-lg text-sm font-semibold transition-all">International</button>
+                <button onclick="switchLeague('cricket', 't20')" id="league-cricket-t20" class="league-cricket-btn bg-transparent text-gray-400 hover:text-white px-3 py-1 rounded-lg text-sm font-semibold transition-all">T20 & Domestic</button>
+            </div>
+            <div class="flex border-b border-gray-700 mb-6">
+                <button onclick="switchCricketSubTab('scores')" id="subtab-cricket-scores" class="subtab-cricket-btn px-4 py-2 border-b-2 border-red-500 font-semibold text-white">
+                    Scores & Schedule
+                </button>
+                <button onclick="switchCricketSubTab('news')" id="subtab-cricket-news" class="subtab-cricket-btn px-4 py-2 border-b-2 border-transparent text-gray-400 hover:text-white font-semibold">
+                    Latest News
+                </button>
+            </div>
+
+            <!-- Cricket Scores Sub-tab -->
+            <div id="cricket-scores" class="cricket-subcontent block">
+                <div class="grid md:grid-cols-2 gap-6">
+                    <div>
+                        <h3 class="text-xl font-bold mb-4 flex items-center gap-2">
+                            <span class="w-2 h-6 bg-red-500 rounded"></span> Live & Recent
+                        </h3>
+                        <div id="cricket-recent-results-list" class="space-y-4">
+                            <div class="animate-pulse bg-gray-800 h-24 rounded-xl"></div>
+                        </div>
+                    </div>
+                    <div>
+                        <h3 class="text-xl font-bold mb-4 flex items-center gap-2">
+                            <span class="w-2 h-6 bg-yellow-500 rounded"></span> Upcoming Matches
+                        </h3>
+                        <div id="cricket-upcoming-games-list" class="space-y-4">
+                            <div class="animate-pulse bg-gray-800 h-24 rounded-xl"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Cricket News Sub-tab -->
+            <div id="cricket-news" class="cricket-subcontent hidden">
+                <div id="cricket-news-grid" class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+                    <div class="animate-pulse bg-gray-800 h-64 rounded-xl"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- GAMES TAB -->
+        <div id="content-games" class="tab-content hidden space-y-6">
+            <h2 class="text-2xl font-bold mb-6 flex items-center gap-2">
+                <span class="w-3 h-8 bg-red-500 rounded"></span> Retro Arcade
+            </h2>
+            <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
+                <!-- Game 1: Retro Bowl -->
+                <div class="bg-gray-800 rounded-xl overflow-hidden shadow-lg border border-gray-700 hover:border-red-500 transition-all duration-300 flex flex-col">
+                    <img src="https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=500&auto=format&fit=crop&q=60" alt="Retro Bowl" class="w-full h-48 object-cover">
+                    <div class="p-5 flex-grow flex flex-col justify-between">
+                        <div>
+                            <h3 class="text-xl font-bold mb-2">Retro Bowl</h3>
+                            <p class="text-gray-400 text-sm mb-4">Manage your franchise, call the plays, and lead your team to the ultimate prize.</p>
+                        </div>
+                        <button onclick="playGame('retrobowl')" class="w-full bg-red-600 hover:bg-red-700 text-white font-bold py-2 px-4 rounded-lg transition-colors">
+                            Play Now
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Game 2: Penalty Shooters 2 -->
+                <div class="bg-gray-800 rounded-xl overflow-hidden shadow-lg border border-gray-700 hover:border-red-500 transition-all duration-300 flex flex-col">
+                    <img src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=500&auto=format&fit=crop&q=60" alt="Penalty Shooters 2" class="w-full h-48 object-cover">
+                    <div class="p-5 flex-grow flex flex-col justify-between">
+                        <div>
+                            <h3 class="text-xl font-bold mb-2">Penalty Shooters 2</h3>
+                            <p class="text-gray-400 text-sm mb-4">Choose your team, shoot, and defend in this exciting penalty shootout game.</p>
+                        </div>
+                        <button onclick="playGame('penalty-shooters-2')" class="w-full bg-red-600 hover:bg-red-700 text-white font-bold py-2 px-4 rounded-lg transition-colors">
+                            Play Now
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Game 3: Basketball Stars -->
+                <div class="bg-gray-800 rounded-xl overflow-hidden shadow-lg border border-gray-700 hover:border-red-500 transition-all duration-300 flex flex-col">
+                    <img src="https://images.unsplash.com/photo-1546519638-68e109498ffc?w=500&auto=format&fit=crop&q=60" alt="Basketball Stars" class="w-full h-48 object-cover">
+                    <div class="p-5 flex-grow flex flex-col justify-between">
+                        <div>
+                            <h3 class="text-xl font-bold mb-2">Basketball Stars</h3>
+                            <p class="text-gray-400 text-sm mb-4">Show off your skills, dribble, shoot, and steal in this fast-paced basketball game.</p>
+                        </div>
+                        <button onclick="playGame('basketball-stars')" class="w-full bg-red-600 hover:bg-red-700 text-white font-bold py-2 px-4 rounded-lg transition-colors">
+                            Play Now
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Game 4: Moto X3M -->
+                <div class="bg-gray-800 rounded-xl overflow-hidden shadow-lg border border-gray-700 hover:border-red-500 transition-all duration-300 flex flex-col">
+                    <img src="https://images.unsplash.com/photo-1599819811279-d5ad9cccf838?w=500&auto=format&fit=crop&q=60" alt="Moto X3M" class="w-full h-48 object-cover">
+                    <div class="p-5 flex-grow flex flex-col justify-between">
+                        <div>
+                            <h3 class="text-xl font-bold mb-2">Moto X3M</h3>
+                            <p class="text-gray-400 text-sm mb-4">Experience extreme bike racing with challenging tracks and crazy stunts.</p>
+                        </div>
+                        <button onclick="playGame('moto-x3m')" class="w-full bg-red-600 hover:bg-red-700 text-white font-bold py-2 px-4 rounded-lg transition-colors">
+                            Play Now
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Game 5: Soccer Skills World Cup -->
+                <div class="bg-gray-800 rounded-xl overflow-hidden shadow-lg border border-gray-700 hover:border-red-500 transition-all duration-300 flex flex-col">
+                    <img src="https://images.unsplash.com/photo-1518063319789-7217e6706b04?w=500&auto=format&fit=crop&q=60" alt="Soccer Skills World Cup" class="w-full h-48 object-cover">
+                    <div class="p-5 flex-grow flex flex-col justify-between">
+                        <div>
+                            <h3 class="text-xl font-bold mb-2">Soccer Skills World Cup</h3>
+                            <p class="text-gray-400 text-sm mb-4">Lead your favorite national team to victory in the ultimate football tournament.</p>
+                        </div>
+                        <button onclick="playGame('soccer-skills-world-cup')" class="w-full bg-red-600 hover:bg-red-700 text-white font-bold py-2 px-4 rounded-lg transition-colors">
+                            Play Now
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Game 6: 8 Ball Pool -->
+                <div class="bg-gray-800 rounded-xl overflow-hidden shadow-lg border border-gray-700 hover:border-red-500 transition-all duration-300 flex flex-col">
+                    <img src="https://images.unsplash.com/photo-1544329014-a24e61545c3b?w=500&auto=format&fit=crop&q=60" alt="8 Ball Pool" class="w-full h-48 object-cover">
+                    <div class="p-5 flex-grow flex flex-col justify-between">
+                        <div>
+                            <h3 class="text-xl font-bold mb-2">8 Ball Pool</h3>
+                            <p class="text-gray-400 text-sm mb-4">Test your precision and strategy in a classic game of 8-ball pool.</p>
+                        </div>
+                        <button onclick="playGame('8-ball-pool')" class="w-full bg-red-600 hover:bg-red-700 text-white font-bold py-2 px-4 rounded-lg transition-colors">
+                            Play Now
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Game 7: Football Legends -->
+                <div class="bg-gray-800 rounded-xl overflow-hidden shadow-lg border border-gray-700 hover:border-red-500 transition-all duration-300 flex flex-col">
+                    <img src="https://images.unsplash.com/photo-1566577739112-5180d4bf9390?w=500&auto=format&fit=crop&q=60" alt="Football Legends" class="w-full h-48 object-cover">
+                    <div class="p-5 flex-grow flex flex-col justify-between">
+                        <div>
+                            <h3 class="text-xl font-bold mb-2">Football Legends</h3>
+                            <p class="text-gray-400 text-sm mb-4">Play as legendary soccer stars in fast-paced 1v1 or 2v2 head-to-head matches.</p>
+                        </div>
+                        <button onclick="playGame('football-legends')" class="w-full bg-red-600 hover:bg-red-700 text-white font-bold py-2 px-4 rounded-lg transition-colors">
+                            Play Now
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Game 8: Big Shot Boxing -->
+                <div class="bg-gray-800 rounded-xl overflow-hidden shadow-lg border border-gray-700 hover:border-red-500 transition-all duration-300 flex flex-col">
+                    <img src="https://images.unsplash.com/photo-1549719386-74dfcbf7dbed?w=500&auto=format&fit=crop&q=60" alt="Big Shot Boxing" class="w-full h-48 object-cover">
+                    <div class="p-5 flex-grow flex flex-col justify-between">
+                        <div>
+                            <h3 class="text-xl font-bold mb-2">Big Shot Boxing</h3>
+                            <p class="text-gray-400 text-sm mb-4">Step into the ring, train your boxer, and fight your way to the championship belt.</p>
+                        </div>
+                        <button onclick="playGame('big-shot-boxing')" class="w-full bg-red-600 hover:bg-red-700 text-white font-bold py-2 px-4 rounded-lg transition-colors">
+                            Play Now
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Game 9: Getaway Shootout -->
+                <div class="bg-gray-800 rounded-xl overflow-hidden shadow-lg border border-gray-700 hover:border-red-500 transition-all duration-300 flex flex-col">
+                    <img src="https://images.unsplash.com/photo-1551103782-8ab07afd45c1?w=500&auto=format&fit=crop&q=60" alt="Getaway Shootout" class="w-full h-48 object-cover">
+                    <div class="p-5 flex-grow flex flex-col justify-between">
+                        <div>
+                            <h3 class="text-xl font-bold mb-2">Getaway Shootout</h3>
+                            <p class="text-gray-400 text-sm mb-4">Race to the getaway vehicle while dodging obstacles and shooting competitors.</p>
+                        </div>
+                        <button onclick="playGame('getaway-shootout')" class="w-full bg-red-600 hover:bg-red-700 text-white font-bold py-2 px-4 rounded-lg transition-colors">
+                            Play Now
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Game Modal/Iframe container -->
+            <div id="game-modal" class="fixed inset-0 bg-black bg-opacity-90 z-50 flex flex-col items-center justify-center p-4 hidden">
+                <div class="w-full max-w-4xl bg-gray-900 rounded-xl overflow-hidden border border-gray-700 flex flex-col h-[80vh]">
+                    <div class="flex justify-between items-center p-4 border-b border-gray-800">
+                        <h3 id="game-title" class="text-xl font-bold">Game Title</h3>
+                        <button onclick="closeGame()" class="text-gray-400 hover:text-white text-2xl">&times;</button>
+                    </div>
+                    <div class="flex-grow bg-black relative">
+                        <iframe id="game-iframe" class="w-full h-full border-0" src="" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- GEMINI AI TAB -->
+        <div id="content-gemini" class="tab-content hidden flex flex-col items-center justify-center h-[calc(100vh-16rem)] max-w-4xl mx-auto">
+            <!-- Direct Launch Banner -->
+            <div class="bg-gradient-to-r from-blue-900/80 to-indigo-900/80 p-8 rounded-2xl border border-blue-500/50 flex flex-col items-center text-center gap-6 shadow-2xl max-w-lg w-full">
+                <div class="w-20 h-20 rounded-full bg-blue-600/30 border border-blue-400 flex items-center justify-center mb-2">
+                    <i class="fas fa-sparkles text-blue-400 text-4xl"></i>
+                </div>
+                <div>
+                    <h3 class="text-3xl font-black text-white">Google Gemini</h3>
+                    <p class="text-base text-blue-200 mt-2">Access Google's direct AI assistant on the web.</p>
+                </div>
+                <a href="https://gemini.google.com/" target="_blank" class="w-full justify-center bg-gradient-to-r from-blue-500 to-indigo-600 hover:from-blue-600 hover:to-indigo-700 text-white font-bold text-lg px-8 py-4 rounded-xl shadow-lg transition-all flex items-center gap-3">
+                    Launch Gemini <i class="fas fa-external-link-alt"></i>
+                </a>
+            </div>
+        </div>
+
+        <!-- SOCIAL CHAT TAB (Google Chat Theme) -->
+        <div id="content-chat" class="tab-content hidden h-[calc(100vh-8.5rem)] max-w-7xl mx-auto flex flex-col md:flex-row gap-4 bg-[#131314] p-3 rounded-3xl border border-[#333537] shadow-2xl">
+            <div class="w-full md:w-72 bg-[#1e1f20] rounded-2xl p-4 flex flex-col space-y-5 border border-[#333537] shrink-0 h-full overflow-y-auto">
+                <button onclick="openCreateSpaceModal()" class="w-full bg-[#a8c7fa] hover:bg-[#8ab4f8] text-[#062e6f] font-bold py-3 px-4 rounded-2xl shadow transition-all flex items-center justify-center gap-2 text-xs tracking-wide">
+                    <i class="fas fa-plus"></i> New chat / Start space
+                </button>
+                <div id="chat-invitations-container" class="space-y-2"></div>
+                <div class="flex-grow space-y-2">
+                    <div class="flex items-center justify-between px-2 text-[11px] font-bold text-[#c4c7c5] tracking-wider uppercase">
+                        <span>Chat Spaces</span>
+                    </div>
+                    <div id="chat-spaces-list" class="space-y-1"></div>
+                </div>
+            </div>
+            <div id="chat-active-space-container" class="flex-grow bg-[#1e1f20] rounded-2xl border border-[#333537] overflow-hidden flex flex-col h-full">
+                <div class="flex-grow flex flex-col items-center justify-center text-[#8e918f] p-8 text-center space-y-4">
+                    <div class="w-16 h-16 bg-[#282a2d] rounded-full flex items-center justify-center text-3xl text-[#a8c7fa] shadow-inner"><i class="fas fa-comment-alt"></i></div>
+                    <h3 class="text-lg font-medium text-[#e3e3e3]">Welcome to Google Chat</h3>
+                    <p class="text-xs max-w-xs leading-relaxed text-[#c4c7c5]">Select a space or invite another username to start collaborating.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Create Space / Invite Modal -->
+        <div id="create-space-modal" class="fixed inset-0 bg-black/80 backdrop-blur-md z-50 flex items-center justify-center p-4 hidden">
+            <div class="bg-gray-900 border border-gray-750 rounded-3xl max-w-md w-full p-6 shadow-2xl space-y-5">
+                <div class="flex justify-between items-center border-b border-gray-800 pb-4">
+                    <h3 class="text-base font-black text-white flex items-center gap-2"><i class="fas fa-user-plus text-red-500"></i> Invite Users & Create Space</h3>
+                    <button onclick="closeCreateSpaceModal()" class="text-gray-400 hover:text-white text-xl">&times;</button>
+                </div>
+                <form onsubmit="handleCreateSpaceSubmit(event)" class="space-y-4">
+                    <div>
+                        <label class="block text-xs font-bold text-gray-300 mb-1">Chat Space Type</label>
+                        <div class="flex gap-2">
+                            <label class="flex-1 bg-gray-800 p-3 rounded-xl border border-gray-700 flex items-center justify-center gap-2 cursor-pointer text-xs font-bold select-none">
+                                <input type="radio" name="chat-type" value="direct" checked> Direct (1-on-1)
+                            </label>
+                            <label class="flex-1 bg-gray-800 p-3 rounded-xl border border-gray-700 flex items-center justify-center gap-2 cursor-pointer text-xs font-bold select-none">
+                                <input type="radio" name="chat-type" value="group"> Group Chat
+                            </label>
+                        </div>
+                    </div>
+                    <div>
+                        <label class="block text-xs font-bold text-gray-300 mb-1">Chat Space Name (Optional)</label>
+                        <input type="text" id="space-name-input" placeholder="e.g. Champions League Watch Party" class="w-full bg-gray-800 border border-gray-700 rounded-xl px-4 py-2.5 text-sm text-white focus:outline-none focus:border-red-500">
+                    </div>
+                    <div>
+                        <label class="block text-xs font-bold text-gray-300 mb-1">Invite Usernames (comma separated)</label>
+                        <input type="text" id="space-users-input" required placeholder="Enter username(s) to invite..." class="w-full bg-gray-800 border border-gray-700 rounded-xl px-4 py-2.5 text-sm text-white focus:outline-none focus:border-red-500">
+                        <p class="text-[11px] text-gray-500 mt-1">Enter exact registered username(s) separated by commas.</p>
+                    </div>
+                    <button type="submit" class="w-full bg-red-600 hover:bg-red-500 text-white font-black py-3 rounded-xl text-sm transition-all shadow-lg">
+                        Send Invitation(s)
+                    </button>
+                </form>
+            </div>
+        </div>
+
+        <!-- Match Stats & Video Highlights Modal -->
+        <div id="game-stats-modal" class="fixed inset-0 bg-black/85 backdrop-blur-md z-50 flex items-center justify-center p-4 hidden">
+            <div class="bg-gray-900 border border-gray-750 rounded-3xl max-w-3xl w-full max-h-[90vh] flex flex-col overflow-hidden shadow-2xl">
+                <div id="modal-match-summary" class="p-6 bg-gray-800 border-b border-gray-750 relative"></div>
+                <button onclick="closeGameModal()" class="absolute top-5 right-5 w-9 h-9 bg-gray-750 hover:bg-gray-700 rounded-full flex items-center justify-center text-gray-400 hover:text-white text-lg transition-all shadow">&times;</button>
+                <div id="modal-body-content" class="p-6 overflow-y-auto space-y-6 flex-grow bg-gray-900"></div>
+            </div>
+        </div>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-gray-800 border-t border-gray-700 p-4 text-center text-sm text-gray-500 mt-auto">
+        <p>&copy; 2026 Velocity Sports. Created as a prototype.</p>
+    </footer>
+
+    <!-- Full-Screen Authentication Modal (Login / Sign Up) -->
+    <div id="auth-modal" class="fixed inset-0 bg-gray-950/92 backdrop-blur-2xl z-[100] flex items-center justify-center p-4 hidden">
+        <div class="bg-gray-900 border border-gray-800 rounded-3xl max-w-md w-full p-8 shadow-2xl space-y-6">
+            <div class="text-center space-y-2">
+                <div class="w-14 h-14 bg-gradient-to-tr from-red-600 to-yellow-500 rounded-2xl flex items-center justify-center text-white text-3xl font-black mx-auto shadow-lg"><i class="fas fa-bolt"></i></div>
+                <h2 id="auth-title" class="text-2xl font-black text-white">Sign Up for Velocity</h2>
+                <p id="auth-subtitle" class="text-xs text-gray-400">Create your account to access personalized sports dashboards.</p>
+            </div>
+
+            <div class="flex bg-gray-800 p-1 rounded-xl border border-gray-700">
+                <button type="button" onclick="switchAuthMode('signup')" id="auth-tab-signup" class="flex-1 py-2 rounded-lg text-xs font-bold transition-all bg-red-600 text-white shadow">Sign Up</button>
+                <button type="button" onclick="switchAuthMode('login')" id="auth-tab-login" class="flex-1 py-2 rounded-lg text-xs font-bold transition-all text-gray-400 hover:text-white">Log In</button>
+            </div>
+
+            <form id="auth-form" onsubmit="handleAuthSubmit(event)" class="space-y-4">
+                <div>
+                    <label class="block text-[11px] font-bold text-gray-300 uppercase tracking-wider mb-1.5">Username</label>
+                    <input type="text" id="auth-username" required placeholder="Choose a username..." class="w-full bg-gray-800 border border-gray-700 rounded-xl px-4 py-3 text-sm text-white focus:outline-none focus:border-red-500 transition-colors">
+                </div>
+                <div>
+                    <label class="block text-[11px] font-bold text-gray-300 uppercase tracking-wider mb-1.5">Password</label>
+                    <input type="password" id="auth-password" required placeholder="Enter your password..." class="w-full bg-gray-800 border border-gray-700 rounded-xl px-4 py-3 text-sm text-white focus:outline-none focus:border-red-500 transition-colors">
+                </div>
+                <div id="auth-error" class="hidden text-xs text-red-400 bg-red-950/50 border border-red-500/40 p-3 rounded-xl text-center font-medium"></div>
+                <button type="submit" id="auth-submit-btn" class="w-full bg-gradient-to-r from-red-600 to-red-500 hover:from-red-500 hover:to-red-400 text-white font-black py-3.5 rounded-xl text-sm shadow-lg transition-all">
+                    Create Account
+                </button>
+            </form>
+        </div>
+    </div>
+
+    <!-- Real-Time Floating Notification Toasts Container -->
+    <div id="live-toast-container" class="fixed top-20 right-6 z-[200] space-y-3 flex flex-col items-end pointer-events-none"></div>
+
+    <!-- App Script -->
+    <script src="app.js?v=20260619_10"></script>
+</body>
+</html>
