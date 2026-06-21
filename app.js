@@ -1398,6 +1398,8 @@ function renameChatSpace(spId) {
 }
 
 function addMsgReaction(spId, msgIdx, emoji) {
+    const rawCurr = localStorage.getItem('velocity_active_user') || 'you';
+    const curr = rawCurr.toLowerCase().trim();
     const spaces = JSON.parse(localStorage.getItem('velocity_chat_spaces') || '{}');
     const sp = spaces[spId];
     if (!sp || !sp.messages || !sp.messages[msgIdx]) return;
@@ -1406,42 +1408,52 @@ function addMsgReaction(spId, msgIdx, emoji) {
     spaces[spId] = sp;
     localStorage.setItem('velocity_chat_spaces', JSON.stringify(spaces));
     selectChatSpace(spId);
+
+    broadcastCloudPayload({ type: 'MSG_REACTION', spaceId: spId, msgIdx: msgIdx, emoji: emoji, reactor: curr });
 }
 
 function attachQuickPoll(spId) {
     const question = prompt("Enter poll question for the chat:");
     if (!question || !question.trim()) return;
-    const curr = localStorage.getItem('velocity_active_user') || 'you';
+    const rawCurr = localStorage.getItem('velocity_active_user') || 'you';
+    const curr = rawCurr.toLowerCase().trim();
     const spaces = JSON.parse(localStorage.getItem('velocity_chat_spaces') || '{}');
     const sp = spaces[spId];
     if (!sp) return;
-    sp.messages = sp.messages || [];
-    sp.messages.push({
+    const msgObj = {
         sender: curr,
         text: `📊 **Live Poll:** ${question.trim()}\n👍 Yes (Vote below)\n👎 No (Vote below)`,
         time: Date.now(),
         reactions: { '👍': 1, '👎': 0 }
-    });
+    };
+    sp.messages = sp.messages || [];
+    sp.messages.push(msgObj);
     spaces[spId] = sp;
     localStorage.setItem('velocity_chat_spaces', JSON.stringify(spaces));
     selectChatSpace(spId);
+
+    broadcastCloudPayload({ type: 'CHAT_MESSAGE', spaceId: spId, msg: msgObj });
 }
 
 function attachMatchRecap(spId) {
-    const curr = localStorage.getItem('velocity_active_user') || 'you';
+    const rawCurr = localStorage.getItem('velocity_active_user') || 'you';
+    const curr = rawCurr.toLowerCase().trim();
     const spaces = JSON.parse(localStorage.getItem('velocity_chat_spaces') || '{}');
     const sp = spaces[spId];
     if (!sp) return;
-    sp.messages = sp.messages || [];
-    sp.messages.push({
+    const msgObj = {
         sender: curr,
         text: `⚡ **Live Match Update:** Arsenal 85 Pts (EPL Champions) • PSG won UCL Final on pens!`,
         time: Date.now(),
         reactions: { '🔥': 2, '⚽': 1 }
-    });
+    };
+    sp.messages = sp.messages || [];
+    sp.messages.push(msgObj);
     spaces[spId] = sp;
     localStorage.setItem('velocity_chat_spaces', JSON.stringify(spaces));
     selectChatSpace(spId);
+
+    broadcastCloudPayload({ type: 'CHAT_MESSAGE', spaceId: spId, msg: msgObj });
 }
 
 function selectChatSpace(spId) {
@@ -1616,6 +1628,22 @@ function initGlobalCloudSync() {
                         showLiveToast(`💌 New Chat Invitation`, `@${inv.from} invited you to "${inv.spaceName}"`, () => switchTab('chat'));
                         renderSocialChat();
                     }
+                }
+
+                if (payload.type === 'MSG_REACTION') {
+                    const { spaceId, msgIdx, emoji, reactor } = payload;
+                    if ((reactor||'').toLowerCase().trim() === curr) return;
+
+                    const spaces = JSON.parse(localStorage.getItem('velocity_chat_spaces') || '{}');
+                    const sp = spaces[spaceId];
+                    if (!sp || !sp.messages || !sp.messages[msgIdx]) return;
+
+                    sp.messages[msgIdx].reactions = sp.messages[msgIdx].reactions || {};
+                    sp.messages[msgIdx].reactions[emoji] = (sp.messages[msgIdx].reactions[emoji] || 0) + 1;
+                    spaces[spaceId] = sp;
+                    localStorage.setItem('velocity_chat_spaces', JSON.stringify(spaces));
+
+                    if (activeChatSpaceId === spaceId) selectChatSpace(spaceId);
                 }
             } catch(err) {}
         };
