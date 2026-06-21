@@ -44,6 +44,8 @@ function switchTab(tabId) {
         loadBaseballData();
     } else if (tabId === 'cricket') {
         loadCricketData();
+    } else if (tabId === 'chat') {
+        renderSocialChat();
     }
 }
 
@@ -1212,13 +1214,14 @@ function initSocialChatData() {
 
 function renderSocialChat() {
     initSocialChatData();
-    const curr = localStorage.getItem('velocity_active_user') || 'you';
+    const rawCurr = localStorage.getItem('velocity_active_user') || 'you';
+    const curr = rawCurr.toLowerCase().trim();
     const invContainer = document.getElementById('chat-invitations-container');
     const spacesContainer = document.getElementById('chat-spaces-list');
     if (!invContainer || !spacesContainer) return;
 
     const invs = JSON.parse(localStorage.getItem('velocity_chat_invitations') || '[]');
-    const myPendingInvs = invs.filter(i => i.to === curr && i.status === 'pending');
+    const myPendingInvs = invs.filter(i => (i.to || '').toLowerCase().trim() === curr && i.status === 'pending');
 
     if (myPendingInvs.length > 0) {
         invContainer.innerHTML = `
@@ -1244,7 +1247,7 @@ function renderSocialChat() {
     }
 
     const spaces = JSON.parse(localStorage.getItem('velocity_chat_spaces') || '{}');
-    const mySpaces = Object.values(spaces).filter(sp => sp.members && sp.members.includes(curr));
+    const mySpaces = Object.values(spaces).filter(sp => sp.members && sp.members.some(m => (m || '').toLowerCase().trim() === curr));
 
     if (mySpaces.length === 0) {
         spacesContainer.innerHTML = `<p class="text-xs text-gray-500 p-2 text-center">No chat spaces joined yet.</p>`;
@@ -1261,8 +1264,7 @@ function renderSocialChat() {
         }).join('');
     }
 
-    // Verify active space is actually joined by curr
-    if (activeChatSpaceId && (!spaces[activeChatSpaceId] || !spaces[activeChatSpaceId].members.includes(curr))) {
+    if (activeChatSpaceId && (!spaces[activeChatSpaceId] || !spaces[activeChatSpaceId].members.some(m => (m || '').toLowerCase().trim() === curr))) {
         activeChatSpaceId = null;
     }
 
@@ -1282,7 +1284,8 @@ function renderSocialChat() {
 }
 
 function respondInvitation(invId, accept) {
-    const curr = localStorage.getItem('velocity_active_user') || 'you';
+    const rawCurr = localStorage.getItem('velocity_active_user') || 'you';
+    const curr = rawCurr.toLowerCase().trim();
     const invs = JSON.parse(localStorage.getItem('velocity_chat_invitations') || '[]');
     const spaces = JSON.parse(localStorage.getItem('velocity_chat_spaces') || '{}');
     const invIdx = invs.findIndex(i => i.id === invId);
@@ -1305,7 +1308,7 @@ function respondInvitation(invId, accept) {
                 messages: [{ sender: inv.from, text: `Welcome to ${inv.spaceName}!`, time: Date.now(), reactions: {} }]
             };
         } else {
-            if (!sp.members.includes(curr)) sp.members.push(curr);
+            if (!sp.members.some(m => (m || '').toLowerCase().trim() === curr)) sp.members.push(curr);
         }
         spaces[inv.spaceId] = sp;
         localStorage.setItem('velocity_chat_spaces', JSON.stringify(spaces));
@@ -1326,14 +1329,15 @@ function closeCreateSpaceModal() {
 
 function handleCreateSpaceSubmit(e) {
     e.preventDefault();
-    const curr = localStorage.getItem('velocity_active_user') || 'you';
+    const rawCurr = localStorage.getItem('velocity_active_user') || 'you';
+    const curr = rawCurr.toLowerCase().trim();
     const typeRad = document.querySelector('input[name="chat-type"]:checked')?.value || 'direct';
     const isGroup = typeRad === 'group';
     const nameInput = document.getElementById('space-name-input');
     const usersInput = document.getElementById('space-users-input');
     const usersStr = usersInput?.value || '';
     
-    const invitedUsernames = usersStr.split(',').map(s => s.trim().replace(/^@/, '')).filter(Boolean);
+    const invitedUsernames = usersStr.split(',').map(s => s.trim().replace(/^@/, '').toLowerCase()).filter(Boolean);
     if (invitedUsernames.length === 0) return;
 
     const spId = 'sp_' + Date.now();
@@ -1352,8 +1356,9 @@ function handleCreateSpaceSubmit(e) {
     localStorage.setItem('velocity_chat_spaces', JSON.stringify(spaces));
 
     const invs = JSON.parse(localStorage.getItem('velocity_chat_invitations') || '[]');
+    let latestInv = null;
     invitedUsernames.forEach(target => {
-        invs.push({
+        latestInv = {
             id: 'inv_' + Math.random().toString(36).slice(2, 9),
             from: curr,
             to: target,
@@ -1361,7 +1366,8 @@ function handleCreateSpaceSubmit(e) {
             spaceName: spName,
             isGroup: isGroup,
             status: 'pending'
-        });
+        };
+        invs.push(latestInv);
     });
     localStorage.setItem('velocity_chat_invitations', JSON.stringify(invs));
 
@@ -1370,7 +1376,11 @@ function handleCreateSpaceSubmit(e) {
     if (nameInput) nameInput.value = '';
     if (usersInput) usersInput.value = '';
     renderSocialChat();
-    alert(`Invitation(s) created! When invited users log in, they will receive a notification to accept or decline.`);
+
+    const shareObj = { space: spaces[spId], invitation: latestInv };
+    const shareUrl = window.location.origin + window.location.pathname + '?invite=' + btoa(JSON.stringify(shareObj));
+    
+    prompt(`✅ Invitation created!\n\n• If testing on THIS device: Log out & sign in as @${invitedUsernames[0]}.\n• If testing on ANOTHER device (phone/friend's laptop): Copy & send them this shareable link:`, shareUrl);
 }
 
 function renameChatSpace(spId) {
@@ -1644,8 +1654,34 @@ function checkStorageSyncLoop() {
     }
 }
 
+function checkInviteUrlParam() {
+    try {
+        const params = new URLSearchParams(window.location.search);
+        const invB64 = params.get('invite');
+        if (!invB64) return;
+        const decoded = JSON.parse(atob(invB64));
+        if (decoded && decoded.space && decoded.invitation) {
+            const spaces = JSON.parse(localStorage.getItem('velocity_chat_spaces') || '{}');
+            const invs = JSON.parse(localStorage.getItem('velocity_chat_invitations') || '[]');
+            
+            spaces[decoded.space.id] = decoded.space;
+            localStorage.setItem('velocity_chat_spaces', JSON.stringify(spaces));
+            
+            if (!invs.some(i => i.id === decoded.invitation.id)) {
+                invs.push(decoded.invitation);
+                localStorage.setItem('velocity_chat_invitations', JSON.stringify(invs));
+            }
+            
+            window.history.replaceState({}, document.title, window.location.pathname);
+            switchTab('chat');
+            alert(`💌 You received an invite to "${decoded.space.name}" from @${decoded.invitation.from}!`);
+        }
+    } catch(e) { console.error('Invite parse error:', e); }
+}
+
 // --- Init ---
 document.addEventListener('DOMContentLoaded', () => {
+    checkInviteUrlParam();
     checkAuthOnInit();
     renderSocialChat();
     loadFootballData();
