@@ -1,66 +1,66 @@
 [
   {
-    "title": "Hyderabad E-Champions 8/1 * v Palamuru Strikers 141/10 ",
+    "title": "Hyderabad E-Champions 147/3 * v Palamuru Strikers 141/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1542369.html?CMP=OTC-RSS ",
-    "away": "Hyderabad E-Champions 8/1 *",
+    "away": "Hyderabad E-Champions 147/3 *",
     "home": "Palamuru Strikers 141/10",
-    "description": "Hyderabad E-Champions 8/1 * v Palamuru Strikers 141/10 ",
+    "description": "Hyderabad E-Champions 147/3 * v Palamuru Strikers 141/10 ",
     "status": "Live/Recent"
   },
   {
-    "title": "New Zealand Women v Scotland Women 121/5 *",
+    "title": "New Zealand Women 132/4 * v Scotland Women 131/7 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1490695.html?CMP=OTC-RSS ",
-    "away": "New Zealand Women",
-    "home": "Scotland Women 121/5 *",
-    "description": "New Zealand Women v Scotland Women 121/5 *",
+    "away": "New Zealand Women 132/4 *",
+    "home": "Scotland Women 131/7",
+    "description": "New Zealand Women 132/4 * v Scotland Women 131/7 ",
     "status": "Live/Recent"
   },
   {
-    "title": "Durham Women v Surrey Women 118/3 *",
+    "title": "Durham Women 183/4 * v Surrey Women 179/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1513578.html?CMP=OTC-RSS ",
-    "away": "Durham Women",
-    "home": "Surrey Women 118/3 *",
-    "description": "Durham Women v Surrey Women 118/3 *",
+    "away": "Durham Women 183/4 *",
+    "home": "Surrey Women 179/10",
+    "description": "Durham Women 183/4 * v Surrey Women 179/10 ",
     "status": "Live/Recent"
   },
   {
-    "title": "The Blaze Women v Yorkshire Women 70/5 *",
+    "title": "The Blaze Women 151/6 * v Yorkshire Women 150/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1513579.html?CMP=OTC-RSS ",
-    "away": "The Blaze Women",
-    "home": "Yorkshire Women 70/5 *",
-    "description": "The Blaze Women v Yorkshire Women 70/5 *",
+    "away": "The Blaze Women 151/6 *",
+    "home": "Yorkshire Women 150/10",
+    "description": "The Blaze Women 151/6 * v Yorkshire Women 150/10 ",
     "status": "Live/Recent"
   },
   {
-    "title": "Lancashire Women 79/1 * v Essex Women",
+    "title": "Lancashire Women 272/9  v Essex Women 119/9 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1513580.html?CMP=OTC-RSS ",
-    "away": "Lancashire Women 79/1 *",
-    "home": "Essex Women",
-    "description": "Lancashire Women 79/1 * v Essex Women",
+    "away": "Lancashire Women 272/9",
+    "home": "Essex Women 119/9 *",
+    "description": "Lancashire Women 272/9  v Essex Women 119/9 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Ireland Women v Sri Lanka Women",
+    "title": "Ireland Women 130/5  v Sri Lanka Women 134/1 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1490696.html?CMP=OTC-RSS ",
-    "away": "Ireland Women",
-    "home": "Sri Lanka Women",
-    "description": "Ireland Women v Sri Lanka Women",
+    "away": "Ireland Women 130/5",
+    "home": "Sri Lanka Women 134/1 *",
+    "description": "Ireland Women 130/5  v Sri Lanka Women 134/1 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Medak Falcons v Ranga Reddy Risers",
+    "title": "Medak Falcons 164/8  v Ranga Reddy Risers 167/5 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1542370.html?CMP=OTC-RSS ",
-    "away": "Medak Falcons",
-    "home": "Ranga Reddy Risers",
-    "description": "Medak Falcons v Ranga Reddy Risers",
+    "away": "Medak Falcons 164/8",
+    "home": "Ranga Reddy Risers 167/5 *",
+    "description": "Medak Falcons 164/8  v Ranga Reddy Risers 167/5 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Chota Nagpur Royals v Jamshedpur Steelers",
+    "title": "Chota Nagpur Royals 81/2 * v Jamshedpur Steelers 180/8 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1540659.html?CMP=OTC-RSS ",
-    "away": "Chota Nagpur Royals",
-    "home": "Jamshedpur Steelers",
-    "description": "Chota Nagpur Royals v Jamshedpur Steelers",
+    "away": "Chota Nagpur Royals 81/2 *",
+    "home": "Jamshedpur Steelers 180/8",
+    "description": "Chota Nagpur Royals 81/2 * v Jamshedpur Steelers 180/8 ",
     "status": "Live/Recent"
   },
   {
@@ -69,14 +69,6 @@
     "away": "Australia Women",
     "home": "Pakistan Women",
     "description": "Australia Women v Pakistan Women",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "England A Women v India A Women",
-    "link": "http://www.cricinfo.com/ci/engine/match/1542427.html?CMP=OTC-RSS ",
-    "away": "England A Women",
-    "home": "India A Women",
-    "description": "England A Women v India A Women",
     "status": "Live/Recent"
   }
 ]
