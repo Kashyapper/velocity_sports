@@ -1,18 +1,10 @@
 [
   {
-    "title": "England Women 186/7  v West Indies Women 148/5 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1490698.html?CMP=OTC-RSS ",
-    "away": "England Women 186/7",
-    "home": "West Indies Women 148/5 *",
-    "description": "England Women 186/7  v West Indies Women 148/5 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "San Francisco Unicorns v Texas Super Kings",
+    "title": "San Francisco Unicorns 27/1 * v Texas Super Kings 161/8 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1528564.html?CMP=OTC-RSS ",
-    "away": "San Francisco Unicorns",
-    "home": "Texas Super Kings",
-    "description": "San Francisco Unicorns v Texas Super Kings",
+    "away": "San Francisco Unicorns 27/1 *",
+    "home": "Texas Super Kings 161/8",
+    "description": "San Francisco Unicorns 27/1 * v Texas Super Kings 161/8 ",
     "status": "Live/Recent"
   },
   {
@@ -61,14 +53,6 @@
     "away": "Netherlands Women",
     "home": "South Africa Women",
     "description": "Netherlands Women v South Africa Women",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "England A Women v India A Women",
-    "link": "http://www.cricinfo.com/ci/engine/match/1542428.html?CMP=OTC-RSS ",
-    "away": "England A Women",
-    "home": "India A Women",
-    "description": "England A Women v India A Women",
     "status": "Live/Recent"
   }
 ]
