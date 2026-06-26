@@ -8,35 +8,19 @@
     "status": "Live/Recent"
   },
   {
-    "title": "England 212/2 * v New Zealand 438/10 ",
+    "title": "England 223/2 * v New Zealand 438/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1496573.html?CMP=OTC-RSS ",
-    "away": "England 212/2 *",
+    "away": "England 223/2 *",
     "home": "New Zealand 438/10",
-    "description": "England 212/2 * v New Zealand 438/10 ",
+    "description": "England 223/2 * v New Zealand 438/10 ",
     "status": "Live/Recent"
   },
   {
-    "title": "West Indies 119/3 * v Sri Lanka 308/10 ",
+    "title": "West Indies 170/5 * v Sri Lanka 308/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1538311.html?CMP=OTC-RSS ",
-    "away": "West Indies 119/3 *",
+    "away": "West Indies 170/5 *",
     "home": "Sri Lanka 308/10",
-    "description": "West Indies 119/3 * v Sri Lanka 308/10 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Sri Lanka Emerging Players 273/10 * v West Indies Academy 349/4 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1539887.html?CMP=OTC-RSS ",
-    "away": "Sri Lanka Emerging Players 273/10 *",
-    "home": "West Indies Academy 349/4",
-    "description": "Sri Lanka Emerging Players 273/10 * v West Indies Academy 349/4 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Anurag Nalgonda Knights 259/5  v Warangal Warriors 168/10 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1542375.html?CMP=OTC-RSS ",
-    "away": "Anurag Nalgonda Knights 259/5",
-    "home": "Warangal Warriors 168/10 *",
-    "description": "Anurag Nalgonda Knights 259/5  v Warangal Warriors 168/10 *",
+    "description": "West Indies 170/5 * v Sri Lanka 308/10 ",
     "status": "Live/Recent"
   },
   {
@@ -56,19 +40,19 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Anvita Khammam Aces 213/6  v Karimnagar Diamonds 192/7 *",
+    "title": "Anvita Khammam Aces 213/6  v Karimnagar Diamonds 206/9 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1542376.html?CMP=OTC-RSS ",
     "away": "Anvita Khammam Aces 213/6",
-    "home": "Karimnagar Diamonds 192/7 *",
-    "description": "Anvita Khammam Aces 213/6  v Karimnagar Diamonds 192/7 *",
+    "home": "Karimnagar Diamonds 206/9 *",
+    "description": "Anvita Khammam Aces 213/6  v Karimnagar Diamonds 206/9 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Chambal Ghariyals 224/5  v Royal Nimar Eagles 36/1 *",
+    "title": "Chambal Ghariyals 224/5  v Royal Nimar Eagles 193/7 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1540718.html?CMP=OTC-RSS ",
     "away": "Chambal Ghariyals 224/5",
-    "home": "Royal Nimar Eagles 36/1 *",
-    "description": "Chambal Ghariyals 224/5  v Royal Nimar Eagles 36/1 *",
+    "home": "Royal Nimar Eagles 193/7 *",
+    "description": "Chambal Ghariyals 224/5  v Royal Nimar Eagles 193/7 *",
     "status": "Live/Recent"
   },
   {
@@ -88,75 +72,75 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Scotland Women v Sri Lanka Women",
+    "title": "Scotland Women 151/6  v Sri Lanka Women 14 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1490701.html?CMP=OTC-RSS ",
-    "away": "Scotland Women",
-    "home": "Sri Lanka Women",
-    "description": "Scotland Women v Sri Lanka Women",
+    "away": "Scotland Women 151/6",
+    "home": "Sri Lanka Women 14 *",
+    "description": "Scotland Women 151/6  v Sri Lanka Women 14 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Somerset v Gloucestershire",
+    "title": "Somerset 194/7  v Gloucestershire 27 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1512832.html?CMP=OTC-RSS ",
-    "away": "Somerset",
-    "home": "Gloucestershire",
-    "description": "Somerset v Gloucestershire",
+    "away": "Somerset 194/7",
+    "home": "Gloucestershire 27 *",
+    "description": "Somerset 194/7  v Gloucestershire 27 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Glamorgan v Middlesex",
+    "title": "Glamorgan 12/1 * v Middlesex 153/7 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1512830.html?CMP=OTC-RSS ",
-    "away": "Glamorgan",
-    "home": "Middlesex",
-    "description": "Glamorgan v Middlesex",
+    "away": "Glamorgan 12/1 *",
+    "home": "Middlesex 153/7",
+    "description": "Glamorgan 12/1 * v Middlesex 153/7 ",
     "status": "Live/Recent"
   },
   {
-    "title": "Northamptonshire v Essex",
+    "title": "Northamptonshire 238/6  v Essex 24/1 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1512833.html?CMP=OTC-RSS ",
-    "away": "Northamptonshire",
-    "home": "Essex",
-    "description": "Northamptonshire v Essex",
+    "away": "Northamptonshire 238/6",
+    "home": "Essex 24/1 *",
+    "description": "Northamptonshire 238/6  v Essex 24/1 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Leicestershire v Lancashire",
+    "title": "Leicestershire 156/7  v Lancashire 17/1 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1512835.html?CMP=OTC-RSS ",
-    "away": "Leicestershire",
-    "home": "Lancashire",
-    "description": "Leicestershire v Lancashire",
+    "away": "Leicestershire 156/7",
+    "home": "Lancashire 17/1 *",
+    "description": "Leicestershire 156/7  v Lancashire 17/1 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Warwickshire v Worcestershire",
+    "title": "Warwickshire 200/6 * v Worcestershire",
     "link": "http://www.cricinfo.com/ci/engine/match/1512829.html?CMP=OTC-RSS ",
-    "away": "Warwickshire",
+    "away": "Warwickshire 200/6 *",
     "home": "Worcestershire",
-    "description": "Warwickshire v Worcestershire",
+    "description": "Warwickshire 200/6 * v Worcestershire",
     "status": "Live/Recent"
   },
   {
-    "title": "Hampshire v Yorkshire",
+    "title": "Hampshire v Yorkshire 121/6 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1512836.html?CMP=OTC-RSS ",
     "away": "Hampshire",
-    "home": "Yorkshire",
-    "description": "Hampshire v Yorkshire",
+    "home": "Yorkshire 121/6 *",
+    "description": "Hampshire v Yorkshire 121/6 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Kent v Nottinghamshire",
+    "title": "Kent 148/5 * v Nottinghamshire",
     "link": "http://www.cricinfo.com/ci/engine/match/1512834.html?CMP=OTC-RSS ",
-    "away": "Kent",
+    "away": "Kent 148/5 *",
     "home": "Nottinghamshire",
-    "description": "Kent v Nottinghamshire",
+    "description": "Kent 148/5 * v Nottinghamshire",
     "status": "Live/Recent"
   },
   {
-    "title": "Sussex v Surrey",
+    "title": "Sussex 171/8 * v Surrey",
     "link": "http://www.cricinfo.com/ci/engine/match/1512831.html?CMP=OTC-RSS ",
-    "away": "Sussex",
+    "away": "Sussex 171/8 *",
     "home": "Surrey",
-    "description": "Sussex v Surrey",
+    "description": "Sussex 171/8 * v Surrey",
     "status": "Live/Recent"
   },
   {
@@ -173,6 +157,22 @@
     "away": "San Francisco Unicorns",
     "home": "Seattle Orcas",
     "description": "San Francisco Unicorns v Seattle Orcas",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Hyderabad E-Champions v Medak Falcons",
+    "link": "http://www.cricinfo.com/ci/engine/match/1542377.html?CMP=OTC-RSS ",
+    "away": "Hyderabad E-Champions",
+    "home": "Medak Falcons",
+    "description": "Hyderabad E-Champions v Medak Falcons",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Palamuru Strikers v Ranga Reddy Risers",
+    "link": "http://www.cricinfo.com/ci/engine/match/1542378.html?CMP=OTC-RSS ",
+    "away": "Palamuru Strikers",
+    "home": "Ranga Reddy Risers",
+    "description": "Palamuru Strikers v Ranga Reddy Risers",
     "status": "Live/Recent"
   }
 ]
