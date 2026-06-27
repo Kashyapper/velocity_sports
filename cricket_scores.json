@@ -16,19 +16,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "West Indies 465/5 * v Sri Lanka 308/10 ",
+    "title": "West Indies 554/5 * v Sri Lanka 308/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1538311.html?CMP=OTC-RSS ",
-    "away": "West Indies 465/5 *",
+    "away": "West Indies 554/5 *",
     "home": "Sri Lanka 308/10",
-    "description": "West Indies 465/5 * v Sri Lanka 308/10 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Hyderabad E-Champions 240/8  v Medak Falcons 194/9 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1542377.html?CMP=OTC-RSS ",
-    "away": "Hyderabad E-Champions 240/8",
-    "home": "Medak Falcons 194/9 *",
-    "description": "Hyderabad E-Champions 240/8  v Medak Falcons 194/9 *",
+    "description": "West Indies 554/5 * v Sri Lanka 308/10 ",
     "status": "Live/Recent"
   },
   {
@@ -64,11 +56,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "England Women v New Zealand Women 74/3 *",
+    "title": "England Women 65/1 * v New Zealand Women 163/6 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1490704.html?CMP=OTC-RSS ",
-    "away": "England Women",
-    "home": "New Zealand Women 74/3 *",
-    "description": "England Women v New Zealand Women 74/3 *",
+    "away": "England Women 65/1 *",
+    "home": "New Zealand Women 163/6",
+    "description": "England Women 65/1 * v New Zealand Women 163/6 ",
     "status": "Live/Recent"
   },
   {
@@ -85,6 +77,14 @@
     "away": "Texas Super Kings",
     "home": "Washington Freedom",
     "description": "Texas Super Kings v Washington Freedom",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Karimnagar Diamonds v Warangal Warriors",
+    "link": "http://www.cricinfo.com/ci/engine/match/1542379.html?CMP=OTC-RSS ",
+    "away": "Karimnagar Diamonds",
+    "home": "Warangal Warriors",
+    "description": "Karimnagar Diamonds v Warangal Warriors",
     "status": "Live/Recent"
   }
 ]
