@@ -1,10 +1,10 @@
 [
   {
-    "title": "Sri Lanka A 330/10  v India A 48 &  452/6 *",
+    "title": "Sri Lanka A 330/10  v India A 452/6 &  48 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1541672.html?CMP=OTC-RSS ",
     "away": "Sri Lanka A 330/10",
-    "home": "India A 48 &  452/6 *",
-    "description": "Sri Lanka A 330/10  v India A 48 &  452/6 *",
+    "home": "India A 452/6 &  48 *",
+    "description": "Sri Lanka A 330/10  v India A 452/6 &  48 *",
     "status": "Live/Recent"
   },
   {
@@ -56,11 +56,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Los Angeles Knight Riders v MI New York 39/2 *",
+    "title": "Los Angeles Knight Riders v MI New York 108/6 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1528568.html?CMP=OTC-RSS ",
     "away": "Los Angeles Knight Riders",
-    "home": "MI New York 39/2 *",
-    "description": "Los Angeles Knight Riders v MI New York 39/2 *",
+    "home": "MI New York 108/6 *",
+    "description": "Los Angeles Knight Riders v MI New York 108/6 *",
     "status": "Live/Recent"
   },
   {
@@ -69,6 +69,14 @@
     "away": "Texas Super Kings",
     "home": "Washington Freedom",
     "description": "Texas Super Kings v Washington Freedom",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Zimbabwe v Bangladesh",
+    "link": "http://www.cricinfo.com/ci/engine/match/1538297.html?CMP=OTC-RSS ",
+    "away": "Zimbabwe",
+    "home": "Bangladesh",
+    "description": "Zimbabwe v Bangladesh",
     "status": "Live/Recent"
   },
   {
