@@ -1,18 +1,18 @@
 [
   {
-    "title": "Sri Lanka A 330/10  v India A 172/4 &  452/6 *",
+    "title": "Sri Lanka A 37/2 &  330/10 * v India A 189/8 &  452/6 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1541672.html?CMP=OTC-RSS ",
-    "away": "Sri Lanka A 330/10",
-    "home": "India A 172/4 &  452/6 *",
-    "description": "Sri Lanka A 330/10  v India A 172/4 &  452/6 *",
+    "away": "Sri Lanka A 37/2 &  330/10 *",
+    "home": "India A 189/8 &  452/6",
+    "description": "Sri Lanka A 37/2 &  330/10 * v India A 189/8 &  452/6 ",
     "status": "Live/Recent"
   },
   {
-    "title": "England 354/10  v New Zealand 120/3 &  438/10 *",
+    "title": "England 354/10  v New Zealand 123/3 &  438/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1496573.html?CMP=OTC-RSS ",
     "away": "England 354/10",
-    "home": "New Zealand 120/3 &  438/10 *",
-    "description": "England 354/10  v New Zealand 120/3 &  438/10 *",
+    "home": "New Zealand 123/3 &  438/10 *",
+    "description": "England 354/10  v New Zealand 123/3 &  438/10 *",
     "status": "Live/Recent"
   },
   {
@@ -24,43 +24,27 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Los Angeles Knight Riders 103/10 * v MI New York 144/6 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1528568.html?CMP=OTC-RSS ",
-    "away": "Los Angeles Knight Riders 103/10 *",
-    "home": "MI New York 144/6",
-    "description": "Los Angeles Knight Riders 103/10 * v MI New York 144/6 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Texas Super Kings 185/4  v Washington Freedom 187/9 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1528569.html?CMP=OTC-RSS ",
-    "away": "Texas Super Kings 185/4",
-    "home": "Washington Freedom 187/9 *",
-    "description": "Texas Super Kings 185/4  v Washington Freedom 187/9 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Zimbabwe v Bangladesh",
+    "title": "Zimbabwe v Bangladesh 76/2 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1538297.html?CMP=OTC-RSS ",
     "away": "Zimbabwe",
-    "home": "Bangladesh",
-    "description": "Zimbabwe v Bangladesh",
+    "home": "Bangladesh 76/2 *",
+    "description": "Zimbabwe v Bangladesh 76/2 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Karimnagar Diamonds v Warangal Warriors",
+    "title": "Karimnagar Diamonds 185/3 * v Warangal Warriors",
     "link": "http://www.cricinfo.com/ci/engine/match/1542379.html?CMP=OTC-RSS ",
-    "away": "Karimnagar Diamonds",
+    "away": "Karimnagar Diamonds 185/3 *",
     "home": "Warangal Warriors",
-    "description": "Karimnagar Diamonds v Warangal Warriors",
+    "description": "Karimnagar Diamonds 185/3 * v Warangal Warriors",
     "status": "Live/Recent"
   },
   {
-    "title": "Bangladesh Women v South Africa Women",
+    "title": "Bangladesh Women 26/2 * v South Africa Women",
     "link": "http://www.cricinfo.com/ci/engine/match/1490705.html?CMP=OTC-RSS ",
-    "away": "Bangladesh Women",
+    "away": "Bangladesh Women 26/2 *",
     "home": "South Africa Women",
-    "description": "Bangladesh Women v South Africa Women",
+    "description": "Bangladesh Women 26/2 * v South Africa Women",
     "status": "Live/Recent"
   },
   {
@@ -173,6 +157,22 @@
     "away": "Kent",
     "home": "Hampshire",
     "description": "Kent v Hampshire",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Los Angeles Knight Riders v Seattle Orcas",
+    "link": "http://www.cricinfo.com/ci/engine/match/1528570.html?CMP=OTC-RSS ",
+    "away": "Los Angeles Knight Riders",
+    "home": "Seattle Orcas",
+    "description": "Los Angeles Knight Riders v Seattle Orcas",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "San Francisco Unicorns v Washington Freedom",
+    "link": "http://www.cricinfo.com/ci/engine/match/1528571.html?CMP=OTC-RSS ",
+    "away": "San Francisco Unicorns",
+    "home": "Washington Freedom",
+    "description": "San Francisco Unicorns v Washington Freedom",
     "status": "Live/Recent"
   }
 ]
