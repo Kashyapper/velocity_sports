@@ -1,26 +1,18 @@
 [
   {
-    "title": "Sri Lanka A 330/10 &  70/2 * v India A 452/6 &  189/8 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1541672.html?CMP=OTC-RSS ",
-    "away": "Sri Lanka A 330/10 &  70/2 *",
-    "home": "India A 452/6 &  189/8",
-    "description": "Sri Lanka A 330/10 &  70/2 * v India A 452/6 &  189/8 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "England 103/4 &  354/10 * v New Zealand 288/9 &  438/10 ",
+    "title": "England 354/10 &  103/4 * v New Zealand 288/9 &  438/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1496573.html?CMP=OTC-RSS ",
-    "away": "England 103/4 &  354/10 *",
+    "away": "England 354/10 &  103/4 *",
     "home": "New Zealand 288/9 &  438/10",
-    "description": "England 103/4 &  354/10 * v New Zealand 288/9 &  438/10 ",
+    "description": "England 354/10 &  103/4 * v New Zealand 288/9 &  438/10 ",
     "status": "Live/Recent"
   },
   {
-    "title": "West Indies 626/9  v Sri Lanka 308/10 &  101/10 *",
+    "title": "West Indies 626/9  v Sri Lanka 101/10 &  308/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1538311.html?CMP=OTC-RSS ",
     "away": "West Indies 626/9",
-    "home": "Sri Lanka 308/10 &  101/10 *",
-    "description": "West Indies 626/9  v Sri Lanka 308/10 &  101/10 *",
+    "home": "Sri Lanka 101/10 &  308/10 *",
+    "description": "West Indies 626/9  v Sri Lanka 101/10 &  308/10 *",
     "status": "Live/Recent"
   },
   {
@@ -29,14 +21,6 @@
     "away": "Zimbabwe 136/1 *",
     "home": "Bangladesh 140/10",
     "description": "Zimbabwe 136/1 * v Bangladesh 140/10 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Karimnagar Diamonds 209/6  v Warangal Warriors 207/6 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1542379.html?CMP=OTC-RSS ",
-    "away": "Karimnagar Diamonds 209/6",
-    "home": "Warangal Warriors 207/6 *",
-    "description": "Karimnagar Diamonds 209/6  v Warangal Warriors 207/6 *",
     "status": "Live/Recent"
   },
   {
@@ -173,6 +157,22 @@
     "away": "San Francisco Unicorns",
     "home": "Washington Freedom",
     "description": "San Francisco Unicorns v Washington Freedom",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Anurag Nalgonda Knights v Palamuru Strikers",
+    "link": "http://www.cricinfo.com/ci/engine/match/1542380.html?CMP=OTC-RSS ",
+    "away": "Anurag Nalgonda Knights",
+    "home": "Palamuru Strikers",
+    "description": "Anurag Nalgonda Knights v Palamuru Strikers",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Hyderabad E-Champions v Anvita Khammam Aces",
+    "link": "http://www.cricinfo.com/ci/engine/match/1542381.html?CMP=OTC-RSS ",
+    "away": "Hyderabad E-Champions",
+    "home": "Anvita Khammam Aces",
+    "description": "Hyderabad E-Champions v Anvita Khammam Aces",
     "status": "Live/Recent"
   }
 ]
