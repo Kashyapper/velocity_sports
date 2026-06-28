@@ -8,11 +8,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "England 354/10  v New Zealand 120/3 &  438/10 *",
+    "title": "England 354/10  v New Zealand 438/10 &  120/3 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1496573.html?CMP=OTC-RSS ",
     "away": "England 354/10",
-    "home": "New Zealand 120/3 &  438/10 *",
-    "description": "England 354/10  v New Zealand 120/3 &  438/10 *",
+    "home": "New Zealand 438/10 &  120/3 *",
+    "description": "England 354/10  v New Zealand 438/10 &  120/3 *",
     "status": "Live/Recent"
   },
   {
@@ -24,27 +24,19 @@
     "status": "Live/Recent"
   },
   {
-    "title": "England Women 164/1 * v New Zealand Women 163/6 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1490704.html?CMP=OTC-RSS ",
-    "away": "England Women 164/1 *",
-    "home": "New Zealand Women 163/6",
-    "description": "England Women 164/1 * v New Zealand Women 163/6 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Los Angeles Knight Riders 49 * v MI New York 144/6 ",
+    "title": "Los Angeles Knight Riders 103/10 * v MI New York 144/6 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1528568.html?CMP=OTC-RSS ",
-    "away": "Los Angeles Knight Riders 49 *",
+    "away": "Los Angeles Knight Riders 103/10 *",
     "home": "MI New York 144/6",
-    "description": "Los Angeles Knight Riders 49 * v MI New York 144/6 ",
+    "description": "Los Angeles Knight Riders 103/10 * v MI New York 144/6 ",
     "status": "Live/Recent"
   },
   {
-    "title": "Texas Super Kings v Washington Freedom",
+    "title": "Texas Super Kings 153/4 * v Washington Freedom",
     "link": "http://www.cricinfo.com/ci/engine/match/1528569.html?CMP=OTC-RSS ",
-    "away": "Texas Super Kings",
+    "away": "Texas Super Kings 153/4 *",
     "home": "Washington Freedom",
-    "description": "Texas Super Kings v Washington Freedom",
+    "description": "Texas Super Kings 153/4 * v Washington Freedom",
     "status": "Live/Recent"
   },
   {
