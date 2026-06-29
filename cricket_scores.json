@@ -1,10 +1,10 @@
 [
   {
-    "title": "England 354/10 &  212/10 * v New Zealand 438/10 &  288/9 ",
+    "title": "England 212/10 &  354/10 * v New Zealand 438/10 &  288/9 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1496573.html?CMP=OTC-RSS ",
-    "away": "England 354/10 &  212/10 *",
+    "away": "England 212/10 &  354/10 *",
     "home": "New Zealand 438/10 &  288/9",
-    "description": "England 354/10 &  212/10 * v New Zealand 438/10 &  288/9 ",
+    "description": "England 212/10 &  354/10 * v New Zealand 438/10 &  288/9 ",
     "status": "Live/Recent"
   },
   {
@@ -16,19 +16,19 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Anurag Nalgonda Knights 149/4 * v Palamuru Strikers 148/9 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1542380.html?CMP=OTC-RSS ",
-    "away": "Anurag Nalgonda Knights 149/4 *",
-    "home": "Palamuru Strikers 148/9",
-    "description": "Anurag Nalgonda Knights 149/4 * v Palamuru Strikers 148/9 ",
-    "status": "Live/Recent"
-  },
-  {
     "title": "Hyderabad E-Champions 211/9  v Anvita Khammam Aces 155/9 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1542381.html?CMP=OTC-RSS ",
     "away": "Hyderabad E-Champions 211/9",
     "home": "Anvita Khammam Aces 155/9 *",
     "description": "Hyderabad E-Champions 211/9  v Anvita Khammam Aces 155/9 *",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Karimnagar Diamonds v Medak Falcons",
+    "link": "http://www.cricinfo.com/ci/engine/match/1542382.html?CMP=OTC-RSS ",
+    "away": "Karimnagar Diamonds",
+    "home": "Medak Falcons",
+    "description": "Karimnagar Diamonds v Medak Falcons",
     "status": "Live/Recent"
   }
 ]
