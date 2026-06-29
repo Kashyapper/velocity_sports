@@ -1,18 +1,10 @@
 [
   {
-    "title": "England 103/4 &  354/10 * v New Zealand 438/10 &  288/9 ",
+    "title": "England 103/4 &  354/10 * v New Zealand 288/9 &  438/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1496573.html?CMP=OTC-RSS ",
     "away": "England 103/4 &  354/10 *",
-    "home": "New Zealand 438/10 &  288/9",
-    "description": "England 103/4 &  354/10 * v New Zealand 438/10 &  288/9 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "West Indies 626/9  v Sri Lanka 101/10 &  308/10 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1538311.html?CMP=OTC-RSS ",
-    "away": "West Indies 626/9",
-    "home": "Sri Lanka 101/10 &  308/10 *",
-    "description": "West Indies 626/9  v Sri Lanka 101/10 &  308/10 *",
+    "home": "New Zealand 288/9 &  438/10",
+    "description": "England 103/4 &  354/10 * v New Zealand 288/9 &  438/10 ",
     "status": "Live/Recent"
   },
   {
@@ -24,19 +16,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Los Angeles Knight Riders 134/8 * v Seattle Orcas 154/7 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1528570.html?CMP=OTC-RSS ",
-    "away": "Los Angeles Knight Riders 134/8 *",
-    "home": "Seattle Orcas 154/7",
-    "description": "Los Angeles Knight Riders 134/8 * v Seattle Orcas 154/7 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "San Francisco Unicorns v Washington Freedom 65/2 *",
+    "title": "San Francisco Unicorns 193/2 * v Washington Freedom 190/4 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1528571.html?CMP=OTC-RSS ",
-    "away": "San Francisco Unicorns",
-    "home": "Washington Freedom 65/2 *",
-    "description": "San Francisco Unicorns v Washington Freedom 65/2 *",
+    "away": "San Francisco Unicorns 193/2 *",
+    "home": "Washington Freedom 190/4",
+    "description": "San Francisco Unicorns 193/2 * v Washington Freedom 190/4 ",
     "status": "Live/Recent"
   },
   {
