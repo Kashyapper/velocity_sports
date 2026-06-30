@@ -8,19 +8,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Karimnagar Diamonds 232/4  v Medak Falcons 99/10 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1542382.html?CMP=OTC-RSS ",
-    "away": "Karimnagar Diamonds 232/4",
-    "home": "Medak Falcons 99/10 *",
-    "description": "Karimnagar Diamonds 232/4  v Medak Falcons 99/10 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Leinster Lightning 211/6  v North-West Warriors 143/2 *",
+    "title": "Leinster Lightning 211/6  v North-West Warriors 215/4 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1534724.html?CMP=OTC-RSS ",
     "away": "Leinster Lightning 211/6",
-    "home": "North-West Warriors 143/2 *",
-    "description": "Leinster Lightning 211/6  v North-West Warriors 143/2 *",
+    "home": "North-West Warriors 215/4 *",
+    "description": "Leinster Lightning 211/6  v North-West Warriors 215/4 *",
     "status": "Live/Recent"
   },
   {
@@ -29,6 +21,22 @@
     "away": "Australia Women 127/2 *",
     "home": "West Indies Women 125/7",
     "description": "Australia Women 127/2 * v West Indies Women 125/7 ",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Hyderabad E-Champions v Warangal Warriors",
+    "link": "http://www.cricinfo.com/ci/engine/match/1542383.html?CMP=OTC-RSS ",
+    "away": "Hyderabad E-Champions",
+    "home": "Warangal Warriors",
+    "description": "Hyderabad E-Champions v Warangal Warriors",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Anurag Nalgonda Knights v Anvita Khammam Aces",
+    "link": "http://www.cricinfo.com/ci/engine/match/1542384.html?CMP=OTC-RSS ",
+    "away": "Anurag Nalgonda Knights",
+    "home": "Anvita Khammam Aces",
+    "description": "Anurag Nalgonda Knights v Anvita Khammam Aces",
     "status": "Live/Recent"
   }
 ]
