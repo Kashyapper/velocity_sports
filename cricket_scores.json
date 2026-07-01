@@ -1,18 +1,18 @@
 [
   {
-    "title": "Amo Sharks 14/1 * v Band-e-Amir Dragons 133/9 ",
+    "title": "Amo Sharks 134/2 * v Band-e-Amir Dragons 133/9 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1543637.html?CMP=OTC-RSS ",
-    "away": "Amo Sharks 14/1 *",
+    "away": "Amo Sharks 134/2 *",
     "home": "Band-e-Amir Dragons 133/9",
-    "description": "Amo Sharks 14/1 * v Band-e-Amir Dragons 133/9 ",
+    "description": "Amo Sharks 134/2 * v Band-e-Amir Dragons 133/9 ",
     "status": "Live/Recent"
   },
   {
-    "title": "Hyderabad E-Champions v Warangal Warriors",
+    "title": "Hyderabad E-Champions v Warangal Warriors 173/9 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1542383.html?CMP=OTC-RSS ",
     "away": "Hyderabad E-Champions",
-    "home": "Warangal Warriors",
-    "description": "Hyderabad E-Champions v Warangal Warriors",
+    "home": "Warangal Warriors 173/9 *",
+    "description": "Hyderabad E-Champions v Warangal Warriors 173/9 *",
     "status": "Live/Recent"
   },
   {
@@ -85,6 +85,14 @@
     "away": "Essex",
     "home": "Surrey",
     "description": "Essex v Surrey",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Los Angeles Knight Riders v Washington Freedom",
+    "link": "http://www.cricinfo.com/ci/engine/match/1528572.html?CMP=OTC-RSS ",
+    "away": "Los Angeles Knight Riders",
+    "home": "Washington Freedom",
+    "description": "Los Angeles Knight Riders v Washington Freedom",
     "status": "Live/Recent"
   }
 ]
