@@ -1,10 +1,10 @@
 [
   {
-    "title": "West Indies 302/4 * v Sri Lanka 549/9 ",
+    "title": "West Indies 318/4 * v Sri Lanka 549/9 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1538312.html?CMP=OTC-RSS ",
-    "away": "West Indies 302/4 *",
+    "away": "West Indies 318/4 *",
     "home": "Sri Lanka 549/9",
-    "description": "West Indies 302/4 * v Sri Lanka 549/9 ",
+    "description": "West Indies 318/4 * v Sri Lanka 549/9 ",
     "status": "Live/Recent"
   },
   {
@@ -136,11 +136,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Seattle Orcas v Texas Super Kings",
+    "title": "Seattle Orcas 65/5 * v Texas Super Kings",
     "link": "http://www.cricinfo.com/ci/engine/match/1528577.html?CMP=OTC-RSS ",
-    "away": "Seattle Orcas",
+    "away": "Seattle Orcas 65/5 *",
     "home": "Texas Super Kings",
-    "description": "Seattle Orcas v Texas Super Kings",
+    "description": "Seattle Orcas 65/5 * v Texas Super Kings",
     "status": "Live/Recent"
   },
   {
@@ -165,6 +165,14 @@
     "away": "Boost Defenders",
     "home": "Mis Ainak Knights",
     "description": "Boost Defenders v Mis Ainak Knights",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Zimbabwe v Bangladesh",
+    "link": "http://www.cricinfo.com/ci/engine/match/1538298.html?CMP=OTC-RSS ",
+    "away": "Zimbabwe",
+    "home": "Bangladesh",
+    "description": "Zimbabwe v Bangladesh",
     "status": "Live/Recent"
   },
   {
