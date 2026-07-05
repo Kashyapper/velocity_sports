@@ -1,10 +1,10 @@
 [
   {
-    "title": "Sri Lanka A 366/10  v India A 541/8 *",
+    "title": "Sri Lanka A 366/10 &  50/4 * v India A 543/9 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1541673.html?CMP=OTC-RSS ",
-    "away": "Sri Lanka A 366/10",
-    "home": "India A 541/8 *",
-    "description": "Sri Lanka A 366/10  v India A 541/8 *",
+    "away": "Sri Lanka A 366/10 &  50/4 *",
+    "home": "India A 543/9",
+    "description": "Sri Lanka A 366/10 &  50/4 * v India A 543/9 ",
     "status": "Live/Recent"
   },
   {
@@ -16,14 +16,6 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Gloucestershire 191/5  v Surrey 134/10 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1512851.html?CMP=OTC-RSS ",
-    "away": "Gloucestershire 191/5",
-    "home": "Surrey 134/10 *",
-    "description": "Gloucestershire 191/5  v Surrey 134/10 *",
-    "status": "Live/Recent"
-  },
-  {
     "title": "San Francisco Unicorns 126/10  v Washington Freedom 129/5 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1528575.html?CMP=OTC-RSS ",
     "away": "San Francisco Unicorns 126/10",
@@ -32,19 +24,19 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Los Angeles Knight Riders v MI New York",
+    "title": "Los Angeles Knight Riders 165/6  v MI New York 168/4 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1528576.html?CMP=OTC-RSS ",
-    "away": "Los Angeles Knight Riders",
-    "home": "MI New York",
-    "description": "Los Angeles Knight Riders v MI New York",
+    "away": "Los Angeles Knight Riders 165/6",
+    "home": "MI New York 168/4 *",
+    "description": "Los Angeles Knight Riders 165/6  v MI New York 168/4 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Band-e-Amir Dragons v Boost Defenders",
+    "title": "Band-e-Amir Dragons 100/1 * v Boost Defenders",
     "link": "http://www.cricinfo.com/ci/engine/match/1543644.html?CMP=OTC-RSS ",
-    "away": "Band-e-Amir Dragons",
+    "away": "Band-e-Amir Dragons 100/1 *",
     "home": "Boost Defenders",
-    "description": "Band-e-Amir Dragons v Boost Defenders",
+    "description": "Band-e-Amir Dragons 100/1 * v Boost Defenders",
     "status": "Live/Recent"
   },
   {
