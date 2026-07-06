@@ -1,26 +1,10 @@
 [
   {
-    "title": "West Indies 472/8 * v Sri Lanka 549/9 ",
+    "title": "West Indies 499/10  v Sri Lanka 28/1 &  549/9 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1538312.html?CMP=OTC-RSS ",
-    "away": "West Indies 472/8 *",
-    "home": "Sri Lanka 549/9",
-    "description": "West Indies 472/8 * v Sri Lanka 549/9 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Sri Lanka Under-19s 291/2 * v India Under-19s 285/10 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1543686.html?CMP=OTC-RSS ",
-    "away": "Sri Lanka Under-19s 291/2 *",
-    "home": "India Under-19s 285/10",
-    "description": "Sri Lanka Under-19s 291/2 * v India Under-19s 285/10 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Boost Defenders 191/3  v Mis Ainak Knights 173/10 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1543646.html?CMP=OTC-RSS ",
-    "away": "Boost Defenders 191/3",
-    "home": "Mis Ainak Knights 173/10 *",
-    "description": "Boost Defenders 191/3  v Mis Ainak Knights 173/10 *",
+    "away": "West Indies 499/10",
+    "home": "Sri Lanka 28/1 &  549/9 *",
+    "description": "West Indies 499/10  v Sri Lanka 28/1 &  549/9 *",
     "status": "Live/Recent"
   },
   {
@@ -29,22 +13,6 @@
     "away": "Zimbabwe 141/10",
     "home": "Bangladesh 116/10 *",
     "description": "Zimbabwe 141/10  v Bangladesh 116/10 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Anvita Khammam Aces 190/5  v Medak Falcons 171/7 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1542390.html?CMP=OTC-RSS ",
-    "away": "Anvita Khammam Aces 190/5",
-    "home": "Medak Falcons 171/7 *",
-    "description": "Anvita Khammam Aces 190/5  v Medak Falcons 171/7 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Amo Sharks 169/8  v Band-e-Amir Dragons 138/9 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1543647.html?CMP=OTC-RSS ",
-    "away": "Amo Sharks 169/8",
-    "home": "Band-e-Amir Dragons 138/9 *",
-    "description": "Amo Sharks 169/8  v Band-e-Amir Dragons 138/9 *",
     "status": "Live/Recent"
   },
   {
@@ -64,11 +32,27 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Lancashire v Derbyshire 123/7 *",
+    "title": "Lancashire 150/8 * v Derbyshire 150/9 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1512859.html?CMP=OTC-RSS ",
-    "away": "Lancashire",
-    "home": "Derbyshire 123/7 *",
-    "description": "Lancashire v Derbyshire 123/7 *",
+    "away": "Lancashire 150/8 *",
+    "home": "Derbyshire 150/9",
+    "description": "Lancashire 150/8 * v Derbyshire 150/9 ",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Karimnagar Diamonds v Palamuru Strikers",
+    "link": "http://www.cricinfo.com/ci/engine/match/1542392.html?CMP=OTC-RSS ",
+    "away": "Karimnagar Diamonds",
+    "home": "Palamuru Strikers",
+    "description": "Karimnagar Diamonds v Palamuru Strikers",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Ranga Reddy Risers v Warangal Warriors",
+    "link": "http://www.cricinfo.com/ci/engine/match/1542393.html?CMP=OTC-RSS ",
+    "away": "Ranga Reddy Risers",
+    "home": "Warangal Warriors",
+    "description": "Ranga Reddy Risers v Warangal Warriors",
     "status": "Live/Recent"
   }
 ]
