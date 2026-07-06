@@ -8,14 +8,6 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Seattle Orcas 121/9  v Texas Super Kings 112/9 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1528577.html?CMP=OTC-RSS ",
-    "away": "Seattle Orcas 121/9",
-    "home": "Texas Super Kings 112/9 *",
-    "description": "Seattle Orcas 121/9  v Texas Super Kings 112/9 *",
-    "status": "Live/Recent"
-  },
-  {
     "title": "MI New York 104/10  v San Francisco Unicorns 105/5 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1528578.html?CMP=OTC-RSS ",
     "away": "MI New York 104/10",
@@ -24,43 +16,43 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Sri Lanka Under-19s v India Under-19s 77/2 *",
+    "title": "Sri Lanka Under-19s 93/1 * v India Under-19s 285/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1543686.html?CMP=OTC-RSS ",
-    "away": "Sri Lanka Under-19s",
-    "home": "India Under-19s 77/2 *",
-    "description": "Sri Lanka Under-19s v India Under-19s 77/2 *",
+    "away": "Sri Lanka Under-19s 93/1 *",
+    "home": "India Under-19s 285/10",
+    "description": "Sri Lanka Under-19s 93/1 * v India Under-19s 285/10 ",
     "status": "Live/Recent"
   },
   {
-    "title": "Boost Defenders 129/3 * v Mis Ainak Knights",
+    "title": "Boost Defenders 191/3  v Mis Ainak Knights 173/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1543646.html?CMP=OTC-RSS ",
-    "away": "Boost Defenders 129/3 *",
-    "home": "Mis Ainak Knights",
-    "description": "Boost Defenders 129/3 * v Mis Ainak Knights",
+    "away": "Boost Defenders 191/3",
+    "home": "Mis Ainak Knights 173/10 *",
+    "description": "Boost Defenders 191/3  v Mis Ainak Knights 173/10 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Zimbabwe v Bangladesh",
+    "title": "Zimbabwe 100/8 * v Bangladesh",
     "link": "http://www.cricinfo.com/ci/engine/match/1538298.html?CMP=OTC-RSS ",
-    "away": "Zimbabwe",
+    "away": "Zimbabwe 100/8 *",
     "home": "Bangladesh",
-    "description": "Zimbabwe v Bangladesh",
+    "description": "Zimbabwe 100/8 * v Bangladesh",
     "status": "Live/Recent"
   },
   {
-    "title": "Anvita Khammam Aces v Medak Falcons",
+    "title": "Anvita Khammam Aces 143/3 * v Medak Falcons",
     "link": "http://www.cricinfo.com/ci/engine/match/1542390.html?CMP=OTC-RSS ",
-    "away": "Anvita Khammam Aces",
+    "away": "Anvita Khammam Aces 143/3 *",
     "home": "Medak Falcons",
-    "description": "Anvita Khammam Aces v Medak Falcons",
+    "description": "Anvita Khammam Aces 143/3 * v Medak Falcons",
     "status": "Live/Recent"
   },
   {
-    "title": "Amo Sharks v Band-e-Amir Dragons",
+    "title": "Amo Sharks 42 * v Band-e-Amir Dragons",
     "link": "http://www.cricinfo.com/ci/engine/match/1543647.html?CMP=OTC-RSS ",
-    "away": "Amo Sharks",
+    "away": "Amo Sharks 42 *",
     "home": "Band-e-Amir Dragons",
-    "description": "Amo Sharks v Band-e-Amir Dragons",
+    "description": "Amo Sharks 42 * v Band-e-Amir Dragons",
     "status": "Live/Recent"
   },
   {
