@@ -24,14 +24,6 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Bengaluru Blasters 185/5  v Coastal Kings Mangaluru 173/6 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1542338.html?CMP=OTC-RSS ",
-    "away": "Bengaluru Blasters 185/5",
-    "home": "Coastal Kings Mangaluru 173/6 *",
-    "description": "Bengaluru Blasters 185/5  v Coastal Kings Mangaluru 173/6 *",
-    "status": "Live/Recent"
-  },
-  {
     "title": "Durham Women 150/6 * v Essex Women 162/4 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1512936.html?CMP=OTC-RSS ",
     "away": "Durham Women 150/6 *",
@@ -45,14 +37,6 @@
     "away": "The Blaze Women 122/3 *",
     "home": "Somerset Women 118/8",
     "description": "The Blaze Women 122/3 * v Somerset Women 118/8 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Hyderabad E-Champions 160/2 * v Karimnagar Diamonds 157/7 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1542396.html?CMP=OTC-RSS ",
-    "away": "Hyderabad E-Champions 160/2 *",
-    "home": "Karimnagar Diamonds 157/7",
-    "description": "Hyderabad E-Champions 160/2 * v Karimnagar Diamonds 157/7 ",
     "status": "Live/Recent"
   },
   {
@@ -120,19 +104,19 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Warwickshire 172/6 * v Glamorgan 188/4 ",
+    "title": "Warwickshire 191/6 * v Glamorgan 188/4 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1512867.html?CMP=OTC-RSS ",
-    "away": "Warwickshire 172/6 *",
+    "away": "Warwickshire 191/6 *",
     "home": "Glamorgan 188/4",
-    "description": "Warwickshire 172/6 * v Glamorgan 188/4 ",
+    "description": "Warwickshire 191/6 * v Glamorgan 188/4 ",
     "status": "Live/Recent"
   },
   {
-    "title": "Lancashire 216/6  v Yorkshire 140/6 *",
+    "title": "Lancashire 216/6  v Yorkshire 194/8 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1512868.html?CMP=OTC-RSS ",
     "away": "Lancashire 216/6",
-    "home": "Yorkshire 140/6 *",
-    "description": "Lancashire 216/6  v Yorkshire 140/6 *",
+    "home": "Yorkshire 194/8 *",
+    "description": "Lancashire 216/6  v Yorkshire 194/8 *",
     "status": "Live/Recent"
   },
   {
@@ -144,11 +128,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "MI New York 27/2 * v Seattle Orcas",
+    "title": "MI New York 123/5 * v Seattle Orcas",
     "link": "http://www.cricinfo.com/ci/engine/match/1528581.html?CMP=OTC-RSS ",
-    "away": "MI New York 27/2 *",
+    "away": "MI New York 123/5 *",
     "home": "Seattle Orcas",
-    "description": "MI New York 27/2 * v Seattle Orcas",
+    "description": "MI New York 123/5 * v Seattle Orcas",
     "status": "Live/Recent"
   },
   {
