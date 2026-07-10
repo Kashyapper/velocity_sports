@@ -128,11 +128,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "MI New York 123/5 * v Seattle Orcas",
+    "title": "MI New York 179/8  v Seattle Orcas 45/1 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1528581.html?CMP=OTC-RSS ",
-    "away": "MI New York 123/5 *",
-    "home": "Seattle Orcas",
-    "description": "MI New York 123/5 * v Seattle Orcas",
+    "away": "MI New York 179/8",
+    "home": "Seattle Orcas 45/1 *",
+    "description": "MI New York 179/8  v Seattle Orcas 45/1 *",
     "status": "Live/Recent"
   },
   {
@@ -149,6 +149,14 @@
     "away": "Amo Sharks",
     "home": "Speen Ghar Tigers",
     "description": "Amo Sharks v Speen Ghar Tigers",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Zimbabwe v Bangladesh",
+    "link": "http://www.cricinfo.com/ci/engine/match/1538300.html?CMP=OTC-RSS ",
+    "away": "Zimbabwe",
+    "home": "Bangladesh",
+    "description": "Zimbabwe v Bangladesh",
     "status": "Live/Recent"
   },
   {
