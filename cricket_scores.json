@@ -16,35 +16,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Amo Sharks 168/2 * v Speen Ghar Tigers 167/7 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1543653.html?CMP=OTC-RSS ",
-    "away": "Amo Sharks 168/2 *",
-    "home": "Speen Ghar Tigers 167/7",
-    "description": "Amo Sharks 168/2 * v Speen Ghar Tigers 167/7 ",
-    "status": "Live/Recent"
-  },
-  {
     "title": "Zimbabwe 199/10  v Bangladesh 200/3 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1538300.html?CMP=OTC-RSS ",
     "away": "Zimbabwe 199/10",
     "home": "Bangladesh 200/3 *",
     "description": "Zimbabwe 199/10  v Bangladesh 200/3 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Shivamogga Yodhas 144/6 * v Coastal Kings Mangaluru 143/8 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1542339.html?CMP=OTC-RSS ",
-    "away": "Shivamogga Yodhas 144/6 *",
-    "home": "Coastal Kings Mangaluru 143/8",
-    "description": "Shivamogga Yodhas 144/6 * v Coastal Kings Mangaluru 143/8 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Boost Defenders 178/7  v Mis Ainak Knights 181/7 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1543654.html?CMP=OTC-RSS ",
-    "away": "Boost Defenders 178/7",
-    "home": "Mis Ainak Knights 181/7 *",
-    "description": "Boost Defenders 178/7  v Mis Ainak Knights 181/7 *",
     "status": "Live/Recent"
   },
   {
@@ -56,11 +32,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "West Indies v New Zealand",
+    "title": "West Indies v New Zealand 90/1 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1538624.html?CMP=OTC-RSS ",
     "away": "West Indies",
-    "home": "New Zealand",
-    "description": "West Indies v New Zealand",
+    "home": "New Zealand 90/1 *",
+    "description": "West Indies v New Zealand 90/1 *",
     "status": "Live/Recent"
   },
   {
@@ -77,6 +53,38 @@
     "away": "San Francisco Unicorns",
     "home": "Seattle Orcas",
     "description": "San Francisco Unicorns v Seattle Orcas",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Mis Ainak Knights v Speen Ghar Tigers",
+    "link": "http://www.cricinfo.com/ci/engine/match/1543655.html?CMP=OTC-RSS ",
+    "away": "Mis Ainak Knights",
+    "home": "Speen Ghar Tigers",
+    "description": "Mis Ainak Knights v Speen Ghar Tigers",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Amo Sharks v Boost Defenders",
+    "link": "http://www.cricinfo.com/ci/engine/match/1543656.html?CMP=OTC-RSS ",
+    "away": "Amo Sharks",
+    "home": "Boost Defenders",
+    "description": "Amo Sharks v Boost Defenders",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Bengaluru Blasters v Shivamogga Yodhas",
+    "link": "http://www.cricinfo.com/ci/engine/match/1542340.html?CMP=OTC-RSS ",
+    "away": "Bengaluru Blasters",
+    "home": "Shivamogga Yodhas",
+    "description": "Bengaluru Blasters v Shivamogga Yodhas",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Hyderabad E-Champions v Anvita Khammam Aces",
+    "link": "http://www.cricinfo.com/ci/engine/match/1542397.html?CMP=OTC-RSS ",
+    "away": "Hyderabad E-Champions",
+    "home": "Anvita Khammam Aces",
+    "description": "Hyderabad E-Champions v Anvita Khammam Aces",
     "status": "Live/Recent"
   }
 ]
