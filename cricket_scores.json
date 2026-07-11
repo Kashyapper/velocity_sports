@@ -16,14 +16,6 @@
     "status": "Live/Recent"
   },
   {
-    "title": "MI New York 179/8  v Seattle Orcas 162/6 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1528581.html?CMP=OTC-RSS ",
-    "away": "MI New York 179/8",
-    "home": "Seattle Orcas 162/6 *",
-    "description": "MI New York 179/8  v Seattle Orcas 162/6 *",
-    "status": "Live/Recent"
-  },
-  {
     "title": "Los Angeles Knight Riders 184/7  v San Francisco Unicorns 173/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1528582.html?CMP=OTC-RSS ",
     "away": "Los Angeles Knight Riders 184/7",
@@ -32,11 +24,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Amo Sharks v Speen Ghar Tigers",
+    "title": "Amo Sharks v Speen Ghar Tigers 167/7 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1543653.html?CMP=OTC-RSS ",
     "away": "Amo Sharks",
-    "home": "Speen Ghar Tigers",
-    "description": "Amo Sharks v Speen Ghar Tigers",
+    "home": "Speen Ghar Tigers 167/7 *",
+    "description": "Amo Sharks v Speen Ghar Tigers 167/7 *",
     "status": "Live/Recent"
   },
   {
@@ -77,6 +69,22 @@
     "away": "West Indies",
     "home": "New Zealand",
     "description": "West Indies v New Zealand",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Texas Super Kings v Washington Freedom",
+    "link": "http://www.cricinfo.com/ci/engine/match/1528583.html?CMP=OTC-RSS ",
+    "away": "Texas Super Kings",
+    "home": "Washington Freedom",
+    "description": "Texas Super Kings v Washington Freedom",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "San Francisco Unicorns v Seattle Orcas",
+    "link": "http://www.cricinfo.com/ci/engine/match/1528584.html?CMP=OTC-RSS ",
+    "away": "San Francisco Unicorns",
+    "home": "Seattle Orcas",
+    "description": "San Francisco Unicorns v Seattle Orcas",
     "status": "Live/Recent"
   }
 ]
