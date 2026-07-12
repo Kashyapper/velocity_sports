@@ -1,10 +1,10 @@
 [
   {
-    "title": "England Women 130/6 &  170/10 * v India Women 341/7 &  285/10 ",
+    "title": "England Women 170/10 &  130/6 * v India Women 285/10 &  341/7 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1496551.html?CMP=OTC-RSS ",
-    "away": "England Women 130/6 &  170/10 *",
-    "home": "India Women 341/7 &  285/10",
-    "description": "England Women 130/6 &  170/10 * v India Women 341/7 &  285/10 ",
+    "away": "England Women 170/10 &  130/6 *",
+    "home": "India Women 285/10 &  341/7",
+    "description": "England Women 170/10 &  130/6 * v India Women 285/10 &  341/7 ",
     "status": "Live/Recent"
   },
   {
@@ -104,11 +104,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Surrey 123/10  v Essex 86/1 *",
+    "title": "Surrey 123/10  v Essex 124/2 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1512876.html?CMP=OTC-RSS ",
     "away": "Surrey 123/10",
-    "home": "Essex 86/1 *",
-    "description": "Surrey 123/10  v Essex 86/1 *",
+    "home": "Essex 124/2 *",
+    "description": "Surrey 123/10  v Essex 124/2 *",
     "status": "Live/Recent"
   },
   {
@@ -152,19 +152,19 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Somerset 194/7  v Worcestershire 74/3 *",
+    "title": "Somerset 194/7  v Worcestershire 116/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1512879.html?CMP=OTC-RSS ",
     "away": "Somerset 194/7",
-    "home": "Worcestershire 74/3 *",
-    "description": "Somerset 194/7  v Worcestershire 74/3 *",
+    "home": "Worcestershire 116/10 *",
+    "description": "Somerset 194/7  v Worcestershire 116/10 *",
     "status": "Live/Recent"
   },
   {
-    "title": "MI New York v Washington Freedom",
+    "title": "MI New York 10 * v Washington Freedom",
     "link": "http://www.cricinfo.com/ci/engine/match/1528585.html?CMP=OTC-RSS ",
-    "away": "MI New York",
+    "away": "MI New York 10 *",
     "home": "Washington Freedom",
-    "description": "MI New York v Washington Freedom",
+    "description": "MI New York 10 * v Washington Freedom",
     "status": "Live/Recent"
   },
   {
