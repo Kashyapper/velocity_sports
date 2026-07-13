@@ -1,50 +1,42 @@
 [
   {
-    "title": "England Women 170/10 &  130/6 * v India Women 341/7 &  285/10 ",
+    "title": "England Women 170/10 &  157/8 * v India Women 285/10 &  341/7 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1496551.html?CMP=OTC-RSS ",
-    "away": "England Women 170/10 &  130/6 *",
-    "home": "India Women 341/7 &  285/10",
-    "description": "England Women 170/10 &  130/6 * v India Women 341/7 &  285/10 ",
+    "away": "England Women 170/10 &  157/8 *",
+    "home": "India Women 285/10 &  341/7",
+    "description": "England Women 170/10 &  157/8 * v India Women 285/10 &  341/7 ",
     "status": "Live/Recent"
   },
   {
-    "title": "England Under-19s 40 &  220/10 * v South Africa Under-19s 295/10 &  310/10 ",
+    "title": "England Under-19s 220/10 &  40 * v South Africa Under-19s 310/10 &  295/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1543775.html?CMP=OTC-RSS ",
-    "away": "England Under-19s 40 &  220/10 *",
-    "home": "South Africa Under-19s 295/10 &  310/10",
-    "description": "England Under-19s 40 &  220/10 * v South Africa Under-19s 295/10 &  310/10 ",
+    "away": "England Under-19s 220/10 &  40 *",
+    "home": "South Africa Under-19s 310/10 &  295/10",
+    "description": "England Under-19s 220/10 &  40 * v South Africa Under-19s 310/10 &  295/10 ",
     "status": "Live/Recent"
   },
   {
-    "title": "Texas Super Kings 171/9  v Los Angeles Knight Riders 172/4 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1528586.html?CMP=OTC-RSS ",
-    "away": "Texas Super Kings 171/9",
-    "home": "Los Angeles Knight Riders 172/4 *",
-    "description": "Texas Super Kings 171/9  v Los Angeles Knight Riders 172/4 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Sri Lanka Under-19s 160/3 * v India Under-19s",
+    "title": "Sri Lanka Under-19s 288/4 * v India Under-19s",
     "link": "http://www.cricinfo.com/ci/engine/match/1543688.html?CMP=OTC-RSS ",
-    "away": "Sri Lanka Under-19s 160/3 *",
+    "away": "Sri Lanka Under-19s 288/4 *",
     "home": "India Under-19s",
-    "description": "Sri Lanka Under-19s 160/3 * v India Under-19s",
+    "description": "Sri Lanka Under-19s 288/4 * v India Under-19s",
     "status": "Live/Recent"
   },
   {
-    "title": "Band-e-Amir Dragons 141/5 * v Speen Ghar Tigers 209/9 ",
+    "title": "Band-e-Amir Dragons 185/8 * v Speen Ghar Tigers 209/9 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1543648.html?CMP=OTC-RSS ",
-    "away": "Band-e-Amir Dragons 141/5 *",
+    "away": "Band-e-Amir Dragons 185/8 *",
     "home": "Speen Ghar Tigers 209/9",
-    "description": "Band-e-Amir Dragons 141/5 * v Speen Ghar Tigers 209/9 ",
+    "description": "Band-e-Amir Dragons 185/8 * v Speen Ghar Tigers 209/9 ",
     "status": "Live/Recent"
   },
   {
-    "title": "Amo Sharks v Mis Ainak Knights",
+    "title": "Amo Sharks 104/7 * v Mis Ainak Knights",
     "link": "http://www.cricinfo.com/ci/engine/match/1543649.html?CMP=OTC-RSS ",
-    "away": "Amo Sharks",
+    "away": "Amo Sharks 104/7 *",
     "home": "Mis Ainak Knights",
-    "description": "Amo Sharks v Mis Ainak Knights",
+    "description": "Amo Sharks 104/7 * v Mis Ainak Knights",
     "status": "Live/Recent"
   },
   {
