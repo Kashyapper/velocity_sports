@@ -1,10 +1,10 @@
 [
   {
-    "title": "England Women 170/10 &  130/6 * v India Women 341/7 &  285/10 ",
+    "title": "England Women 130/6 &  170/10 * v India Women 285/10 &  341/7 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1496551.html?CMP=OTC-RSS ",
-    "away": "England Women 170/10 &  130/6 *",
-    "home": "India Women 341/7 &  285/10",
-    "description": "England Women 170/10 &  130/6 * v India Women 341/7 &  285/10 ",
+    "away": "England Women 130/6 &  170/10 *",
+    "home": "India Women 285/10 &  341/7",
+    "description": "England Women 130/6 &  170/10 * v India Women 285/10 &  341/7 ",
     "status": "Live/Recent"
   },
   {
@@ -16,14 +16,6 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Somerset 194/7  v Worcestershire 116/10 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1512879.html?CMP=OTC-RSS ",
-    "away": "Somerset 194/7",
-    "home": "Worcestershire 116/10 *",
-    "description": "Somerset 194/7  v Worcestershire 116/10 *",
-    "status": "Live/Recent"
-  },
-  {
     "title": "MI New York 187/8  v Washington Freedom 190/5 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1528585.html?CMP=OTC-RSS ",
     "away": "MI New York 187/8",
@@ -32,11 +24,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Texas Super Kings 16/1 * v Los Angeles Knight Riders",
+    "title": "Texas Super Kings 171/9  v Los Angeles Knight Riders 172/4 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1528586.html?CMP=OTC-RSS ",
-    "away": "Texas Super Kings 16/1 *",
-    "home": "Los Angeles Knight Riders",
-    "description": "Texas Super Kings 16/1 * v Los Angeles Knight Riders",
+    "away": "Texas Super Kings 171/9",
+    "home": "Los Angeles Knight Riders 172/4 *",
+    "description": "Texas Super Kings 171/9  v Los Angeles Knight Riders 172/4 *",
     "status": "Live/Recent"
   },
   {
@@ -48,11 +40,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Band-e-Amir Dragons v Speen Ghar Tigers",
+    "title": "Band-e-Amir Dragons v Speen Ghar Tigers 13/1 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1543648.html?CMP=OTC-RSS ",
     "away": "Band-e-Amir Dragons",
-    "home": "Speen Ghar Tigers",
-    "description": "Band-e-Amir Dragons v Speen Ghar Tigers",
+    "home": "Speen Ghar Tigers 13/1 *",
+    "description": "Band-e-Amir Dragons v Speen Ghar Tigers 13/1 *",
     "status": "Live/Recent"
   },
   {
@@ -61,6 +53,14 @@
     "away": "Amo Sharks",
     "home": "Mis Ainak Knights",
     "description": "Amo Sharks v Mis Ainak Knights",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "West Indies v New Zealand",
+    "link": "http://www.cricinfo.com/ci/engine/match/1538625.html?CMP=OTC-RSS ",
+    "away": "West Indies",
+    "home": "New Zealand",
+    "description": "West Indies v New Zealand",
     "status": "Live/Recent"
   }
 ]
