@@ -8,11 +8,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Speen Ghar Tigers 74/5 * v Amo Sharks",
+    "title": "Speen Ghar Tigers 166/10  v Amo Sharks 170/3 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1543657.html?CMP=OTC-RSS ",
-    "away": "Speen Ghar Tigers 74/5 *",
-    "home": "Amo Sharks",
-    "description": "Speen Ghar Tigers 74/5 * v Amo Sharks",
+    "away": "Speen Ghar Tigers 166/10",
+    "home": "Amo Sharks 170/3 *",
+    "description": "Speen Ghar Tigers 166/10  v Amo Sharks 170/3 *",
     "status": "Live/Recent"
   },
   {
@@ -61,6 +61,22 @@
     "away": "Northamptonshire",
     "home": "Gloucestershire",
     "description": "Northamptonshire v Gloucestershire",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Los Angeles Knight Riders v San Francisco Unicorns",
+    "link": "http://www.cricinfo.com/ci/engine/match/1528587.html?CMP=OTC-RSS ",
+    "away": "Los Angeles Knight Riders",
+    "home": "San Francisco Unicorns",
+    "description": "Los Angeles Knight Riders v San Francisco Unicorns",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "MI New York v Washington Freedom",
+    "link": "http://www.cricinfo.com/ci/engine/match/1528588.html?CMP=OTC-RSS ",
+    "away": "MI New York",
+    "home": "Washington Freedom",
+    "description": "MI New York v Washington Freedom",
     "status": "Live/Recent"
   }
 ]
