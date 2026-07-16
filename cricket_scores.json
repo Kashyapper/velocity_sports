@@ -16,11 +16,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "West Indies 140/9  v New Zealand 7 *",
+    "title": "West Indies 140/9  v New Zealand 47/1 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1538626.html?CMP=OTC-RSS ",
     "away": "West Indies 140/9",
-    "home": "New Zealand 7 *",
-    "description": "West Indies 140/9  v New Zealand 7 *",
+    "home": "New Zealand 47/1 *",
+    "description": "West Indies 140/9  v New Zealand 47/1 *",
     "status": "Live/Recent"
   },
   {
@@ -29,6 +29,14 @@
     "away": "San Francisco Unicorns",
     "home": "Washington Freedom",
     "description": "San Francisco Unicorns v Washington Freedom",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Zimbabwe v Bangladesh",
+    "link": "http://www.cricinfo.com/ci/engine/match/1538302.html?CMP=OTC-RSS ",
+    "away": "Zimbabwe",
+    "home": "Bangladesh",
+    "description": "Zimbabwe v Bangladesh",
     "status": "Live/Recent"
   },
   {
