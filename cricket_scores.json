@@ -1,50 +1,10 @@
 [
   {
-    "title": "Northern Knights 150/9  v North-West Warriors 277/7 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1534729.html?CMP=OTC-RSS ",
-    "away": "Northern Knights 150/9",
-    "home": "North-West Warriors 277/7",
-    "description": "Northern Knights 150/9  v North-West Warriors 277/7 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "England 235/6  v India 233/10 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1496580.html?CMP=OTC-RSS ",
-    "away": "England 235/6",
-    "home": "India 233/10",
-    "description": "England 235/6  v India 233/10 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "West Indies 140/9  v New Zealand 74/2 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1538626.html?CMP=OTC-RSS ",
-    "away": "West Indies 140/9",
-    "home": "New Zealand 74/2 *",
-    "description": "West Indies 140/9  v New Zealand 74/2 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "San Francisco Unicorns v Washington Freedom",
-    "link": "http://www.cricinfo.com/ci/engine/match/1528589.html?CMP=OTC-RSS ",
-    "away": "San Francisco Unicorns",
-    "home": "Washington Freedom",
-    "description": "San Francisco Unicorns v Washington Freedom",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Zimbabwe v Bangladesh",
-    "link": "http://www.cricinfo.com/ci/engine/match/1538302.html?CMP=OTC-RSS ",
-    "away": "Zimbabwe",
-    "home": "Bangladesh",
-    "description": "Zimbabwe v Bangladesh",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Galle Gallants v Jaffna Kings",
-    "link": "http://www.cricinfo.com/ci/engine/match/1537331.html?CMP=OTC-RSS ",
-    "away": "Galle Gallants",
-    "home": "Jaffna Kings",
-    "description": "Galle Gallants v Jaffna Kings",
+    "title": "No Match in progress..",
+    "link": "http://www.cricinfo.com?CMP=OTC-RSS",
+    "away": "No Match in progress..",
+    "home": "",
+    "description": "No Match in progress..",
     "status": "Live/Recent"
   }
 ]
