@@ -8,14 +8,6 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Dambulla Sixers 205/6  v Kandy Royals 187/6 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1537332.html?CMP=OTC-RSS ",
-    "away": "Dambulla Sixers 205/6",
-    "home": "Kandy Royals 187/6 *",
-    "description": "Dambulla Sixers 205/6  v Kandy Royals 187/6 *",
-    "status": "Live/Recent"
-  },
-  {
     "title": "Northamptonshire 143/10  v Somerset 126/9 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1512887.html?CMP=OTC-RSS ",
     "away": "Northamptonshire 143/10",
@@ -40,11 +32,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Northamptonshire 45/1 * v Hampshire",
+    "title": "Northamptonshire 169/10 * v Hampshire",
     "link": "http://www.cricinfo.com/ci/engine/match/1512889.html?CMP=OTC-RSS ",
-    "away": "Northamptonshire 45/1 *",
+    "away": "Northamptonshire 169/10 *",
     "home": "Hampshire",
-    "description": "Northamptonshire 45/1 * v Hampshire",
+    "description": "Northamptonshire 169/10 * v Hampshire",
     "status": "Live/Recent"
   },
   {
@@ -53,6 +45,22 @@
     "away": "Los Angeles Knight Riders",
     "home": "Washington Freedom",
     "description": "Los Angeles Knight Riders v Washington Freedom",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Dambulla Sixers v Jaffna Kings",
+    "link": "http://www.cricinfo.com/ci/engine/match/1537334.html?CMP=OTC-RSS ",
+    "away": "Dambulla Sixers",
+    "home": "Jaffna Kings",
+    "description": "Dambulla Sixers v Jaffna Kings",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Colombo Kaps v Kandy Royals",
+    "link": "http://www.cricinfo.com/ci/engine/match/1537335.html?CMP=OTC-RSS ",
+    "away": "Colombo Kaps",
+    "home": "Kandy Royals",
+    "description": "Colombo Kaps v Kandy Royals",
     "status": "Live/Recent"
   }
 ]
