@@ -16,35 +16,35 @@
     "status": "Live/Recent"
   },
   {
-    "title": "England 387/3 * v India",
+    "title": "England 387/3  v India 33 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1496581.html?CMP=OTC-RSS ",
-    "away": "England 387/3 *",
-    "home": "India",
-    "description": "England 387/3 * v India",
+    "away": "England 387/3",
+    "home": "India 33 *",
+    "description": "England 387/3  v India 33 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Zimbabwe 143/7  v Bangladesh 139/4 *",
+    "title": "Zimbabwe 143/7  v Bangladesh 144/6 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1538303.html?CMP=OTC-RSS ",
     "away": "Zimbabwe 143/7",
-    "home": "Bangladesh 139/4 *",
-    "description": "Zimbabwe 143/7  v Bangladesh 139/4 *",
+    "home": "Bangladesh 144/6 *",
+    "description": "Zimbabwe 143/7  v Bangladesh 144/6 *",
     "status": "Live/Recent"
   },
   {
-    "title": "West Indies v New Zealand",
+    "title": "West Indies 54/1 * v New Zealand",
     "link": "http://www.cricinfo.com/ci/engine/match/1538627.html?CMP=OTC-RSS ",
-    "away": "West Indies",
+    "away": "West Indies 54/1 *",
     "home": "New Zealand",
-    "description": "West Indies v New Zealand",
+    "description": "West Indies 54/1 * v New Zealand",
     "status": "Live/Recent"
   },
   {
-    "title": "Colombo Kaps v Kandy Royals",
+    "title": "Colombo Kaps v Kandy Royals 93/4 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1537335.html?CMP=OTC-RSS ",
     "away": "Colombo Kaps",
-    "home": "Kandy Royals",
-    "description": "Colombo Kaps v Kandy Royals",
+    "home": "Kandy Royals 93/4 *",
+    "description": "Colombo Kaps v Kandy Royals 93/4 *",
     "status": "Live/Recent"
   }
 ]
