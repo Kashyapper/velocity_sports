@@ -8,11 +8,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Sri Lanka Under-19s v India Under-19s 253/3 *",
+    "title": "Sri Lanka Under-19s v India Under-19s 258/3 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1543689.html?CMP=OTC-RSS ",
     "away": "Sri Lanka Under-19s",
-    "home": "India Under-19s 253/3 *",
-    "description": "Sri Lanka Under-19s v India Under-19s 253/3 *",
+    "home": "India Under-19s 258/3 *",
+    "description": "Sri Lanka Under-19s v India Under-19s 258/3 *",
     "status": "Live/Recent"
   },
   {
@@ -93,6 +93,14 @@
     "away": "MI London (Men)",
     "home": "Sunrisers Leeds (Men)",
     "description": "MI London (Men) v Sunrisers Leeds (Men)",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "West Indies v New Zealand",
+    "link": "http://www.cricinfo.com/ci/engine/match/1538628.html?CMP=OTC-RSS ",
+    "away": "West Indies",
+    "home": "New Zealand",
+    "description": "West Indies v New Zealand",
     "status": "Live/Recent"
   }
 ]
