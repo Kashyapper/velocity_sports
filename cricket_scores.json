@@ -8,14 +8,6 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Colombo Kaps 174/9 * v Jaffna Kings 179/6 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1537337.html?CMP=OTC-RSS ",
-    "away": "Colombo Kaps 174/9 *",
-    "home": "Jaffna Kings 179/6",
-    "description": "Colombo Kaps 174/9 * v Jaffna Kings 179/6 ",
-    "status": "Live/Recent"
-  },
-  {
     "title": "Leicestershire 239/8 * v Gloucestershire 235/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1513459.html?CMP=OTC-RSS ",
     "away": "Leicestershire 239/8 *",
@@ -48,11 +40,35 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Southern Brave (Men) 50/2 * v Welsh Fire (Men)",
+    "title": "Southern Brave (Men) 135/7  v Welsh Fire (Men) 64/2 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1521232.html?CMP=OTC-RSS ",
-    "away": "Southern Brave (Men) 50/2 *",
-    "home": "Welsh Fire (Men)",
-    "description": "Southern Brave (Men) 50/2 * v Welsh Fire (Men)",
+    "away": "Southern Brave (Men) 135/7",
+    "home": "Welsh Fire (Men) 64/2 *",
+    "description": "Southern Brave (Men) 135/7  v Welsh Fire (Men) 64/2 *",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Sri Lanka Women v Pakistan Women",
+    "link": "http://www.cricinfo.com/ci/engine/match/1540540.html?CMP=OTC-RSS ",
+    "away": "Sri Lanka Women",
+    "home": "Pakistan Women",
+    "description": "Sri Lanka Women v Pakistan Women",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Colombo Kaps v Kandy Royals",
+    "link": "http://www.cricinfo.com/ci/engine/match/1537339.html?CMP=OTC-RSS ",
+    "away": "Colombo Kaps",
+    "home": "Kandy Royals",
+    "description": "Colombo Kaps v Kandy Royals",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Galle Gallants v Jaffna Kings",
+    "link": "http://www.cricinfo.com/ci/engine/match/1537340.html?CMP=OTC-RSS ",
+    "away": "Galle Gallants",
+    "home": "Jaffna Kings",
+    "description": "Galle Gallants v Jaffna Kings",
     "status": "Live/Recent"
   }
 ]
