@@ -1,34 +1,10 @@
 [
   {
-    "title": "Sri Lanka Under-19s 260/10 &  148/10 * v India Under-19s 411/10 &  208/3 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1543689.html?CMP=OTC-RSS ",
-    "away": "Sri Lanka Under-19s 260/10 &  148/10 *",
-    "home": "India Under-19s 411/10 &  208/3",
-    "description": "Sri Lanka Under-19s 260/10 &  148/10 * v India Under-19s 411/10 &  208/3 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Sri Lanka Women 210/9  v Pakistan Women 211/5 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1540540.html?CMP=OTC-RSS ",
-    "away": "Sri Lanka Women 210/9",
-    "home": "Pakistan Women 211/5 *",
-    "description": "Sri Lanka Women 210/9  v Pakistan Women 211/5 *",
-    "status": "Live/Recent"
-  },
-  {
     "title": "Netherlands 158/4 * v Nepal 157/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1544125.html?CMP=OTC-RSS ",
     "away": "Netherlands 158/4 *",
     "home": "Nepal 157/10",
     "description": "Netherlands 158/4 * v Nepal 157/10 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Colombo Kaps 192/9  v Kandy Royals 169/8 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1537339.html?CMP=OTC-RSS ",
-    "away": "Colombo Kaps 192/9",
-    "home": "Kandy Royals 169/8 *",
-    "description": "Colombo Kaps 192/9  v Kandy Royals 169/8 *",
     "status": "Live/Recent"
   },
   {
@@ -64,11 +40,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Galle Gallants 193/8  v Jaffna Kings 133/10 *",
+    "title": "Galle Gallants 193/8  v Jaffna Kings 133/9 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1537340.html?CMP=OTC-RSS ",
     "away": "Galle Gallants 193/8",
-    "home": "Jaffna Kings 133/10 *",
-    "description": "Galle Gallants 193/8  v Jaffna Kings 133/10 *",
+    "home": "Jaffna Kings 133/9 *",
+    "description": "Galle Gallants 193/8  v Jaffna Kings 133/9 *",
     "status": "Live/Recent"
   },
   {
@@ -80,11 +56,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "London Spirit (Men) v Manchester Super Giants (Men) 65/1 *",
+    "title": "London Spirit (Men) 54/3 * v Manchester Super Giants (Men) 138/9 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1521233.html?CMP=OTC-RSS ",
-    "away": "London Spirit (Men)",
-    "home": "Manchester Super Giants (Men) 65/1 *",
-    "description": "London Spirit (Men) v Manchester Super Giants (Men) 65/1 *",
+    "away": "London Spirit (Men) 54/3 *",
+    "home": "Manchester Super Giants (Men) 138/9",
+    "description": "London Spirit (Men) 54/3 * v Manchester Super Giants (Men) 138/9 ",
     "status": "Live/Recent"
   },
   {
