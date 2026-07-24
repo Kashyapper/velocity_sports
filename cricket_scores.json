@@ -1,26 +1,10 @@
 [
   {
-    "title": "Lahore Qalandars 171/7  v Perth Scorchers XI 155/7 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1533125.html?CMP=OTC-RSS ",
-    "away": "Lahore Qalandars 171/7",
-    "home": "Perth Scorchers XI 155/7 *",
-    "description": "Lahore Qalandars 171/7  v Perth Scorchers XI 155/7 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "London Spirit (Men) 131/6 * v Manchester Super Giants (Men) 138/9 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1521233.html?CMP=OTC-RSS ",
-    "away": "London Spirit (Men) 131/6 *",
-    "home": "Manchester Super Giants (Men) 138/9",
-    "description": "London Spirit (Men) 131/6 * v Manchester Super Giants (Men) 138/9 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Guyana Amazon Warriors 30/1 * v San Francisco Unicorns 156/6 ",
+    "title": "Guyana Amazon Warriors 131/7 * v San Francisco Unicorns 156/6 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1533126.html?CMP=OTC-RSS ",
-    "away": "Guyana Amazon Warriors 30/1 *",
+    "away": "Guyana Amazon Warriors 131/7 *",
     "home": "San Francisco Unicorns 156/6",
-    "description": "Guyana Amazon Warriors 30/1 * v San Francisco Unicorns 156/6 ",
+    "description": "Guyana Amazon Warriors 131/7 * v San Francisco Unicorns 156/6 ",
     "status": "Live/Recent"
   },
   {
@@ -77,6 +61,14 @@
     "away": "Somerset",
     "home": "Gloucestershire",
     "description": "Somerset v Gloucestershire",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Desert Vipers v Lahore Qalandars",
+    "link": "http://www.cricinfo.com/ci/engine/match/1533127.html?CMP=OTC-RSS ",
+    "away": "Desert Vipers",
+    "home": "Lahore Qalandars",
+    "description": "Desert Vipers v Lahore Qalandars",
     "status": "Live/Recent"
   },
   {
