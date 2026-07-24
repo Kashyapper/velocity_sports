@@ -40,19 +40,19 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Durham 352/5  v Sussex 122/2 *",
+    "title": "Durham 352/5  v Sussex 260/5 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1513461.html?CMP=OTC-RSS ",
     "away": "Durham 352/5",
-    "home": "Sussex 122/2 *",
-    "description": "Durham 352/5  v Sussex 122/2 *",
+    "home": "Sussex 260/5 *",
+    "description": "Durham 352/5  v Sussex 260/5 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Somerset 352/7  v Gloucestershire 108/3 *",
+    "title": "Somerset 352/7  v Gloucestershire 246/7 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1513465.html?CMP=OTC-RSS ",
     "away": "Somerset 352/7",
-    "home": "Gloucestershire 108/3 *",
-    "description": "Somerset 352/7  v Gloucestershire 108/3 *",
+    "home": "Gloucestershire 246/7 *",
+    "description": "Somerset 352/7  v Gloucestershire 246/7 *",
     "status": "Live/Recent"
   },
   {
@@ -72,11 +72,35 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Birmingham Phoenix (Men) 86 * v Trent Rockets (Men)",
+    "title": "Birmingham Phoenix (Men) 214/4  v Trent Rockets (Men) 54 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1521234.html?CMP=OTC-RSS ",
-    "away": "Birmingham Phoenix (Men) 86 *",
-    "home": "Trent Rockets (Men)",
-    "description": "Birmingham Phoenix (Men) 86 * v Trent Rockets (Men)",
+    "away": "Birmingham Phoenix (Men) 214/4",
+    "home": "Trent Rockets (Men) 54 *",
+    "description": "Birmingham Phoenix (Men) 214/4  v Trent Rockets (Men) 54 *",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Sri Lanka Women v Pakistan Women",
+    "link": "http://www.cricinfo.com/ci/engine/match/1540541.html?CMP=OTC-RSS ",
+    "away": "Sri Lanka Women",
+    "home": "Pakistan Women",
+    "description": "Sri Lanka Women v Pakistan Women",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Galle Gallants v Kandy Royals",
+    "link": "http://www.cricinfo.com/ci/engine/match/1537341.html?CMP=OTC-RSS ",
+    "away": "Galle Gallants",
+    "home": "Kandy Royals",
+    "description": "Galle Gallants v Kandy Royals",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Dambulla Sixers v Colombo Kaps",
+    "link": "http://www.cricinfo.com/ci/engine/match/1537342.html?CMP=OTC-RSS ",
+    "away": "Dambulla Sixers",
+    "home": "Colombo Kaps",
+    "description": "Dambulla Sixers v Colombo Kaps",
     "status": "Live/Recent"
   }
 ]
