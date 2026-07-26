@@ -80,14 +80,6 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Zimbabwe 157/7 * v India 192/5 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1530062.html?CMP=OTC-RSS ",
-    "away": "Zimbabwe 157/7 *",
-    "home": "India 192/5",
-    "description": "Zimbabwe 157/7 * v India 192/5 ",
-    "status": "Live/Recent"
-  },
-  {
     "title": "Manchester Super Giants (Men) 187/5  v Birmingham Phoenix (Men) 100/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1521237.html?CMP=OTC-RSS ",
     "away": "Manchester Super Giants (Men) 187/5",
@@ -125,6 +117,14 @@
     "away": "Guyana Amazon Warriors",
     "home": "Lahore Qalandars",
     "description": "Guyana Amazon Warriors v Lahore Qalandars",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Namibia v Nepal",
+    "link": "http://www.cricinfo.com/ci/engine/match/1544127.html?CMP=OTC-RSS ",
+    "away": "Namibia",
+    "home": "Nepal",
+    "description": "Namibia v Nepal",
     "status": "Live/Recent"
   }
 ]
