@@ -128,11 +128,27 @@
     "status": "Live/Recent"
   },
   {
+    "title": "Perth Scorchers XI v San Francisco Unicorns",
+    "link": "http://www.cricinfo.com/ci/engine/match/1533129.html?CMP=OTC-RSS ",
+    "away": "Perth Scorchers XI",
+    "home": "San Francisco Unicorns",
+    "description": "Perth Scorchers XI v San Francisco Unicorns",
+    "status": "Live/Recent"
+  },
+  {
     "title": "Trent Rockets (Men) v London Spirit (Men)",
     "link": "http://www.cricinfo.com/ci/engine/match/1521238.html?CMP=OTC-RSS ",
     "away": "Trent Rockets (Men)",
     "home": "London Spirit (Men)",
     "description": "Trent Rockets (Men) v London Spirit (Men)",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Guyana Amazon Warriors v Lahore Qalandars",
+    "link": "http://www.cricinfo.com/ci/engine/match/1533130.html?CMP=OTC-RSS ",
+    "away": "Guyana Amazon Warriors",
+    "home": "Lahore Qalandars",
+    "description": "Guyana Amazon Warriors v Lahore Qalandars",
     "status": "Live/Recent"
   }
 ]
