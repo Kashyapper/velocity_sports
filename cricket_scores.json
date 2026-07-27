@@ -8,19 +8,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Perth Scorchers XI 147/9 * v San Francisco Unicorns 152/8 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1533129.html?CMP=OTC-RSS ",
-    "away": "Perth Scorchers XI 147/9 *",
-    "home": "San Francisco Unicorns 152/8",
-    "description": "Perth Scorchers XI 147/9 * v San Francisco Unicorns 152/8 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Guyana Amazon Warriors 164/9  v Lahore Qalandars 95/8 *",
+    "title": "Guyana Amazon Warriors 164/9  v Lahore Qalandars 111/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1533130.html?CMP=OTC-RSS ",
     "away": "Guyana Amazon Warriors 164/9",
-    "home": "Lahore Qalandars 95/8 *",
-    "description": "Guyana Amazon Warriors 164/9  v Lahore Qalandars 95/8 *",
+    "home": "Lahore Qalandars 111/10 *",
+    "description": "Guyana Amazon Warriors 164/9  v Lahore Qalandars 111/10 *",
     "status": "Live/Recent"
   },
   {
@@ -45,6 +37,14 @@
     "away": "Southern Brave (Men)",
     "home": "MI London (Men)",
     "description": "Southern Brave (Men) v MI London (Men)",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Desert Vipers v San Francisco Unicorns",
+    "link": "http://www.cricinfo.com/ci/engine/match/1533131.html?CMP=OTC-RSS ",
+    "away": "Desert Vipers",
+    "home": "San Francisco Unicorns",
+    "description": "Desert Vipers v San Francisco Unicorns",
     "status": "Live/Recent"
   }
 ]
