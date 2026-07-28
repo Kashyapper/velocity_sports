@@ -1,10 +1,10 @@
 [
   {
-    "title": "West Indies 311/10 &  181/10  v Pakistan 120/10 &  282/10 *",
+    "title": "West Indies 181/10 &  311/10  v Pakistan 120/10 &  282/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1538630.html?CMP=OTC-RSS ",
-    "away": "West Indies 311/10 &  181/10",
+    "away": "West Indies 181/10 &  311/10",
     "home": "Pakistan 120/10 &  282/10 *",
-    "description": "West Indies 311/10 &  181/10  v Pakistan 120/10 &  282/10 *",
+    "description": "West Indies 181/10 &  311/10  v Pakistan 120/10 &  282/10 *",
     "status": "Live/Recent"
   },
   {
@@ -21,14 +21,6 @@
     "away": "Nottinghamshire 200/5 *",
     "home": "Leicestershire 199/10",
     "description": "Nottinghamshire 200/5 * v Leicestershire 199/10 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Colombo Kaps 183/9 * v Jaffna Kings 202/5 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1537345.html?CMP=OTC-RSS ",
-    "away": "Colombo Kaps 183/9 *",
-    "home": "Jaffna Kings 202/5",
-    "description": "Colombo Kaps 183/9 * v Jaffna Kings 202/5 ",
     "status": "Live/Recent"
   },
   {
@@ -61,6 +53,14 @@
     "away": "Desert Vipers",
     "home": "Perth Scorchers XI",
     "description": "Desert Vipers v Perth Scorchers XI",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Netherlands v Nepal",
+    "link": "http://www.cricinfo.com/ci/engine/match/1544128.html?CMP=OTC-RSS ",
+    "away": "Netherlands",
+    "home": "Nepal",
+    "description": "Netherlands v Nepal",
     "status": "Live/Recent"
   },
   {
