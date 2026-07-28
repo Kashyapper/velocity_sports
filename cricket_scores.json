@@ -8,19 +8,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Southern Brave (Men) 129/9  v MI London (Men) 130/7 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1521239.html?CMP=OTC-RSS ",
-    "away": "Southern Brave (Men) 129/9",
-    "home": "MI London (Men) 130/7 *",
-    "description": "Southern Brave (Men) 129/9  v MI London (Men) 130/7 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Desert Vipers 25 * v San Francisco Unicorns 151/7 ",
+    "title": "Desert Vipers 152/1 * v San Francisco Unicorns 151/7 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1533131.html?CMP=OTC-RSS ",
-    "away": "Desert Vipers 25 *",
+    "away": "Desert Vipers 152/1 *",
     "home": "San Francisco Unicorns 151/7",
-    "description": "Desert Vipers 25 * v San Francisco Unicorns 151/7 ",
+    "description": "Desert Vipers 152/1 * v San Francisco Unicorns 151/7 ",
     "status": "Live/Recent"
   },
   {
@@ -77,6 +69,14 @@
     "away": "Sunrisers Leeds (Men)",
     "home": "Manchester Super Giants (Men)",
     "description": "Sunrisers Leeds (Men) v Manchester Super Giants (Men)",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Desert Vipers v Perth Scorchers XI",
+    "link": "http://www.cricinfo.com/ci/engine/match/1533132.html?CMP=OTC-RSS ",
+    "away": "Desert Vipers",
+    "home": "Perth Scorchers XI",
+    "description": "Desert Vipers v Perth Scorchers XI",
     "status": "Live/Recent"
   }
 ]
