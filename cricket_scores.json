@@ -8,14 +8,6 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Kandy Royals 214/4 * v Galle Gallants 208/3 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1537346.html?CMP=OTC-RSS ",
-    "away": "Kandy Royals 214/4 *",
-    "home": "Galle Gallants 208/3",
-    "description": "Kandy Royals 214/4 * v Galle Gallants 208/3 ",
-    "status": "Live/Recent"
-  },
-  {
     "title": "Leinster Lightning 129/2 * v North-West Warriors 176/4 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1534735.html?CMP=OTC-RSS ",
     "away": "Leinster Lightning 129/2 *",
@@ -40,11 +32,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Sussex 314/5 * v Essex 316/6 ",
+    "title": "Sussex 320/5 * v Essex 316/6 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1513479.html?CMP=OTC-RSS ",
-    "away": "Sussex 314/5 *",
+    "away": "Sussex 320/5 *",
     "home": "Essex 316/6",
-    "description": "Sussex 314/5 * v Essex 316/6 ",
+    "description": "Sussex 320/5 * v Essex 316/6 ",
     "status": "Live/Recent"
   },
   {
@@ -104,11 +96,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "MI London (Men) 7 * v London Spirit (Men)",
+    "title": "MI London (Men) 122/4 * v London Spirit (Men)",
     "link": "http://www.cricinfo.com/ci/engine/match/1521242.html?CMP=OTC-RSS ",
-    "away": "MI London (Men) 7 *",
+    "away": "MI London (Men) 122/4 *",
     "home": "London Spirit (Men)",
-    "description": "MI London (Men) 7 * v London Spirit (Men)",
+    "description": "MI London (Men) 122/4 * v London Spirit (Men)",
     "status": "Live/Recent"
   },
   {
@@ -117,6 +109,14 @@
     "away": "Guyana Amazon Warriors",
     "home": "Perth Scorchers XI",
     "description": "Guyana Amazon Warriors v Perth Scorchers XI",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Kandy Royals v Jaffna Kings",
+    "link": "http://www.cricinfo.com/ci/engine/match/1537348.html?CMP=OTC-RSS ",
+    "away": "Kandy Royals",
+    "home": "Jaffna Kings",
+    "description": "Kandy Royals v Jaffna Kings",
     "status": "Live/Recent"
   }
 ]
