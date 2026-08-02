@@ -8,11 +8,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Sri Lanka Women v Pakistan Women",
+    "title": "Sri Lanka Women 41/1 * v Pakistan Women 175/5 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1540544.html?CMP=OTC-RSS ",
-    "away": "Sri Lanka Women",
-    "home": "Pakistan Women",
-    "description": "Sri Lanka Women v Pakistan Women",
+    "away": "Sri Lanka Women 41/1 *",
+    "home": "Pakistan Women 175/5",
+    "description": "Sri Lanka Women 41/1 * v Pakistan Women 175/5 ",
     "status": "Live/Recent"
   },
   {
@@ -101,6 +101,14 @@
     "away": "MI London (Women)",
     "home": "Manchester Super Giants (Women)",
     "description": "MI London (Women) v Manchester Super Giants (Women)",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "West Indies v Pakistan",
+    "link": "http://www.cricinfo.com/ci/engine/match/1538631.html?CMP=OTC-RSS ",
+    "away": "West Indies",
+    "home": "Pakistan",
+    "description": "West Indies v Pakistan",
     "status": "Live/Recent"
   },
   {
