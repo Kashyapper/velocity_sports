@@ -1,18 +1,10 @@
 [
   {
-    "title": "West Indies 117/10 &  344/10  v Pakistan 77/2 &  387/10 *",
+    "title": "West Indies 344/10 &  117/9  v Pakistan 387/10 &  77/2 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1538631.html?CMP=OTC-RSS ",
-    "away": "West Indies 117/10 &  344/10",
-    "home": "Pakistan 77/2 &  387/10 *",
-    "description": "West Indies 117/10 &  344/10  v Pakistan 77/2 &  387/10 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Galle Gallants 228/8 * v Jaffna Kings 242/2 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1537351.html?CMP=OTC-RSS ",
-    "away": "Galle Gallants 228/8 *",
-    "home": "Jaffna Kings 242/2",
-    "description": "Galle Gallants 228/8 * v Jaffna Kings 242/2 ",
+    "away": "West Indies 344/10 &  117/9",
+    "home": "Pakistan 387/10 &  77/2 *",
+    "description": "West Indies 344/10 &  117/9  v Pakistan 387/10 &  77/2 *",
     "status": "Live/Recent"
   },
   {
@@ -48,14 +40,6 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Madurai Panthers 174/8 * v Trichy Grand Cholas 173/7 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1548207.html?CMP=OTC-RSS ",
-    "away": "Madurai Panthers 174/8 *",
-    "home": "Trichy Grand Cholas 173/7",
-    "description": "Madurai Panthers 174/8 * v Trichy Grand Cholas 173/7 ",
-    "status": "Live/Recent"
-  },
-  {
     "title": "Manchester Super Giants (Women) 85/9  v Welsh Fire (Women) 88/7 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1521217.html?CMP=OTC-RSS ",
     "away": "Manchester Super Giants (Women) 85/9",
@@ -72,11 +56,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Colombo Kaps 203/7  v Kandy Royals 131/9 *",
+    "title": "Colombo Kaps 203/7  v Kandy Royals 135/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1537352.html?CMP=OTC-RSS ",
     "away": "Colombo Kaps 203/7",
-    "home": "Kandy Royals 131/9 *",
-    "description": "Colombo Kaps 203/7  v Kandy Royals 131/9 *",
+    "home": "Kandy Royals 135/10 *",
+    "description": "Colombo Kaps 203/7  v Kandy Royals 135/10 *",
     "status": "Live/Recent"
   },
   {
@@ -96,11 +80,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Trent Rockets (Men) v Birmingham Phoenix (Men)",
+    "title": "Trent Rockets (Men) * v Birmingham Phoenix (Men) 111/6 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1521252.html?CMP=OTC-RSS ",
-    "away": "Trent Rockets (Men)",
-    "home": "Birmingham Phoenix (Men)",
-    "description": "Trent Rockets (Men) v Birmingham Phoenix (Men)",
+    "away": "Trent Rockets (Men) *",
+    "home": "Birmingham Phoenix (Men) 111/6",
+    "description": "Trent Rockets (Men) * v Birmingham Phoenix (Men) 111/6 ",
     "status": "Live/Recent"
   },
   {
@@ -109,6 +93,14 @@
     "away": "Cricket Australia XI",
     "home": "Bangladesh",
     "description": "Cricket Australia XI v Bangladesh",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "VIDA Kovai Kings v SKM Salem Spartans",
+    "link": "http://www.cricinfo.com/ci/engine/match/1548209.html?CMP=OTC-RSS ",
+    "away": "VIDA Kovai Kings",
+    "home": "SKM Salem Spartans",
+    "description": "VIDA Kovai Kings v SKM Salem Spartans",
     "status": "Live/Recent"
   }
 ]
