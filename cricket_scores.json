@@ -8,14 +8,6 @@
     "status": "Live/Recent"
   },
   {
-    "title": "VIDA Kovai Kings 239/4  v Madurai Panthers 240/4 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1548212.html?CMP=OTC-RSS ",
-    "away": "VIDA Kovai Kings 239/4",
-    "home": "Madurai Panthers 240/4 *",
-    "description": "VIDA Kovai Kings 239/4  v Madurai Panthers 240/4 *",
-    "status": "Live/Recent"
-  },
-  {
     "title": "MI London (Women) 121/5  v Trent Rockets (Women) 125/1 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1521221.html?CMP=OTC-RSS ",
     "away": "MI London (Women) 121/5",
@@ -64,19 +56,19 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Abasin Defenders v Kabul Zalmi",
+    "title": "Abasin Defenders v Kabul Zalmi 139/7 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1548996.html?CMP=OTC-RSS ",
     "away": "Abasin Defenders",
-    "home": "Kabul Zalmi",
-    "description": "Abasin Defenders v Kabul Zalmi",
+    "home": "Kabul Zalmi 139/7 *",
+    "description": "Abasin Defenders v Kabul Zalmi 139/7 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Southern Brave (Men) v Manchester Super Giants (Men) 125/5 *",
+    "title": "Southern Brave (Men) 29/1 * v Manchester Super Giants (Men) 149/8 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1521256.html?CMP=OTC-RSS ",
-    "away": "Southern Brave (Men)",
-    "home": "Manchester Super Giants (Men) 125/5 *",
-    "description": "Southern Brave (Men) v Manchester Super Giants (Men) 125/5 *",
+    "away": "Southern Brave (Men) 29/1 *",
+    "home": "Manchester Super Giants (Men) 149/8",
+    "description": "Southern Brave (Men) 29/1 * v Manchester Super Giants (Men) 149/8 ",
     "status": "Live/Recent"
   },
   {
@@ -85,6 +77,22 @@
     "away": "St Kitts and Nevis Patriots",
     "home": "Trinbago Knight Riders",
     "description": "St Kitts and Nevis Patriots v Trinbago Knight Riders",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Chepauk Super Gillies v Dindigul Dragons",
+    "link": "http://www.cricinfo.com/ci/engine/match/1548214.html?CMP=OTC-RSS ",
+    "away": "Chepauk Super Gillies",
+    "home": "Dindigul Dragons",
+    "description": "Chepauk Super Gillies v Dindigul Dragons",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "IDream Tiruppur Tamizhans v Nellai Royal Kings",
+    "link": "http://www.cricinfo.com/ci/engine/match/1548215.html?CMP=OTC-RSS ",
+    "away": "IDream Tiruppur Tamizhans",
+    "home": "Nellai Royal Kings",
+    "description": "IDream Tiruppur Tamizhans v Nellai Royal Kings",
     "status": "Live/Recent"
   }
 ]
