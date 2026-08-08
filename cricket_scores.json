@@ -16,14 +16,6 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Pamir Stars 307/6  v Shamshad Eagles 191/7 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1548995.html?CMP=OTC-RSS ",
-    "away": "Pamir Stars 307/6",
-    "home": "Shamshad Eagles 191/7 *",
-    "description": "Pamir Stars 307/6  v Shamshad Eagles 191/7 *",
-    "status": "Live/Recent"
-  },
-  {
     "title": "MI London (Men) 147/7  v Trent Rockets (Men) 148/4 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1521255.html?CMP=OTC-RSS ",
     "away": "MI London (Men) 147/7",
@@ -64,11 +56,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Southern Brave (Men) 79/3 * v Manchester Super Giants (Men) 149/8 ",
+    "title": "Southern Brave (Men) 139/6 * v Manchester Super Giants (Men) 149/8 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1521256.html?CMP=OTC-RSS ",
-    "away": "Southern Brave (Men) 79/3 *",
+    "away": "Southern Brave (Men) 139/6 *",
     "home": "Manchester Super Giants (Men) 149/8",
-    "description": "Southern Brave (Men) 79/3 * v Manchester Super Giants (Men) 149/8 ",
+    "description": "Southern Brave (Men) 139/6 * v Manchester Super Giants (Men) 149/8 ",
     "status": "Live/Recent"
   },
   {
@@ -88,11 +80,27 @@
     "status": "Live/Recent"
   },
   {
+    "title": "Kabul Zalmi v Pamir Stars",
+    "link": "http://www.cricinfo.com/ci/engine/match/1548997.html?CMP=OTC-RSS ",
+    "away": "Kabul Zalmi",
+    "home": "Pamir Stars",
+    "description": "Kabul Zalmi v Pamir Stars",
+    "status": "Live/Recent"
+  },
+  {
     "title": "IDream Tiruppur Tamizhans v Nellai Royal Kings",
     "link": "http://www.cricinfo.com/ci/engine/match/1548215.html?CMP=OTC-RSS ",
     "away": "IDream Tiruppur Tamizhans",
     "home": "Nellai Royal Kings",
     "description": "IDream Tiruppur Tamizhans v Nellai Royal Kings",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Abasin Defenders v Shamshad Eagles",
+    "link": "http://www.cricinfo.com/ci/engine/match/1548998.html?CMP=OTC-RSS ",
+    "away": "Abasin Defenders",
+    "home": "Shamshad Eagles",
+    "description": "Abasin Defenders v Shamshad Eagles",
     "status": "Live/Recent"
   }
 ]
