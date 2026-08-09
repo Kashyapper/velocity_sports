@@ -1,26 +1,18 @@
 [
   {
-    "title": "Sri Lanka Cricket XI 363/8  v India 357/6 *",
+    "title": "Sri Lanka Cricket XI &  363/8 * v India 357/6 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1548444.html?CMP=OTC-RSS ",
-    "away": "Sri Lanka Cricket XI 363/8",
-    "home": "India 357/6 *",
-    "description": "Sri Lanka Cricket XI 363/8  v India 357/6 *",
+    "away": "Sri Lanka Cricket XI &  363/8 *",
+    "home": "India 357/6",
+    "description": "Sri Lanka Cricket XI &  363/8 * v India 357/6 ",
     "status": "Live/Recent"
   },
   {
-    "title": "St Kitts and Nevis Patriots 109/9  v Trinbago Knight Riders 70/2 *",
+    "title": "St Kitts and Nevis Patriots 109/9  v Trinbago Knight Riders 94/2 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1534180.html?CMP=OTC-RSS ",
     "away": "St Kitts and Nevis Patriots 109/9",
-    "home": "Trinbago Knight Riders 70/2 *",
-    "description": "St Kitts and Nevis Patriots 109/9  v Trinbago Knight Riders 70/2 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "South Africa Emerging Players v Bangladesh Emerging Team",
-    "link": "http://www.cricinfo.com/ci/engine/match/1548083.html?CMP=OTC-RSS ",
-    "away": "South Africa Emerging Players",
-    "home": "Bangladesh Emerging Team",
-    "description": "South Africa Emerging Players v Bangladesh Emerging Team",
+    "home": "Trinbago Knight Riders 94/2 *",
+    "description": "St Kitts and Nevis Patriots 109/9  v Trinbago Knight Riders 94/2 *",
     "status": "Live/Recent"
   },
   {
@@ -157,6 +149,14 @@
     "away": "London Spirit (Men)",
     "home": "Birmingham Phoenix (Men)",
     "description": "London Spirit (Men) v Birmingham Phoenix (Men)",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Antigua and Barbuda Falcons v St Lucia Kings",
+    "link": "http://www.cricinfo.com/ci/engine/match/1534181.html?CMP=OTC-RSS ",
+    "away": "Antigua and Barbuda Falcons",
+    "home": "St Lucia Kings",
+    "description": "Antigua and Barbuda Falcons v St Lucia Kings",
     "status": "Live/Recent"
   }
 ]
