@@ -24,11 +24,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Trent Rockets (Men) 158/5  v Southern Brave (Men) 29 *",
+    "title": "Trent Rockets (Men) 158/5  v Southern Brave (Men) 129/3 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1521259.html?CMP=OTC-RSS ",
     "away": "Trent Rockets (Men) 158/5",
-    "home": "Southern Brave (Men) 29 *",
-    "description": "Trent Rockets (Men) 158/5  v Southern Brave (Men) 29 *",
+    "home": "Southern Brave (Men) 129/3 *",
+    "description": "Trent Rockets (Men) 158/5  v Southern Brave (Men) 129/3 *",
     "status": "Live/Recent"
   },
   {
@@ -48,11 +48,27 @@
     "status": "Live/Recent"
   },
   {
+    "title": "Abasin Defenders v Band-e Amir Stars",
+    "link": "http://www.cricinfo.com/ci/engine/match/1548999.html?CMP=OTC-RSS ",
+    "away": "Abasin Defenders",
+    "home": "Band-e Amir Stars",
+    "description": "Abasin Defenders v Band-e Amir Stars",
+    "status": "Live/Recent"
+  },
+  {
     "title": "IDream Tiruppur Tamizhans v VIDA Kovai Kings",
     "link": "http://www.cricinfo.com/ci/engine/match/1548218.html?CMP=OTC-RSS ",
     "away": "IDream Tiruppur Tamizhans",
     "home": "VIDA Kovai Kings",
     "description": "IDream Tiruppur Tamizhans v VIDA Kovai Kings",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Shamshad Eagles v Speenghar Warriors",
+    "link": "http://www.cricinfo.com/ci/engine/match/1549000.html?CMP=OTC-RSS ",
+    "away": "Shamshad Eagles",
+    "home": "Speenghar Warriors",
+    "description": "Shamshad Eagles v Speenghar Warriors",
     "status": "Live/Recent"
   }
 ]
