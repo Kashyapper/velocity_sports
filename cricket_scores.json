@@ -1,37 +1,5 @@
 [
   {
-    "title": "Ireland 301/10 * v Afghanistan 343/9 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1528553.html?CMP=OTC-RSS ",
-    "away": "Ireland 301/10 *",
-    "home": "Afghanistan 343/9",
-    "description": "Ireland 301/10 * v Afghanistan 343/9 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Welsh Fire (Women) 138/7  v London Spirit (Women) 123/10 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1521227.html?CMP=OTC-RSS ",
-    "away": "Welsh Fire (Women) 138/7",
-    "home": "London Spirit (Women) 123/10 *",
-    "description": "Welsh Fire (Women) 138/7  v London Spirit (Women) 123/10 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Welsh Fire (Men) 125/7 * v London Spirit (Men) 131/8 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1521261.html?CMP=OTC-RSS ",
-    "away": "Welsh Fire (Men) 125/7 *",
-    "home": "London Spirit (Men) 131/8",
-    "description": "Welsh Fire (Men) 125/7 * v London Spirit (Men) 131/8 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Birmingham Phoenix (Women) 121/5 * v MI London (Women) 120/6 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1521228.html?CMP=OTC-RSS ",
-    "away": "Birmingham Phoenix (Women) 121/5 *",
-    "home": "MI London (Women) 120/6",
-    "description": "Birmingham Phoenix (Women) 121/5 * v MI London (Women) 120/6 ",
-    "status": "Live/Recent"
-  },
-  {
     "title": "Birmingham Phoenix (Men) 155/7 * v MI London (Men) 157/6 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1521262.html?CMP=OTC-RSS ",
     "away": "Birmingham Phoenix (Men) 155/7 *",
@@ -40,11 +8,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "St Lucia Kings v St Kitts and Nevis Patriots",
+    "title": "St Lucia Kings 62/2 * v St Kitts and Nevis Patriots",
     "link": "http://www.cricinfo.com/ci/engine/match/1534183.html?CMP=OTC-RSS ",
-    "away": "St Lucia Kings",
+    "away": "St Lucia Kings 62/2 *",
     "home": "St Kitts and Nevis Patriots",
-    "description": "St Lucia Kings v St Kitts and Nevis Patriots",
+    "description": "St Lucia Kings 62/2 * v St Kitts and Nevis Patriots",
     "status": "Live/Recent"
   },
   {
@@ -53,6 +21,14 @@
     "away": "Australia",
     "home": "Bangladesh",
     "description": "Australia v Bangladesh",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Scotland v Canada",
+    "link": "http://www.cricinfo.com/ci/engine/match/1546003.html?CMP=OTC-RSS ",
+    "away": "Scotland",
+    "home": "Canada",
+    "description": "Scotland v Canada",
     "status": "Live/Recent"
   },
   {
