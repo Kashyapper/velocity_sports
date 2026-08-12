@@ -48,19 +48,19 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Ireland 9 * v Afghanistan 343/9 ",
+    "title": "Ireland 76/2 * v Afghanistan 343/9 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1528553.html?CMP=OTC-RSS ",
-    "away": "Ireland 9 *",
+    "away": "Ireland 76/2 *",
     "home": "Afghanistan 343/9",
-    "description": "Ireland 9 * v Afghanistan 343/9 ",
+    "description": "Ireland 76/2 * v Afghanistan 343/9 ",
     "status": "Live/Recent"
   },
   {
-    "title": "Pakistan Blues 16 * v Pakistan Gold 212/10 ",
+    "title": "Pakistan Blues 81/1 * v Pakistan Gold 212/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1547984.html?CMP=OTC-RSS ",
-    "away": "Pakistan Blues 16 *",
+    "away": "Pakistan Blues 81/1 *",
     "home": "Pakistan Gold 212/10",
-    "description": "Pakistan Blues 16 * v Pakistan Gold 212/10 ",
+    "description": "Pakistan Blues 81/1 * v Pakistan Gold 212/10 ",
     "status": "Live/Recent"
   },
   {
@@ -80,27 +80,27 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Welsh Fire (Men) v London Spirit (Men) 50/2 *",
+    "title": "Welsh Fire (Men) 1 * v London Spirit (Men) 131/8 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1521261.html?CMP=OTC-RSS ",
-    "away": "Welsh Fire (Men)",
-    "home": "London Spirit (Men) 50/2 *",
-    "description": "Welsh Fire (Men) v London Spirit (Men) 50/2 *",
+    "away": "Welsh Fire (Men) 1 *",
+    "home": "London Spirit (Men) 131/8",
+    "description": "Welsh Fire (Men) 1 * v London Spirit (Men) 131/8 ",
     "status": "Live/Recent"
   },
   {
-    "title": "Dindigul Dragons v Madurai Panthers",
+    "title": "Dindigul Dragons v Madurai Panthers 75/2 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1548220.html?CMP=OTC-RSS ",
     "away": "Dindigul Dragons",
-    "home": "Madurai Panthers",
-    "description": "Dindigul Dragons v Madurai Panthers",
+    "home": "Madurai Panthers 75/2 *",
+    "description": "Dindigul Dragons v Madurai Panthers 75/2 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Birmingham Phoenix (Women) v MI London (Women) 40/3 *",
+    "title": "Birmingham Phoenix (Women) 3/1 * v MI London (Women) 120/6 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1521228.html?CMP=OTC-RSS ",
-    "away": "Birmingham Phoenix (Women)",
-    "home": "MI London (Women) 40/3 *",
-    "description": "Birmingham Phoenix (Women) v MI London (Women) 40/3 *",
+    "away": "Birmingham Phoenix (Women) 3/1 *",
+    "home": "MI London (Women) 120/6",
+    "description": "Birmingham Phoenix (Women) 3/1 * v MI London (Women) 120/6 ",
     "status": "Live/Recent"
   },
   {
@@ -117,6 +117,14 @@
     "away": "St Lucia Kings",
     "home": "St Kitts and Nevis Patriots",
     "description": "St Lucia Kings v St Kitts and Nevis Patriots",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Australia v Bangladesh",
+    "link": "http://www.cricinfo.com/ci/engine/match/1527273.html?CMP=OTC-RSS ",
+    "away": "Australia",
+    "home": "Bangladesh",
+    "description": "Australia v Bangladesh",
     "status": "Live/Recent"
   }
 ]
