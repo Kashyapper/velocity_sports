@@ -8,43 +8,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Lancashire 187/10 * v Durham 349/8 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1513524.html?CMP=OTC-RSS ",
-    "away": "Lancashire 187/10 *",
-    "home": "Durham 349/8",
-    "description": "Lancashire 187/10 * v Durham 349/8 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Yorkshire 273/9  v Nottinghamshire 277/7 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1513525.html?CMP=OTC-RSS ",
-    "away": "Yorkshire 273/9",
-    "home": "Nottinghamshire 277/7 *",
-    "description": "Yorkshire 273/9  v Nottinghamshire 277/7 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Southern Brave (Women) 114/7  v Sunrisers Leeds (Women) 116/5 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1521229.html?CMP=OTC-RSS ",
-    "away": "Southern Brave (Women) 114/7",
-    "home": "Sunrisers Leeds (Women) 116/5 *",
-    "description": "Southern Brave (Women) 114/7  v Sunrisers Leeds (Women) 116/5 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Manchester Super Giants (Men) 186/4  v Sunrisers Leeds (Men) 166/7 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1521263.html?CMP=OTC-RSS ",
-    "away": "Manchester Super Giants (Men) 186/4",
-    "home": "Sunrisers Leeds (Men) 166/7 *",
-    "description": "Manchester Super Giants (Men) 186/4  v Sunrisers Leeds (Men) 166/7 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "St Lucia Kings v Antigua and Barbuda Falcons",
+    "title": "St Lucia Kings v Antigua and Barbuda Falcons 1 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1534185.html?CMP=OTC-RSS ",
     "away": "St Lucia Kings",
-    "home": "Antigua and Barbuda Falcons",
-    "description": "St Lucia Kings v Antigua and Barbuda Falcons",
+    "home": "Antigua and Barbuda Falcons 1 *",
+    "description": "St Lucia Kings v Antigua and Barbuda Falcons 1 *",
     "status": "Live/Recent"
   },
   {
@@ -53,6 +21,14 @@
     "away": "Sri Lanka",
     "home": "India",
     "description": "Sri Lanka v India",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Ireland v Afghanistan",
+    "link": "http://www.cricinfo.com/ci/engine/match/1528554.html?CMP=OTC-RSS ",
+    "away": "Ireland",
+    "home": "Afghanistan",
+    "description": "Ireland v Afghanistan",
     "status": "Live/Recent"
   },
   {
