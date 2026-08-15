@@ -102,5 +102,21 @@
     "home": "Pakistan Whites",
     "description": "Pakistan Gold v Pakistan Whites",
     "status": "Live/Recent"
+  },
+  {
+    "title": "Band-e Amir Stars v Shamshad Eagles",
+    "link": "http://www.cricinfo.com/ci/engine/match/1549005.html?CMP=OTC-RSS ",
+    "away": "Band-e Amir Stars",
+    "home": "Shamshad Eagles",
+    "description": "Band-e Amir Stars v Shamshad Eagles",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Pamir Stars v Speenghar Warriors",
+    "link": "http://www.cricinfo.com/ci/engine/match/1549006.html?CMP=OTC-RSS ",
+    "away": "Pamir Stars",
+    "home": "Speenghar Warriors",
+    "description": "Pamir Stars v Speenghar Warriors",
+    "status": "Live/Recent"
   }
 ]
