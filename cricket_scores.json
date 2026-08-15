@@ -1,10 +1,10 @@
 [
   {
-    "title": "Australia 198/10 &  161/4 * v Bangladesh 426/10 ",
+    "title": "Australia 161/4 &  198/10 * v Bangladesh 426/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1527273.html?CMP=OTC-RSS ",
-    "away": "Australia 198/10 &  161/4 *",
+    "away": "Australia 161/4 &  198/10 *",
     "home": "Bangladesh 426/10",
-    "description": "Australia 198/10 &  161/4 * v Bangladesh 426/10 ",
+    "description": "Australia 161/4 &  198/10 * v Bangladesh 426/10 ",
     "status": "Live/Recent"
   },
   {
@@ -93,6 +93,14 @@
     "away": "Panadura Sports Club",
     "home": "Bloomfield Cricket and Athletic Club",
     "description": "Panadura Sports Club v Bloomfield Cricket and Athletic Club",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Pakistan Gold v Pakistan Whites",
+    "link": "http://www.cricinfo.com/ci/engine/match/1547988.html?CMP=OTC-RSS ",
+    "away": "Pakistan Gold",
+    "home": "Pakistan Whites",
+    "description": "Pakistan Gold v Pakistan Whites",
     "status": "Live/Recent"
   }
 ]
