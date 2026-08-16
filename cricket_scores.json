@@ -1,10 +1,10 @@
 [
   {
-    "title": "Australia 198/10 &  284/10  v Bangladesh 57/1 &  426/10 *",
+    "title": "Australia 198/10 &  284/10  v Bangladesh 426/10 &  57/1 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1527273.html?CMP=OTC-RSS ",
     "away": "Australia 198/10 &  284/10",
-    "home": "Bangladesh 57/1 &  426/10 *",
-    "description": "Australia 198/10 &  284/10  v Bangladesh 57/1 &  426/10 *",
+    "home": "Bangladesh 426/10 &  57/1 *",
+    "description": "Australia 198/10 &  284/10  v Bangladesh 426/10 &  57/1 *",
     "status": "Live/Recent"
   },
   {
@@ -40,27 +40,19 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Nugegoda Sports Welfare Club v Burgher Recreation Club",
-    "link": "http://www.cricinfo.com/ci/engine/match/1535520.html?CMP=OTC-RSS ",
-    "away": "Nugegoda Sports Welfare Club",
-    "home": "Burgher Recreation Club",
-    "description": "Nugegoda Sports Welfare Club v Burgher Recreation Club",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Nondescripts Cricket Club v Badureliya Sports Club",
+    "title": "Nondescripts Cricket Club 36/1 * v Badureliya Sports Club",
     "link": "http://www.cricinfo.com/ci/engine/match/1535522.html?CMP=OTC-RSS ",
-    "away": "Nondescripts Cricket Club",
+    "away": "Nondescripts Cricket Club 36/1 *",
     "home": "Badureliya Sports Club",
-    "description": "Nondescripts Cricket Club v Badureliya Sports Club",
+    "description": "Nondescripts Cricket Club 36/1 * v Badureliya Sports Club",
     "status": "Live/Recent"
   },
   {
-    "title": "Panadura Sports Club v Bloomfield Cricket and Athletic Club",
+    "title": "Panadura Sports Club v Bloomfield Cricket and Athletic Club 36/2 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1535519.html?CMP=OTC-RSS ",
     "away": "Panadura Sports Club",
-    "home": "Bloomfield Cricket and Athletic Club",
-    "description": "Panadura Sports Club v Bloomfield Cricket and Athletic Club",
+    "home": "Bloomfield Cricket and Athletic Club 36/2 *",
+    "description": "Panadura Sports Club v Bloomfield Cricket and Athletic Club 36/2 *",
     "status": "Live/Recent"
   },
   {
