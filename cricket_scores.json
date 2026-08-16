@@ -1,10 +1,10 @@
 [
   {
-    "title": "Australia 198/10 &  284/10  v Bangladesh 426/10 &  57/1 *",
+    "title": "Australia 284/10 &  198/10  v Bangladesh 57/1 &  426/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1527273.html?CMP=OTC-RSS ",
-    "away": "Australia 198/10 &  284/10",
-    "home": "Bangladesh 426/10 &  57/1 *",
-    "description": "Australia 198/10 &  284/10  v Bangladesh 426/10 &  57/1 *",
+    "away": "Australia 284/10 &  198/10",
+    "home": "Bangladesh 57/1 &  426/10 *",
+    "description": "Australia 284/10 &  198/10  v Bangladesh 57/1 &  426/10 *",
     "status": "Live/Recent"
   },
   {
@@ -56,27 +56,27 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Middlesex v Durham 219/6 *",
+    "title": "Middlesex v Durham 254/7 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1513527.html?CMP=OTC-RSS ",
     "away": "Middlesex",
-    "home": "Durham 219/6 *",
-    "description": "Middlesex v Durham 219/6 *",
+    "home": "Durham 254/7 *",
+    "description": "Middlesex v Durham 254/7 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Leicestershire 254/4 * v Nottinghamshire",
+    "title": "Leicestershire 303/7 * v Nottinghamshire",
     "link": "http://www.cricinfo.com/ci/engine/match/1513526.html?CMP=OTC-RSS ",
-    "away": "Leicestershire 254/4 *",
+    "away": "Leicestershire 303/7 *",
     "home": "Nottinghamshire",
-    "description": "Leicestershire 254/4 * v Nottinghamshire",
+    "description": "Leicestershire 303/7 * v Nottinghamshire",
     "status": "Live/Recent"
   },
   {
-    "title": "Pakistan Gold v Pakistan Whites 167/9 *",
+    "title": "Pakistan Gold 4 * v Pakistan Whites 172/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1547988.html?CMP=OTC-RSS ",
-    "away": "Pakistan Gold",
-    "home": "Pakistan Whites 167/9 *",
-    "description": "Pakistan Gold v Pakistan Whites 167/9 *",
+    "away": "Pakistan Gold 4 *",
+    "home": "Pakistan Whites 172/10",
+    "description": "Pakistan Gold 4 * v Pakistan Whites 172/10 ",
     "status": "Live/Recent"
   },
   {
@@ -88,11 +88,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Sunrisers Leeds (Women) v Trent Rockets (Women)",
+    "title": "Sunrisers Leeds (Women) 34/3 * v Trent Rockets (Women)",
     "link": "http://www.cricinfo.com/ci/engine/match/1521230.html?CMP=OTC-RSS ",
-    "away": "Sunrisers Leeds (Women)",
+    "away": "Sunrisers Leeds (Women) 34/3 *",
     "home": "Trent Rockets (Women)",
-    "description": "Sunrisers Leeds (Women) v Trent Rockets (Women)",
+    "description": "Sunrisers Leeds (Women) 34/3 * v Trent Rockets (Women)",
     "status": "Live/Recent"
   },
   {
