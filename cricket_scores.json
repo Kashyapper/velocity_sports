@@ -32,14 +32,6 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Band-e Amir Stars 248/5  v Shamshad Eagles 234/6 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1549005.html?CMP=OTC-RSS ",
-    "away": "Band-e Amir Stars 248/5",
-    "home": "Shamshad Eagles 234/6 *",
-    "description": "Band-e Amir Stars 248/5  v Shamshad Eagles 234/6 *",
-    "status": "Live/Recent"
-  },
-  {
     "title": "Sunrisers Leeds (Women) 91/10  v Trent Rockets (Women) 92/2 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1521230.html?CMP=OTC-RSS ",
     "away": "Sunrisers Leeds (Women) 91/10",
@@ -48,19 +40,19 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Pamir Stars v Speenghar Warriors",
+    "title": "Pamir Stars v Speenghar Warriors 93/7 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1549006.html?CMP=OTC-RSS ",
     "away": "Pamir Stars",
-    "home": "Speenghar Warriors",
-    "description": "Pamir Stars v Speenghar Warriors",
+    "home": "Speenghar Warriors 93/7 *",
+    "description": "Pamir Stars v Speenghar Warriors 93/7 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Manchester Super Giants (Men) 135/2 * v Trent Rockets (Men) 158/8 ",
+    "title": "Manchester Super Giants (Men) 156/4 * v Trent Rockets (Men) 158/8 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1521264.html?CMP=OTC-RSS ",
-    "away": "Manchester Super Giants (Men) 135/2 *",
+    "away": "Manchester Super Giants (Men) 156/4 *",
     "home": "Trent Rockets (Men) 158/8",
-    "description": "Manchester Super Giants (Men) 135/2 * v Trent Rockets (Men) 158/8 ",
+    "description": "Manchester Super Giants (Men) 156/4 * v Trent Rockets (Men) 158/8 ",
     "status": "Live/Recent"
   },
   {
@@ -77,6 +69,22 @@
     "away": "Nugegoda Sports Welfare Club",
     "home": "Burgher Recreation Club",
     "description": "Nugegoda Sports Welfare Club v Burgher Recreation Club",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Abasin Defenders v Speenghar Warriors",
+    "link": "http://www.cricinfo.com/ci/engine/match/1549007.html?CMP=OTC-RSS ",
+    "away": "Abasin Defenders",
+    "home": "Speenghar Warriors",
+    "description": "Abasin Defenders v Speenghar Warriors",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Band-e Amir Stars v Kabul Zalmi",
+    "link": "http://www.cricinfo.com/ci/engine/match/1549008.html?CMP=OTC-RSS ",
+    "away": "Band-e Amir Stars",
+    "home": "Kabul Zalmi",
+    "description": "Band-e Amir Stars v Kabul Zalmi",
     "status": "Live/Recent"
   }
 ]
