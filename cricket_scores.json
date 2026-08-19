@@ -1,18 +1,18 @@
 [
   {
-    "title": "Sri Lanka 84/4 &  284/10 * v India 193/10 &  462/10 ",
+    "title": "Sri Lanka 92/4 &  284/10 * v India 462/10 &  193/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1544001.html?CMP=OTC-RSS ",
-    "away": "Sri Lanka 84/4 &  284/10 *",
-    "home": "India 193/10 &  462/10",
-    "description": "Sri Lanka 84/4 &  284/10 * v India 193/10 &  462/10 ",
+    "away": "Sri Lanka 92/4 &  284/10 *",
+    "home": "India 462/10 &  193/10",
+    "description": "Sri Lanka 92/4 &  284/10 * v India 462/10 &  193/10 ",
     "status": "Live/Recent"
   },
   {
-    "title": "Jamaica Kingsmen 181/6  v St Kitts and Nevis Patriots 80/5 *",
+    "title": "Jamaica Kingsmen 181/6  v St Kitts and Nevis Patriots 130/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1534188.html?CMP=OTC-RSS ",
     "away": "Jamaica Kingsmen 181/6",
-    "home": "St Kitts and Nevis Patriots 80/5 *",
-    "description": "Jamaica Kingsmen 181/6  v St Kitts and Nevis Patriots 80/5 *",
+    "home": "St Kitts and Nevis Patriots 130/10 *",
+    "description": "Jamaica Kingsmen 181/6  v St Kitts and Nevis Patriots 130/10 *",
     "status": "Live/Recent"
   },
   {
@@ -77,6 +77,14 @@
     "away": "Kabul Zalmi",
     "home": "Shamshad Eagles",
     "description": "Kabul Zalmi v Shamshad Eagles",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "St Lucia Kings v Guyana Amazon Warriors",
+    "link": "http://www.cricinfo.com/ci/engine/match/1534189.html?CMP=OTC-RSS ",
+    "away": "St Lucia Kings",
+    "home": "Guyana Amazon Warriors",
+    "description": "St Lucia Kings v Guyana Amazon Warriors",
     "status": "Live/Recent"
   }
 ]
