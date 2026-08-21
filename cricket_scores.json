@@ -88,11 +88,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Hobart Hurricanes Academy 141/8  v Victoria CA XI 90/4 *",
+    "title": "Hobart Hurricanes Academy 141/8  v Victoria CA XI 145/5 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1549023.html?CMP=OTC-RSS ",
     "away": "Hobart Hurricanes Academy 141/8",
-    "home": "Victoria CA XI 90/4 *",
-    "description": "Hobart Hurricanes Academy 141/8  v Victoria CA XI 90/4 *",
+    "home": "Victoria CA XI 145/5 *",
+    "description": "Hobart Hurricanes Academy 141/8  v Victoria CA XI 145/5 *",
     "status": "Live/Recent"
   },
   {
@@ -149,6 +149,14 @@
     "away": "Abasin Defenders",
     "home": "Kabul Zalmi",
     "description": "Abasin Defenders v Kabul Zalmi",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "St Lucia Kings v Jamaica Kingsmen",
+    "link": "http://www.cricinfo.com/ci/engine/match/1534191.html?CMP=OTC-RSS ",
+    "away": "St Lucia Kings",
+    "home": "Jamaica Kingsmen",
+    "description": "St Lucia Kings v Jamaica Kingsmen",
     "status": "Live/Recent"
   }
 ]
