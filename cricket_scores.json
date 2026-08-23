@@ -1,10 +1,10 @@
 [
   {
-    "title": "Middlesex 186/4 &  249/10 * v Kent 350/10 &  254/10 ",
+    "title": "Middlesex 249/10 &  186/4 * v Kent 254/10 &  350/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1513428.html?CMP=OTC-RSS ",
-    "away": "Middlesex 186/4 &  249/10 *",
-    "home": "Kent 350/10 &  254/10",
-    "description": "Middlesex 186/4 &  249/10 * v Kent 350/10 &  254/10 ",
+    "away": "Middlesex 249/10 &  186/4 *",
+    "home": "Kent 254/10 &  350/10",
+    "description": "Middlesex 249/10 &  186/4 * v Kent 254/10 &  350/10 ",
     "status": "Live/Recent"
   },
   {
@@ -16,19 +16,19 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Gloucestershire 150/10 &  248/3 * v Worcestershire 267/10 ",
+    "title": "Gloucestershire 248/3 &  150/10 * v Worcestershire 267/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1513431.html?CMP=OTC-RSS ",
-    "away": "Gloucestershire 150/10 &  248/3 *",
+    "away": "Gloucestershire 248/3 &  150/10 *",
     "home": "Worcestershire 267/10",
-    "description": "Gloucestershire 150/10 &  248/3 * v Worcestershire 267/10 ",
+    "description": "Gloucestershire 248/3 &  150/10 * v Worcestershire 267/10 ",
     "status": "Live/Recent"
   },
   {
-    "title": "Leicestershire 151/10 &  257/10  v Glamorgan 126/5 &  152/10 *",
+    "title": "Leicestershire 257/10 &  151/10  v Glamorgan 152/10 &  126/5 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1513368.html?CMP=OTC-RSS ",
-    "away": "Leicestershire 151/10 &  257/10",
-    "home": "Glamorgan 126/5 &  152/10 *",
-    "description": "Leicestershire 151/10 &  257/10  v Glamorgan 126/5 &  152/10 *",
+    "away": "Leicestershire 257/10 &  151/10",
+    "home": "Glamorgan 152/10 &  126/5 *",
+    "description": "Leicestershire 257/10 &  151/10  v Glamorgan 152/10 &  126/5 *",
     "status": "Live/Recent"
   },
   {
@@ -40,11 +40,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Hampshire 106/3 &  197/10 * v Yorkshire 301/10 &  173/10 ",
+    "title": "Hampshire 197/10 &  106/3 * v Yorkshire 173/10 &  301/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1513370.html?CMP=OTC-RSS ",
-    "away": "Hampshire 106/3 &  197/10 *",
-    "home": "Yorkshire 301/10 &  173/10",
-    "description": "Hampshire 106/3 &  197/10 * v Yorkshire 301/10 &  173/10 ",
+    "away": "Hampshire 197/10 &  106/3 *",
+    "home": "Yorkshire 173/10 &  301/10",
+    "description": "Hampshire 197/10 &  106/3 * v Yorkshire 173/10 &  301/10 ",
     "status": "Live/Recent"
   },
   {
@@ -72,35 +72,35 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Northern Territory Strike 32/1 * v Adelaide Strikers Academy 165/10 ",
+    "title": "Northern Territory Strike 70/2 * v Adelaide Strikers Academy 165/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1549030.html?CMP=OTC-RSS ",
-    "away": "Northern Territory Strike 32/1 *",
+    "away": "Northern Territory Strike 70/2 *",
     "home": "Adelaide Strikers Academy 165/10",
-    "description": "Northern Territory Strike 32/1 * v Adelaide Strikers Academy 165/10 ",
+    "description": "Northern Territory Strike 70/2 * v Adelaide Strikers Academy 165/10 ",
     "status": "Live/Recent"
   },
   {
-    "title": "East Zone 108/2 * v North East Zone",
+    "title": "East Zone 137/4 * v North East Zone",
     "link": "http://www.cricinfo.com/ci/engine/match/1546437.html?CMP=OTC-RSS ",
-    "away": "East Zone 108/2 *",
+    "away": "East Zone 137/4 *",
     "home": "North East Zone",
-    "description": "East Zone 108/2 * v North East Zone",
+    "description": "East Zone 137/4 * v North East Zone",
     "status": "Live/Recent"
   },
   {
-    "title": "North Zone 69/2 * v West Zone",
+    "title": "North Zone 111/2 * v West Zone",
     "link": "http://www.cricinfo.com/ci/engine/match/1546438.html?CMP=OTC-RSS ",
-    "away": "North Zone 69/2 *",
+    "away": "North Zone 111/2 *",
     "home": "West Zone",
-    "description": "North Zone 69/2 * v West Zone",
+    "description": "North Zone 111/2 * v West Zone",
     "status": "Live/Recent"
   },
   {
-    "title": "Sri Lanka v India 58/1 *",
+    "title": "Sri Lanka v India 82/2 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1544002.html?CMP=OTC-RSS ",
     "away": "Sri Lanka",
-    "home": "India 58/1 *",
-    "description": "Sri Lanka v India 58/1 *",
+    "home": "India 82/2 *",
+    "description": "Sri Lanka v India 82/2 *",
     "status": "Live/Recent"
   },
   {
