@@ -1,18 +1,18 @@
 [
   {
-    "title": "East Zone 467/10  v North East Zone 111/10 &  7 *",
+    "title": "East Zone 467/10  v North East Zone 7 &  111/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1546437.html?CMP=OTC-RSS ",
     "away": "East Zone 467/10",
-    "home": "North East Zone 111/10 &  7 *",
-    "description": "East Zone 467/10  v North East Zone 111/10 &  7 *",
+    "home": "North East Zone 7 &  111/10 *",
+    "description": "East Zone 467/10  v North East Zone 7 &  111/10 *",
     "status": "Live/Recent"
   },
   {
-    "title": "North Zone 107/4 &  251/10 * v West Zone 187/10 ",
+    "title": "North Zone 251/10 &  107/4 * v West Zone 187/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1546438.html?CMP=OTC-RSS ",
-    "away": "North Zone 107/4 &  251/10 *",
+    "away": "North Zone 251/10 &  107/4 *",
     "home": "West Zone 187/10",
-    "description": "North Zone 107/4 &  251/10 * v West Zone 187/10 ",
+    "description": "North Zone 251/10 &  107/4 * v West Zone 187/10 ",
     "status": "Live/Recent"
   },
   {
@@ -96,11 +96,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "IDream Tiruppur Tamizhans v VIDA Kovai Kings",
+    "title": "IDream Tiruppur Tamizhans 6 * v VIDA Kovai Kings",
     "link": "http://www.cricinfo.com/ci/engine/match/1548235.html?CMP=OTC-RSS ",
-    "away": "IDream Tiruppur Tamizhans",
+    "away": "IDream Tiruppur Tamizhans 6 *",
     "home": "VIDA Kovai Kings",
-    "description": "IDream Tiruppur Tamizhans v VIDA Kovai Kings",
+    "description": "IDream Tiruppur Tamizhans 6 * v VIDA Kovai Kings",
     "status": "Live/Recent"
   }
 ]
