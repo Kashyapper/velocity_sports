@@ -1,26 +1,26 @@
 [
   {
-    "title": "East Zone 467/10  v North East Zone 7 &  111/10 *",
+    "title": "East Zone 467/10  v North East Zone 111/10 &  7 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1546437.html?CMP=OTC-RSS ",
     "away": "East Zone 467/10",
-    "home": "North East Zone 7 &  111/10 *",
-    "description": "East Zone 467/10  v North East Zone 7 &  111/10 *",
+    "home": "North East Zone 111/10 &  7 *",
+    "description": "East Zone 467/10  v North East Zone 111/10 &  7 *",
     "status": "Live/Recent"
   },
   {
-    "title": "North Zone 107/4 &  251/10 * v West Zone 187/10 ",
+    "title": "North Zone 251/10 &  107/4 * v West Zone 187/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1546438.html?CMP=OTC-RSS ",
-    "away": "North Zone 107/4 &  251/10 *",
+    "away": "North Zone 251/10 &  107/4 *",
     "home": "West Zone 187/10",
-    "description": "North Zone 107/4 &  251/10 * v West Zone 187/10 ",
+    "description": "North Zone 251/10 &  107/4 * v West Zone 187/10 ",
     "status": "Live/Recent"
   },
   {
-    "title": "Sri Lanka v India 489/9 *",
+    "title": "Sri Lanka * v India 503/9 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1544002.html?CMP=OTC-RSS ",
-    "away": "Sri Lanka",
-    "home": "India 489/9 *",
-    "description": "Sri Lanka v India 489/9 *",
+    "away": "Sri Lanka *",
+    "home": "India 503/9",
+    "description": "Sri Lanka * v India 503/9 ",
     "status": "Live/Recent"
   },
   {
@@ -64,19 +64,19 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Colombo Cricket Club 87/7 * v Moors Sports Club",
+    "title": "Colombo Cricket Club 87/7  v Moors Sports Club 46/2 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1535531.html?CMP=OTC-RSS ",
-    "away": "Colombo Cricket Club 87/7 *",
-    "home": "Moors Sports Club",
-    "description": "Colombo Cricket Club 87/7 * v Moors Sports Club",
+    "away": "Colombo Cricket Club 87/7",
+    "home": "Moors Sports Club 46/2 *",
+    "description": "Colombo Cricket Club 87/7  v Moors Sports Club 46/2 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Kurunegala Youth Cricket Club v Nugegoda Sports Welfare Club 64/2 *",
+    "title": "Kurunegala Youth Cricket Club 42/2 * v Nugegoda Sports Welfare Club 67/5 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1535534.html?CMP=OTC-RSS ",
-    "away": "Kurunegala Youth Cricket Club",
-    "home": "Nugegoda Sports Welfare Club 64/2 *",
-    "description": "Kurunegala Youth Cricket Club v Nugegoda Sports Welfare Club 64/2 *",
+    "away": "Kurunegala Youth Cricket Club 42/2 *",
+    "home": "Nugegoda Sports Welfare Club 67/5",
+    "description": "Kurunegala Youth Cricket Club 42/2 * v Nugegoda Sports Welfare Club 67/5 ",
     "status": "Live/Recent"
   },
   {
@@ -88,11 +88,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Hobart Hurricanes Academy v Nepal 154/8 *",
+    "title": "Hobart Hurricanes Academy 47/1 * v Nepal 154/8 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1549034.html?CMP=OTC-RSS ",
-    "away": "Hobart Hurricanes Academy",
-    "home": "Nepal 154/8 *",
-    "description": "Hobart Hurricanes Academy v Nepal 154/8 *",
+    "away": "Hobart Hurricanes Academy 47/1 *",
+    "home": "Nepal 154/8",
+    "description": "Hobart Hurricanes Academy 47/1 * v Nepal 154/8 ",
     "status": "Live/Recent"
   },
   {
