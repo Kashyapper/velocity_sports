@@ -8,11 +8,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "North Zone 251/10 &  107/4 * v West Zone 187/10 ",
+    "title": "North Zone 107/4 &  251/10 * v West Zone 187/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1546438.html?CMP=OTC-RSS ",
-    "away": "North Zone 251/10 &  107/4 *",
+    "away": "North Zone 107/4 &  251/10 *",
     "home": "West Zone 187/10",
-    "description": "North Zone 251/10 &  107/4 * v West Zone 187/10 ",
+    "description": "North Zone 107/4 &  251/10 * v West Zone 187/10 ",
     "status": "Live/Recent"
   },
   {
@@ -21,14 +21,6 @@
     "away": "Sri Lanka 8/2 *",
     "home": "India 503/9",
     "description": "Sri Lanka 8/2 * v India 503/9 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Northern Territory Strike 164/5  v Hyderabad Kingsmen Academy 152/6 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1549032.html?CMP=OTC-RSS ",
-    "away": "Northern Territory Strike 164/5",
-    "home": "Hyderabad Kingsmen Academy 152/6 *",
-    "description": "Northern Territory Strike 164/5  v Hyderabad Kingsmen Academy 152/6 *",
     "status": "Live/Recent"
   },
   {
@@ -53,14 +45,6 @@
     "away": "Nondescripts Cricket Club 140/8 *",
     "home": "Panadura Sports Club 142/9",
     "description": "Nondescripts Cricket Club 140/8 * v Panadura Sports Club 142/9 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Bangladesh High Performance XI 136/5 * v Victoria CA XI 131/10 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1549033.html?CMP=OTC-RSS ",
-    "away": "Bangladesh High Performance XI 136/5 *",
-    "home": "Victoria CA XI 131/10",
-    "description": "Bangladesh High Performance XI 136/5 * v Victoria CA XI 131/10 ",
     "status": "Live/Recent"
   },
   {
@@ -96,11 +80,19 @@
     "status": "Live/Recent"
   },
   {
-    "title": "IDream Tiruppur Tamizhans 6 * v VIDA Kovai Kings",
+    "title": "IDream Tiruppur Tamizhans 15 * v VIDA Kovai Kings",
     "link": "http://www.cricinfo.com/ci/engine/match/1548235.html?CMP=OTC-RSS ",
-    "away": "IDream Tiruppur Tamizhans 6 *",
+    "away": "IDream Tiruppur Tamizhans 15 *",
     "home": "VIDA Kovai Kings",
-    "description": "IDream Tiruppur Tamizhans 6 * v VIDA Kovai Kings",
+    "description": "IDream Tiruppur Tamizhans 15 * v VIDA Kovai Kings",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Northern Territory Strike v Australian Capital Territory",
+    "link": "http://www.cricinfo.com/ci/engine/match/1549035.html?CMP=OTC-RSS ",
+    "away": "Northern Territory Strike",
+    "home": "Australian Capital Territory",
+    "description": "Northern Territory Strike v Australian Capital Territory",
     "status": "Live/Recent"
   }
 ]
