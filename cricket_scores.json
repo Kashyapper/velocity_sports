@@ -8,19 +8,19 @@
     "status": "Live/Recent"
   },
   {
-    "title": "North Zone 251/10 &  222/10  v West Zone 146/3 &  187/10 *",
+    "title": "North Zone 251/10 &  222/10  v West Zone 187/10 &  183/3 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1546438.html?CMP=OTC-RSS ",
     "away": "North Zone 251/10 &  222/10",
-    "home": "West Zone 146/3 &  187/10 *",
-    "description": "North Zone 251/10 &  222/10  v West Zone 146/3 &  187/10 *",
+    "home": "West Zone 187/10 &  183/3 *",
+    "description": "North Zone 251/10 &  222/10  v West Zone 187/10 &  183/3 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Sri Lanka 216/7 * v India 503/9 ",
+    "title": "Sri Lanka 240/8 * v India 503/9 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1544002.html?CMP=OTC-RSS ",
-    "away": "Sri Lanka 216/7 *",
+    "away": "Sri Lanka 240/8 *",
     "home": "India 503/9",
-    "description": "Sri Lanka 216/7 * v India 503/9 ",
+    "description": "Sri Lanka 240/8 * v India 503/9 ",
     "status": "Live/Recent"
   },
   {
@@ -32,11 +32,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Nugegoda Sports Welfare Club 251/10  v Kurunegala Youth Cricket Club 80/1 *",
+    "title": "Nugegoda Sports Welfare Club 251/10  v Kurunegala Youth Cricket Club 133/4 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1547426.html?CMP=OTC-RSS ",
     "away": "Nugegoda Sports Welfare Club 251/10",
-    "home": "Kurunegala Youth Cricket Club 80/1 *",
-    "description": "Nugegoda Sports Welfare Club 251/10  v Kurunegala Youth Cricket Club 80/1 *",
+    "home": "Kurunegala Youth Cricket Club 133/4 *",
+    "description": "Nugegoda Sports Welfare Club 251/10  v Kurunegala Youth Cricket Club 133/4 *",
     "status": "Live/Recent"
   },
   {
@@ -45,6 +45,14 @@
     "away": "Hyderabad Kingsmen Academy 141/10",
     "home": "New Zealand A 121/10 *",
     "description": "Hyderabad Kingsmen Academy 141/10  v New Zealand A 121/10 *",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Adelaide Strikers Academy 123/4 * v Bangladesh High Performance XI",
+    "link": "http://www.cricinfo.com/ci/engine/match/1549037.html?CMP=OTC-RSS ",
+    "away": "Adelaide Strikers Academy 123/4 *",
+    "home": "Bangladesh High Performance XI",
+    "description": "Adelaide Strikers Academy 123/4 * v Bangladesh High Performance XI",
     "status": "Live/Recent"
   },
   {
