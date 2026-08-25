@@ -1,18 +1,18 @@
 [
   {
-    "title": "East Zone 467/10  v North East Zone 146/10 &  111/10 *",
+    "title": "East Zone 467/10  v North East Zone 111/10 &  146/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1546437.html?CMP=OTC-RSS ",
     "away": "East Zone 467/10",
-    "home": "North East Zone 146/10 &  111/10 *",
-    "description": "East Zone 467/10  v North East Zone 146/10 &  111/10 *",
+    "home": "North East Zone 111/10 &  146/10 *",
+    "description": "East Zone 467/10  v North East Zone 111/10 &  146/10 *",
     "status": "Live/Recent"
   },
   {
-    "title": "North Zone 251/10 &  222/10  v West Zone 220/7 &  187/10 *",
+    "title": "North Zone 222/10 &  251/10  v West Zone 187/10 &  220/7 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1546438.html?CMP=OTC-RSS ",
-    "away": "North Zone 251/10 &  222/10",
-    "home": "West Zone 220/7 &  187/10 *",
-    "description": "North Zone 251/10 &  222/10  v West Zone 220/7 &  187/10 *",
+    "away": "North Zone 222/10 &  251/10",
+    "home": "West Zone 187/10 &  220/7 *",
+    "description": "North Zone 222/10 &  251/10  v West Zone 187/10 &  220/7 *",
     "status": "Live/Recent"
   },
   {
@@ -24,27 +24,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Northern Territory Strike 131/4 * v Australian Capital Territory 130/10 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1549035.html?CMP=OTC-RSS ",
-    "away": "Northern Territory Strike 131/4 *",
-    "home": "Australian Capital Territory 130/10",
-    "description": "Northern Territory Strike 131/4 * v Australian Capital Territory 130/10 ",
-    "status": "Live/Recent"
-  },
-  {
     "title": "Nugegoda Sports Welfare Club 251/10  v Kurunegala Youth Cricket Club 212/9 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1547426.html?CMP=OTC-RSS ",
     "away": "Nugegoda Sports Welfare Club 251/10",
     "home": "Kurunegala Youth Cricket Club 212/9 *",
     "description": "Nugegoda Sports Welfare Club 251/10  v Kurunegala Youth Cricket Club 212/9 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Hyderabad Kingsmen Academy 141/10  v New Zealand A 121/10 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1549036.html?CMP=OTC-RSS ",
-    "away": "Hyderabad Kingsmen Academy 141/10",
-    "home": "New Zealand A 121/10 *",
-    "description": "Hyderabad Kingsmen Academy 141/10  v New Zealand A 121/10 *",
     "status": "Live/Recent"
   },
   {
@@ -61,6 +45,30 @@
     "away": "Antigua and Barbuda Falcons",
     "home": "Barbados Tridents",
     "description": "Antigua and Barbuda Falcons v Barbados Tridents",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "New Zealand A v Victoria CA XI",
+    "link": "http://www.cricinfo.com/ci/engine/match/1549038.html?CMP=OTC-RSS ",
+    "away": "New Zealand A",
+    "home": "Victoria CA XI",
+    "description": "New Zealand A v Victoria CA XI",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Adelaide Strikers Academy v Hobart Hurricanes Academy",
+    "link": "http://www.cricinfo.com/ci/engine/match/1549039.html?CMP=OTC-RSS ",
+    "away": "Adelaide Strikers Academy",
+    "home": "Hobart Hurricanes Academy",
+    "description": "Adelaide Strikers Academy v Hobart Hurricanes Academy",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Australian Capital Territory v Nepal",
+    "link": "http://www.cricinfo.com/ci/engine/match/1549040.html?CMP=OTC-RSS ",
+    "away": "Australian Capital Territory",
+    "home": "Nepal",
+    "description": "Australian Capital Territory v Nepal",
     "status": "Live/Recent"
   }
 ]
