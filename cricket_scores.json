@@ -1,10 +1,10 @@
 [
   {
-    "title": "North Zone 222/10 &  251/10  v West Zone 187/10 &  220/7 *",
+    "title": "North Zone 222/10 &  251/10  v West Zone 220/7 &  187/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1546438.html?CMP=OTC-RSS ",
     "away": "North Zone 222/10 &  251/10",
-    "home": "West Zone 187/10 &  220/7 *",
-    "description": "North Zone 222/10 &  251/10  v West Zone 187/10 &  220/7 *",
+    "home": "West Zone 220/7 &  187/10 *",
+    "description": "North Zone 222/10 &  251/10  v West Zone 220/7 &  187/10 *",
     "status": "Live/Recent"
   },
   {
@@ -85,6 +85,14 @@
     "away": "Australian Capital Territory",
     "home": "Nepal",
     "description": "Australian Capital Territory v Nepal",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Rotterdam Dockers v Amsterdam Flames",
+    "link": "http://www.cricinfo.com/ci/engine/match/1547872.html?CMP=OTC-RSS ",
+    "away": "Rotterdam Dockers",
+    "home": "Amsterdam Flames",
+    "description": "Rotterdam Dockers v Amsterdam Flames",
     "status": "Live/Recent"
   },
   {
