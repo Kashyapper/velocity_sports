@@ -1,10 +1,10 @@
 [
   {
-    "title": "North Zone 222/10 &  251/10  v West Zone 234/10 &  187/10 *",
+    "title": "North Zone 251/10 &  222/10  v West Zone 187/10 &  234/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1546438.html?CMP=OTC-RSS ",
-    "away": "North Zone 222/10 &  251/10",
-    "home": "West Zone 234/10 &  187/10 *",
-    "description": "North Zone 222/10 &  251/10  v West Zone 234/10 &  187/10 *",
+    "away": "North Zone 251/10 &  222/10",
+    "home": "West Zone 187/10 &  234/10 *",
+    "description": "North Zone 251/10 &  222/10  v West Zone 187/10 &  234/10 *",
     "status": "Live/Recent"
   },
   {
@@ -32,11 +32,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Panadura Sports Club 225/8  v Tamil Union Cricket and Athletic Club 188/9 *",
+    "title": "Panadura Sports Club 225/8  v Tamil Union Cricket and Athletic Club 188/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1547428.html?CMP=OTC-RSS ",
     "away": "Panadura Sports Club 225/8",
-    "home": "Tamil Union Cricket and Athletic Club 188/9 *",
-    "description": "Panadura Sports Club 225/8  v Tamil Union Cricket and Athletic Club 188/9 *",
+    "home": "Tamil Union Cricket and Athletic Club 188/10 *",
+    "description": "Panadura Sports Club 225/8  v Tamil Union Cricket and Athletic Club 188/10 *",
     "status": "Live/Recent"
   },
   {
@@ -72,43 +72,43 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Warwickshire Women v The Blaze Women 185/3 *",
+    "title": "Warwickshire Women v The Blaze Women 282/7 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1513586.html?CMP=OTC-RSS ",
     "away": "Warwickshire Women",
-    "home": "The Blaze Women 185/3 *",
-    "description": "Warwickshire Women v The Blaze Women 185/3 *",
+    "home": "The Blaze Women 282/7 *",
+    "description": "Warwickshire Women v The Blaze Women 282/7 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Yorkshire Women 171/10 * v Surrey Women",
+    "title": "Yorkshire Women 171/10  v Surrey Women 39/1 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1513587.html?CMP=OTC-RSS ",
-    "away": "Yorkshire Women 171/10 *",
-    "home": "Surrey Women",
-    "description": "Yorkshire Women 171/10 * v Surrey Women",
+    "away": "Yorkshire Women 171/10",
+    "home": "Surrey Women 39/1 *",
+    "description": "Yorkshire Women 171/10  v Surrey Women 39/1 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Somerset Women v Durham Women 185/6 *",
+    "title": "Somerset Women v Durham Women 248/9 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1513588.html?CMP=OTC-RSS ",
     "away": "Somerset Women",
-    "home": "Durham Women 185/6 *",
-    "description": "Somerset Women v Durham Women 185/6 *",
+    "home": "Durham Women 248/9 *",
+    "description": "Somerset Women v Durham Women 248/9 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Hampshire Women 158/7 * v Lancashire Women",
+    "title": "Hampshire Women 223/10 * v Lancashire Women",
     "link": "http://www.cricinfo.com/ci/engine/match/1513589.html?CMP=OTC-RSS ",
-    "away": "Hampshire Women 158/7 *",
+    "away": "Hampshire Women 223/10 *",
     "home": "Lancashire Women",
-    "description": "Hampshire Women 158/7 * v Lancashire Women",
+    "description": "Hampshire Women 223/10 * v Lancashire Women",
     "status": "Live/Recent"
   },
   {
-    "title": "Australian Capital Territory 140/9  v Nepal 78/3 *",
+    "title": "Australian Capital Territory 140/9  v Nepal 144/6 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1549040.html?CMP=OTC-RSS ",
     "away": "Australian Capital Territory 140/9",
-    "home": "Nepal 78/3 *",
-    "description": "Australian Capital Territory 140/9  v Nepal 78/3 *",
+    "home": "Nepal 144/6 *",
+    "description": "Australian Capital Territory 140/9  v Nepal 144/6 *",
     "status": "Live/Recent"
   },
   {
