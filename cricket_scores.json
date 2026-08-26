@@ -1,18 +1,18 @@
 [
   {
-    "title": "North Zone 251/10 &  222/10  v West Zone 187/10 &  234/10 *",
+    "title": "North Zone 251/10 &  222/10  v West Zone 234/10 &  187/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1546438.html?CMP=OTC-RSS ",
     "away": "North Zone 251/10 &  222/10",
-    "home": "West Zone 187/10 &  234/10 *",
-    "description": "North Zone 251/10 &  222/10  v West Zone 187/10 &  234/10 *",
+    "home": "West Zone 234/10 &  187/10 *",
+    "description": "North Zone 251/10 &  222/10  v West Zone 234/10 &  187/10 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Sri Lanka 290/10 * v India 503/9 ",
+    "title": "Sri Lanka 290/10 &  12/1 * v India 503/9 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1544002.html?CMP=OTC-RSS ",
-    "away": "Sri Lanka 290/10 *",
+    "away": "Sri Lanka 290/10 &  12/1 *",
     "home": "India 503/9",
-    "description": "Sri Lanka 290/10 * v India 503/9 ",
+    "description": "Sri Lanka 290/10 &  12/1 * v India 503/9 ",
     "status": "Live/Recent"
   },
   {
@@ -32,11 +32,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Moors Sports Club v Colombo Cricket Club",
+    "title": "Moors Sports Club 31/1 * v Colombo Cricket Club",
     "link": "http://www.cricinfo.com/ci/engine/match/1547427.html?CMP=OTC-RSS ",
-    "away": "Moors Sports Club",
+    "away": "Moors Sports Club 31/1 *",
     "home": "Colombo Cricket Club",
-    "description": "Moors Sports Club v Colombo Cricket Club",
+    "description": "Moors Sports Club 31/1 * v Colombo Cricket Club",
     "status": "Live/Recent"
   },
   {
@@ -48,19 +48,19 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Bloomfield Cricket and Athletic Club v Colts Cricket Club",
+    "title": "Bloomfield Cricket and Athletic Club 6/1 * v Colts Cricket Club",
     "link": "http://www.cricinfo.com/ci/engine/match/1547430.html?CMP=OTC-RSS ",
-    "away": "Bloomfield Cricket and Athletic Club",
+    "away": "Bloomfield Cricket and Athletic Club 6/1 *",
     "home": "Colts Cricket Club",
-    "description": "Bloomfield Cricket and Athletic Club v Colts Cricket Club",
+    "description": "Bloomfield Cricket and Athletic Club 6/1 * v Colts Cricket Club",
     "status": "Live/Recent"
   },
   {
-    "title": "Nondescripts Cricket Club 45 * v Police Sports Club",
+    "title": "Nondescripts Cricket Club 84/1 * v Police Sports Club",
     "link": "http://www.cricinfo.com/ci/engine/match/1547429.html?CMP=OTC-RSS ",
-    "away": "Nondescripts Cricket Club 45 *",
+    "away": "Nondescripts Cricket Club 84/1 *",
     "home": "Police Sports Club",
-    "description": "Nondescripts Cricket Club 45 * v Police Sports Club",
+    "description": "Nondescripts Cricket Club 84/1 * v Police Sports Club",
     "status": "Live/Recent"
   },
   {
@@ -72,11 +72,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Adelaide Strikers Academy v Hobart Hurricanes Academy",
+    "title": "Adelaide Strikers Academy 39 * v Hobart Hurricanes Academy",
     "link": "http://www.cricinfo.com/ci/engine/match/1549039.html?CMP=OTC-RSS ",
-    "away": "Adelaide Strikers Academy",
+    "away": "Adelaide Strikers Academy 39 *",
     "home": "Hobart Hurricanes Academy",
-    "description": "Adelaide Strikers Academy v Hobart Hurricanes Academy",
+    "description": "Adelaide Strikers Academy 39 * v Hobart Hurricanes Academy",
     "status": "Live/Recent"
   },
   {
