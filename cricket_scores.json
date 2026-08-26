@@ -1,10 +1,10 @@
 [
   {
-    "title": "North Zone 251/10 &  222/10  v West Zone 187/10 &  234/10 *",
+    "title": "North Zone 251/10 &  222/10  v West Zone 234/10 &  187/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1546438.html?CMP=OTC-RSS ",
     "away": "North Zone 251/10 &  222/10",
-    "home": "West Zone 187/10 &  234/10 *",
-    "description": "North Zone 251/10 &  222/10  v West Zone 187/10 &  234/10 *",
+    "home": "West Zone 234/10 &  187/10 *",
+    "description": "North Zone 251/10 &  222/10  v West Zone 234/10 &  187/10 *",
     "status": "Live/Recent"
   },
   {
@@ -72,35 +72,35 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Warwickshire Women v The Blaze Women 282/7 *",
+    "title": "Warwickshire Women 28/2 * v The Blaze Women 282/7 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1513586.html?CMP=OTC-RSS ",
-    "away": "Warwickshire Women",
-    "home": "The Blaze Women 282/7 *",
-    "description": "Warwickshire Women v The Blaze Women 282/7 *",
+    "away": "Warwickshire Women 28/2 *",
+    "home": "The Blaze Women 282/7",
+    "description": "Warwickshire Women 28/2 * v The Blaze Women 282/7 ",
     "status": "Live/Recent"
   },
   {
-    "title": "Yorkshire Women 171/10  v Surrey Women 39/1 *",
+    "title": "Yorkshire Women 171/10  v Surrey Women 101/3 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1513587.html?CMP=OTC-RSS ",
     "away": "Yorkshire Women 171/10",
-    "home": "Surrey Women 39/1 *",
-    "description": "Yorkshire Women 171/10  v Surrey Women 39/1 *",
+    "home": "Surrey Women 101/3 *",
+    "description": "Yorkshire Women 171/10  v Surrey Women 101/3 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Somerset Women v Durham Women 248/9 *",
+    "title": "Somerset Women 46/2 * v Durham Women 248/9 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1513588.html?CMP=OTC-RSS ",
-    "away": "Somerset Women",
-    "home": "Durham Women 248/9 *",
-    "description": "Somerset Women v Durham Women 248/9 *",
+    "away": "Somerset Women 46/2 *",
+    "home": "Durham Women 248/9",
+    "description": "Somerset Women 46/2 * v Durham Women 248/9 ",
     "status": "Live/Recent"
   },
   {
-    "title": "Hampshire Women 223/10 * v Lancashire Women",
+    "title": "Hampshire Women 223/10  v Lancashire Women 40 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1513589.html?CMP=OTC-RSS ",
-    "away": "Hampshire Women 223/10 *",
-    "home": "Lancashire Women",
-    "description": "Hampshire Women 223/10 * v Lancashire Women",
+    "away": "Hampshire Women 223/10",
+    "home": "Lancashire Women 40 *",
+    "description": "Hampshire Women 223/10  v Lancashire Women 40 *",
     "status": "Live/Recent"
   },
   {
@@ -112,19 +112,19 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Rotterdam Dockers v Amsterdam Flames",
+    "title": "Rotterdam Dockers v Amsterdam Flames 79/3 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1547872.html?CMP=OTC-RSS ",
     "away": "Rotterdam Dockers",
-    "home": "Amsterdam Flames",
-    "description": "Rotterdam Dockers v Amsterdam Flames",
+    "home": "Amsterdam Flames 79/3 *",
+    "description": "Rotterdam Dockers v Amsterdam Flames 79/3 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Trichy Grand Cholas v VIDA Kovai Kings",
+    "title": "Trichy Grand Cholas v VIDA Kovai Kings 0 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1548236.html?CMP=OTC-RSS ",
     "away": "Trichy Grand Cholas",
-    "home": "VIDA Kovai Kings",
-    "description": "Trichy Grand Cholas v VIDA Kovai Kings",
+    "home": "VIDA Kovai Kings 0 *",
+    "description": "Trichy Grand Cholas v VIDA Kovai Kings 0 *",
     "status": "Live/Recent"
   },
   {
