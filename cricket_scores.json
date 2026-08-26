@@ -8,19 +8,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Sri Lanka 290/10 &  229/6 * v India 503/9 ",
+    "title": "Sri Lanka 229/6 &  290/10 * v India 503/9 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1544002.html?CMP=OTC-RSS ",
-    "away": "Sri Lanka 290/10 &  229/6 *",
+    "away": "Sri Lanka 229/6 &  290/10 *",
     "home": "India 503/9",
-    "description": "Sri Lanka 290/10 &  229/6 * v India 503/9 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "New Zealand A 150/8  v Victoria CA XI 152/4 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1549038.html?CMP=OTC-RSS ",
-    "away": "New Zealand A 150/8",
-    "home": "Victoria CA XI 152/4 *",
-    "description": "New Zealand A 150/8  v Victoria CA XI 152/4 *",
+    "description": "Sri Lanka 229/6 &  290/10 * v India 503/9 ",
     "status": "Live/Recent"
   },
   {
@@ -64,43 +56,35 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Adelaide Strikers Academy 182/2  v Hobart Hurricanes Academy 177/8 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1549039.html?CMP=OTC-RSS ",
-    "away": "Adelaide Strikers Academy 182/2",
-    "home": "Hobart Hurricanes Academy 177/8 *",
-    "description": "Adelaide Strikers Academy 182/2  v Hobart Hurricanes Academy 177/8 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Warwickshire Women 28/2 * v The Blaze Women 282/7 ",
+    "title": "Warwickshire Women 115/2 * v The Blaze Women 282/7 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1513586.html?CMP=OTC-RSS ",
-    "away": "Warwickshire Women 28/2 *",
+    "away": "Warwickshire Women 115/2 *",
     "home": "The Blaze Women 282/7",
-    "description": "Warwickshire Women 28/2 * v The Blaze Women 282/7 ",
+    "description": "Warwickshire Women 115/2 * v The Blaze Women 282/7 ",
     "status": "Live/Recent"
   },
   {
-    "title": "Yorkshire Women 171/10  v Surrey Women 101/3 *",
+    "title": "Yorkshire Women 171/10  v Surrey Women 141/6 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1513587.html?CMP=OTC-RSS ",
     "away": "Yorkshire Women 171/10",
-    "home": "Surrey Women 101/3 *",
-    "description": "Yorkshire Women 171/10  v Surrey Women 101/3 *",
+    "home": "Surrey Women 141/6 *",
+    "description": "Yorkshire Women 171/10  v Surrey Women 141/6 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Somerset Women 46/2 * v Durham Women 248/9 ",
+    "title": "Somerset Women 140/4 * v Durham Women 248/9 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1513588.html?CMP=OTC-RSS ",
-    "away": "Somerset Women 46/2 *",
+    "away": "Somerset Women 140/4 *",
     "home": "Durham Women 248/9",
-    "description": "Somerset Women 46/2 * v Durham Women 248/9 ",
+    "description": "Somerset Women 140/4 * v Durham Women 248/9 ",
     "status": "Live/Recent"
   },
   {
-    "title": "Hampshire Women 223/10  v Lancashire Women 40 *",
+    "title": "Hampshire Women 223/10  v Lancashire Women 101/2 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1513589.html?CMP=OTC-RSS ",
     "away": "Hampshire Women 223/10",
-    "home": "Lancashire Women 40 *",
-    "description": "Hampshire Women 223/10  v Lancashire Women 40 *",
+    "home": "Lancashire Women 101/2 *",
+    "description": "Hampshire Women 223/10  v Lancashire Women 101/2 *",
     "status": "Live/Recent"
   },
   {
@@ -112,19 +96,19 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Rotterdam Dockers v Amsterdam Flames 79/3 *",
+    "title": "Rotterdam Dockers v Amsterdam Flames 157/8 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1547872.html?CMP=OTC-RSS ",
     "away": "Rotterdam Dockers",
-    "home": "Amsterdam Flames 79/3 *",
-    "description": "Rotterdam Dockers v Amsterdam Flames 79/3 *",
+    "home": "Amsterdam Flames 157/8 *",
+    "description": "Rotterdam Dockers v Amsterdam Flames 157/8 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Trichy Grand Cholas v VIDA Kovai Kings 0 *",
+    "title": "Trichy Grand Cholas v VIDA Kovai Kings 120/2 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1548236.html?CMP=OTC-RSS ",
     "away": "Trichy Grand Cholas",
-    "home": "VIDA Kovai Kings 0 *",
-    "description": "Trichy Grand Cholas v VIDA Kovai Kings 0 *",
+    "home": "VIDA Kovai Kings 120/2 *",
+    "description": "Trichy Grand Cholas v VIDA Kovai Kings 120/2 *",
     "status": "Live/Recent"
   },
   {
@@ -133,6 +117,30 @@
     "away": "Trinbago Knight Riders",
     "home": "St Lucia Kings",
     "description": "Trinbago Knight Riders v St Lucia Kings",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Northern Territory Strike v Victoria CA XI",
+    "link": "http://www.cricinfo.com/ci/engine/match/1549041.html?CMP=OTC-RSS ",
+    "away": "Northern Territory Strike",
+    "home": "Victoria CA XI",
+    "description": "Northern Territory Strike v Victoria CA XI",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Hyderabad Kingsmen Academy v Nepal",
+    "link": "http://www.cricinfo.com/ci/engine/match/1549042.html?CMP=OTC-RSS ",
+    "away": "Hyderabad Kingsmen Academy",
+    "home": "Nepal",
+    "description": "Hyderabad Kingsmen Academy v Nepal",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Bangladesh High Performance XI v New Zealand A",
+    "link": "http://www.cricinfo.com/ci/engine/match/1549043.html?CMP=OTC-RSS ",
+    "away": "Bangladesh High Performance XI",
+    "home": "New Zealand A",
+    "description": "Bangladesh High Performance XI v New Zealand A",
     "status": "Live/Recent"
   }
 ]
