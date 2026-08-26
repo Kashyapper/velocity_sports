@@ -1,10 +1,10 @@
 [
   {
-    "title": "North Zone 222/10 &  251/10  v West Zone 187/10 &  220/7 *",
+    "title": "North Zone 251/10 &  222/10  v West Zone 220/7 &  187/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1546438.html?CMP=OTC-RSS ",
-    "away": "North Zone 222/10 &  251/10",
-    "home": "West Zone 187/10 &  220/7 *",
-    "description": "North Zone 222/10 &  251/10  v West Zone 187/10 &  220/7 *",
+    "away": "North Zone 251/10 &  222/10",
+    "home": "West Zone 220/7 &  187/10 *",
+    "description": "North Zone 251/10 &  222/10  v West Zone 220/7 &  187/10 *",
     "status": "Live/Recent"
   },
   {
@@ -16,19 +16,19 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Antigua and Barbuda Falcons 134/5 * v Barbados Tridents",
+    "title": "Antigua and Barbuda Falcons 155/5  v Barbados Tridents 95/7 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1534194.html?CMP=OTC-RSS ",
-    "away": "Antigua and Barbuda Falcons 134/5 *",
-    "home": "Barbados Tridents",
-    "description": "Antigua and Barbuda Falcons 134/5 * v Barbados Tridents",
+    "away": "Antigua and Barbuda Falcons 155/5",
+    "home": "Barbados Tridents 95/7 *",
+    "description": "Antigua and Barbuda Falcons 155/5  v Barbados Tridents 95/7 *",
     "status": "Live/Recent"
   },
   {
-    "title": "New Zealand A 14 * v Victoria CA XI",
+    "title": "New Zealand A 150/8 * v Victoria CA XI",
     "link": "http://www.cricinfo.com/ci/engine/match/1549038.html?CMP=OTC-RSS ",
-    "away": "New Zealand A 14 *",
+    "away": "New Zealand A 150/8 *",
     "home": "Victoria CA XI",
-    "description": "New Zealand A 14 * v Victoria CA XI",
+    "description": "New Zealand A 150/8 * v Victoria CA XI",
     "status": "Live/Recent"
   },
   {
