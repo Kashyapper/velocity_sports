@@ -1,10 +1,10 @@
 [
   {
-    "title": "England 81/3 &  290/10 * v Pakistan 110/10 ",
+    "title": "England 290/10 &  81/3 * v Pakistan 110/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1496583.html?CMP=OTC-RSS ",
-    "away": "England 81/3 &  290/10 *",
+    "away": "England 290/10 &  81/3 *",
     "home": "Pakistan 110/10",
-    "description": "England 81/3 &  290/10 * v Pakistan 110/10 ",
+    "description": "England 290/10 &  81/3 * v Pakistan 110/10 ",
     "status": "Live/Recent"
   },
   {
@@ -32,11 +32,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Durham 331/8 * v Gloucestershire 137/10 ",
+    "title": "Durham 376/9 * v Gloucestershire 137/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1513435.html?CMP=OTC-RSS ",
-    "away": "Durham 331/8 *",
+    "away": "Durham 376/9 *",
     "home": "Gloucestershire 137/10",
-    "description": "Durham 331/8 * v Gloucestershire 137/10 ",
+    "description": "Durham 376/9 * v Gloucestershire 137/10 ",
     "status": "Live/Recent"
   },
   {
@@ -72,19 +72,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Sussex 250/10  v Somerset 167/2 &  202/10 *",
+    "title": "Sussex 250/10  v Somerset 202/10 &  167/2 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1513375.html?CMP=OTC-RSS ",
     "away": "Sussex 250/10",
-    "home": "Somerset 167/2 &  202/10 *",
-    "description": "Sussex 250/10  v Somerset 167/2 &  202/10 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Trinbago Knight Riders 128/3 * v Barbados Tridents 127/9 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1534197.html?CMP=OTC-RSS ",
-    "away": "Trinbago Knight Riders 128/3 *",
-    "home": "Barbados Tridents 127/9",
-    "description": "Trinbago Knight Riders 128/3 * v Barbados Tridents 127/9 ",
+    "home": "Somerset 202/10 &  167/2 *",
+    "description": "Sussex 250/10  v Somerset 202/10 &  167/2 *",
     "status": "Live/Recent"
   },
   {
@@ -96,43 +88,43 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Adelaide Strikers Academy 36 * v Australian Capital Territory",
+    "title": "Adelaide Strikers Academy 225/4  v Australian Capital Territory 60/9 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1549048.html?CMP=OTC-RSS ",
-    "away": "Adelaide Strikers Academy 36 *",
-    "home": "Australian Capital Territory",
-    "description": "Adelaide Strikers Academy 36 * v Australian Capital Territory",
+    "away": "Adelaide Strikers Academy 225/4",
+    "home": "Australian Capital Territory 60/9 *",
+    "description": "Adelaide Strikers Academy 225/4  v Australian Capital Territory 60/9 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Maiwand Champions v Mah-e-Par Stars",
+    "title": "Maiwand Champions 211/10  v Mah-e-Par Stars 12 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1551332.html?CMP=OTC-RSS ",
-    "away": "Maiwand Champions",
-    "home": "Mah-e-Par Stars",
-    "description": "Maiwand Champions v Mah-e-Par Stars",
+    "away": "Maiwand Champions 211/10",
+    "home": "Mah-e-Par Stars 12 *",
+    "description": "Maiwand Champions 211/10  v Mah-e-Par Stars 12 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Hindukush Strikers v Pamir Legends",
+    "title": "Hindukush Strikers 230/2 * v Pamir Legends",
     "link": "http://www.cricinfo.com/ci/engine/match/1551333.html?CMP=OTC-RSS ",
-    "away": "Hindukush Strikers",
+    "away": "Hindukush Strikers 230/2 *",
     "home": "Pamir Legends",
-    "description": "Hindukush Strikers v Pamir Legends",
+    "description": "Hindukush Strikers 230/2 * v Pamir Legends",
     "status": "Live/Recent"
   },
   {
-    "title": "Nepal v Victoria CA XI",
+    "title": "Nepal 142/6  v Victoria CA XI 126/8 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1549049.html?CMP=OTC-RSS ",
-    "away": "Nepal",
-    "home": "Victoria CA XI",
-    "description": "Nepal v Victoria CA XI",
+    "away": "Nepal 142/6",
+    "home": "Victoria CA XI 126/8 *",
+    "description": "Nepal 142/6  v Victoria CA XI 126/8 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Glasgow Cosmic v Dublin Guardians",
+    "title": "Glasgow Cosmic 136/3 * v Dublin Guardians",
     "link": "http://www.cricinfo.com/ci/engine/match/1547876.html?CMP=OTC-RSS ",
-    "away": "Glasgow Cosmic",
+    "away": "Glasgow Cosmic 136/3 *",
     "home": "Dublin Guardians",
-    "description": "Glasgow Cosmic v Dublin Guardians",
+    "description": "Glasgow Cosmic 136/3 * v Dublin Guardians",
     "status": "Live/Recent"
   },
   {
@@ -157,6 +149,14 @@
     "away": "United Arab Emirates Women",
     "home": "Sri Lanka Women",
     "description": "United Arab Emirates Women v Sri Lanka Women",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Trinbago Knight Riders v Jamaica Kingsmen",
+    "link": "http://www.cricinfo.com/ci/engine/match/1534198.html?CMP=OTC-RSS ",
+    "away": "Trinbago Knight Riders",
+    "home": "Jamaica Kingsmen",
+    "description": "Trinbago Knight Riders v Jamaica Kingsmen",
     "status": "Live/Recent"
   }
 ]
