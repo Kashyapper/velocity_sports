@@ -1,10 +1,10 @@
 [
   {
-    "title": "England 290/10 &  81/3 * v Pakistan 110/10 ",
+    "title": "England 81/3 &  290/10 * v Pakistan 110/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1496583.html?CMP=OTC-RSS ",
-    "away": "England 290/10 &  81/3 *",
+    "away": "England 81/3 &  290/10 *",
     "home": "Pakistan 110/10",
-    "description": "England 290/10 &  81/3 * v Pakistan 110/10 ",
+    "description": "England 81/3 &  290/10 * v Pakistan 110/10 ",
     "status": "Live/Recent"
   },
   {
@@ -48,11 +48,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Essex 279/10  v Surrey 51/4 &  183/10 *",
+    "title": "Essex 279/10  v Surrey 183/10 &  51/4 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1513372.html?CMP=OTC-RSS ",
     "away": "Essex 279/10",
-    "home": "Surrey 51/4 &  183/10 *",
-    "description": "Essex 279/10  v Surrey 51/4 &  183/10 *",
+    "home": "Surrey 183/10 &  51/4 *",
+    "description": "Essex 279/10  v Surrey 183/10 &  51/4 *",
     "status": "Live/Recent"
   },
   {
@@ -72,51 +72,35 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Sussex 250/10  v Somerset 202/10 &  167/2 *",
+    "title": "Sussex 250/10  v Somerset 167/2 &  202/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1513375.html?CMP=OTC-RSS ",
     "away": "Sussex 250/10",
-    "home": "Somerset 202/10 &  167/2 *",
-    "description": "Sussex 250/10  v Somerset 202/10 &  167/2 *",
+    "home": "Somerset 167/2 &  202/10 *",
+    "description": "Sussex 250/10  v Somerset 167/2 &  202/10 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Scotland Women 212/10 * v Netherlands Women 270/4 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1549972.html?CMP=OTC-RSS ",
-    "away": "Scotland Women 212/10 *",
-    "home": "Netherlands Women 270/4",
-    "description": "Scotland Women 212/10 * v Netherlands Women 270/4 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Hong Kong Women 114/7 * v Thailand Women 120/9 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1548891.html?CMP=OTC-RSS ",
-    "away": "Hong Kong Women 114/7 *",
-    "home": "Thailand Women 120/9",
-    "description": "Hong Kong Women 114/7 * v Thailand Women 120/9 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Trinbago Knight Riders v Barbados Tridents",
+    "title": "Trinbago Knight Riders 128/3 * v Barbados Tridents 127/9 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1534197.html?CMP=OTC-RSS ",
-    "away": "Trinbago Knight Riders",
-    "home": "Barbados Tridents",
-    "description": "Trinbago Knight Riders v Barbados Tridents",
+    "away": "Trinbago Knight Riders 128/3 *",
+    "home": "Barbados Tridents 127/9",
+    "description": "Trinbago Knight Riders 128/3 * v Barbados Tridents 127/9 ",
     "status": "Live/Recent"
   },
   {
-    "title": "Hobart Hurricanes Academy v New Zealand A",
+    "title": "Hobart Hurricanes Academy 149/10  v New Zealand A 153/5 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1549047.html?CMP=OTC-RSS ",
-    "away": "Hobart Hurricanes Academy",
-    "home": "New Zealand A",
-    "description": "Hobart Hurricanes Academy v New Zealand A",
+    "away": "Hobart Hurricanes Academy 149/10",
+    "home": "New Zealand A 153/5 *",
+    "description": "Hobart Hurricanes Academy 149/10  v New Zealand A 153/5 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Adelaide Strikers Academy v Australian Capital Territory",
+    "title": "Adelaide Strikers Academy 36 * v Australian Capital Territory",
     "link": "http://www.cricinfo.com/ci/engine/match/1549048.html?CMP=OTC-RSS ",
-    "away": "Adelaide Strikers Academy",
+    "away": "Adelaide Strikers Academy 36 *",
     "home": "Australian Capital Territory",
-    "description": "Adelaide Strikers Academy v Australian Capital Territory",
+    "description": "Adelaide Strikers Academy 36 * v Australian Capital Territory",
     "status": "Live/Recent"
   },
   {
