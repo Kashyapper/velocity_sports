@@ -1,34 +1,34 @@
 [
   {
-    "title": "Maiwand Champions 211/10 &  183/6 * v Mah-e-Par Stars 197/10 ",
+    "title": "Maiwand Champions 211/10 &  217/10  v Mah-e-Par Stars 167/5 &  197/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1551332.html?CMP=OTC-RSS ",
-    "away": "Maiwand Champions 211/10 &  183/6 *",
-    "home": "Mah-e-Par Stars 197/10",
-    "description": "Maiwand Champions 211/10 &  183/6 * v Mah-e-Par Stars 197/10 ",
+    "away": "Maiwand Champions 211/10 &  217/10",
+    "home": "Mah-e-Par Stars 167/5 &  197/10 *",
+    "description": "Maiwand Champions 211/10 &  217/10  v Mah-e-Par Stars 167/5 &  197/10 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Hindukush Strikers 351/10 &  85/1 * v Pamir Legends 212/10 ",
+    "title": "Hindukush Strikers 351/10 &  269/7  v Pamir Legends 212/10 &  30/1 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1551333.html?CMP=OTC-RSS ",
-    "away": "Hindukush Strikers 351/10 &  85/1 *",
-    "home": "Pamir Legends 212/10",
-    "description": "Hindukush Strikers 351/10 &  85/1 * v Pamir Legends 212/10 ",
+    "away": "Hindukush Strikers 351/10 &  269/7",
+    "home": "Pamir Legends 212/10 &  30/1 *",
+    "description": "Hindukush Strikers 351/10 &  269/7  v Pamir Legends 212/10 &  30/1 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Central Zone 266/10  v East Zone 161/2 *",
+    "title": "Central Zone 45/3 &  266/10 * v East Zone 266/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1546439.html?CMP=OTC-RSS ",
-    "away": "Central Zone 266/10",
-    "home": "East Zone 161/2 *",
-    "description": "Central Zone 266/10  v East Zone 161/2 *",
+    "away": "Central Zone 45/3 &  266/10 *",
+    "home": "East Zone 266/10",
+    "description": "Central Zone 45/3 &  266/10 * v East Zone 266/10 ",
     "status": "Live/Recent"
   },
   {
-    "title": "South Zone 97/5 * v North Zone 195/10 ",
+    "title": "South Zone 285/9 * v North Zone 195/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1546440.html?CMP=OTC-RSS ",
-    "away": "South Zone 97/5 *",
+    "away": "South Zone 285/9 *",
     "home": "North Zone 195/10",
-    "description": "South Zone 97/5 * v North Zone 195/10 ",
+    "description": "South Zone 285/9 * v North Zone 195/10 ",
     "status": "Live/Recent"
   },
   {
@@ -40,27 +40,19 @@
     "status": "Live/Recent"
   },
   {
-    "title": "St Kitts and Nevis Patriots v Antigua and Barbuda Falcons",
-    "link": "http://www.cricinfo.com/ci/engine/match/1534199.html?CMP=OTC-RSS ",
-    "away": "St Kitts and Nevis Patriots",
-    "home": "Antigua and Barbuda Falcons",
-    "description": "St Kitts and Nevis Patriots v Antigua and Barbuda Falcons",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Colombo Cricket Club v Panadura Sports Club 110/6 *",
+    "title": "Colombo Cricket Club 170/3 * v Panadura Sports Club 169/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1547432.html?CMP=OTC-RSS ",
-    "away": "Colombo Cricket Club",
-    "home": "Panadura Sports Club 110/6 *",
-    "description": "Colombo Cricket Club v Panadura Sports Club 110/6 *",
+    "away": "Colombo Cricket Club 170/3 *",
+    "home": "Panadura Sports Club 169/10",
+    "description": "Colombo Cricket Club 170/3 * v Panadura Sports Club 169/10 ",
     "status": "Live/Recent"
   },
   {
-    "title": "Namibia v Zimbabwe",
+    "title": "Namibia v Zimbabwe 195/6 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1549526.html?CMP=OTC-RSS ",
     "away": "Namibia",
-    "home": "Zimbabwe",
-    "description": "Namibia v Zimbabwe",
+    "home": "Zimbabwe 195/6 *",
+    "description": "Namibia v Zimbabwe 195/6 *",
     "status": "Live/Recent"
   },
   {
