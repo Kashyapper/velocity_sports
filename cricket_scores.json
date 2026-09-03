@@ -80,11 +80,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Trinbago Knight Riders v Antigua and Barbuda Falcons 95/3 *",
+    "title": "Trinbago Knight Riders 175/7 * v Antigua and Barbuda Falcons 183/4 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1534202.html?CMP=OTC-RSS ",
-    "away": "Trinbago Knight Riders",
-    "home": "Antigua and Barbuda Falcons 95/3 *",
-    "description": "Trinbago Knight Riders v Antigua and Barbuda Falcons 95/3 *",
+    "away": "Trinbago Knight Riders 175/7 *",
+    "home": "Antigua and Barbuda Falcons 183/4",
+    "description": "Trinbago Knight Riders 175/7 * v Antigua and Barbuda Falcons 183/4 ",
     "status": "Live/Recent"
   },
   {
@@ -112,11 +112,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Bloomfield Cricket and Athletic Club v Sinhalese Sports Club",
+    "title": "Bloomfield Cricket and Athletic Club 1/1 * v Sinhalese Sports Club",
     "link": "http://www.cricinfo.com/ci/engine/match/1547442.html?CMP=OTC-RSS ",
-    "away": "Bloomfield Cricket and Athletic Club",
+    "away": "Bloomfield Cricket and Athletic Club 1/1 *",
     "home": "Sinhalese Sports Club",
-    "description": "Bloomfield Cricket and Athletic Club v Sinhalese Sports Club",
+    "description": "Bloomfield Cricket and Athletic Club 1/1 * v Sinhalese Sports Club",
     "status": "Live/Recent"
   },
   {
@@ -197,6 +197,14 @@
     "away": "Hong Kong Women",
     "home": "India Women",
     "description": "Hong Kong Women v India Women",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "St Kitts and Nevis Patriots v St Lucia Kings",
+    "link": "http://www.cricinfo.com/ci/engine/match/1534203.html?CMP=OTC-RSS ",
+    "away": "St Kitts and Nevis Patriots",
+    "home": "St Lucia Kings",
+    "description": "St Kitts and Nevis Patriots v St Lucia Kings",
     "status": "Live/Recent"
   }
 ]
