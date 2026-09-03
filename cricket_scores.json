@@ -80,19 +80,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Indonesia Women 49/10 * v Sri Lanka Women 124/7 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1548896.html?CMP=OTC-RSS ",
-    "away": "Indonesia Women 49/10 *",
-    "home": "Sri Lanka Women 124/7",
-    "description": "Indonesia Women 49/10 * v Sri Lanka Women 124/7 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Trinbago Knight Riders v Antigua and Barbuda Falcons",
+    "title": "Trinbago Knight Riders v Antigua and Barbuda Falcons 95/3 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1534202.html?CMP=OTC-RSS ",
     "away": "Trinbago Knight Riders",
-    "home": "Antigua and Barbuda Falcons",
-    "description": "Trinbago Knight Riders v Antigua and Barbuda Falcons",
+    "home": "Antigua and Barbuda Falcons 95/3 *",
+    "description": "Trinbago Knight Riders v Antigua and Barbuda Falcons 95/3 *",
     "status": "Live/Recent"
   },
   {
@@ -144,11 +136,51 @@
     "status": "Live/Recent"
   },
   {
+    "title": "Durham Women v Hampshire Women",
+    "link": "http://www.cricinfo.com/ci/engine/match/1513590.html?CMP=OTC-RSS ",
+    "away": "Durham Women",
+    "home": "Hampshire Women",
+    "description": "Durham Women v Hampshire Women",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Lancashire Women v Surrey Women",
+    "link": "http://www.cricinfo.com/ci/engine/match/1513591.html?CMP=OTC-RSS ",
+    "away": "Lancashire Women",
+    "home": "Surrey Women",
+    "description": "Lancashire Women v Surrey Women",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Yorkshire Women v Somerset Women",
+    "link": "http://www.cricinfo.com/ci/engine/match/1513592.html?CMP=OTC-RSS ",
+    "away": "Yorkshire Women",
+    "home": "Somerset Women",
+    "description": "Yorkshire Women v Somerset Women",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Warwickshire Women v Essex Women",
+    "link": "http://www.cricinfo.com/ci/engine/match/1513593.html?CMP=OTC-RSS ",
+    "away": "Warwickshire Women",
+    "home": "Essex Women",
+    "description": "Warwickshire Women v Essex Women",
+    "status": "Live/Recent"
+  },
+  {
     "title": "Namibia v Zimbabwe",
     "link": "http://www.cricinfo.com/ci/engine/match/1549528.html?CMP=OTC-RSS ",
     "away": "Namibia",
     "home": "Zimbabwe",
     "description": "Namibia v Zimbabwe",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "England Women v Ireland Women",
+    "link": "http://www.cricinfo.com/ci/engine/match/1496553.html?CMP=OTC-RSS ",
+    "away": "England Women",
+    "home": "Ireland Women",
+    "description": "England Women v Ireland Women",
     "status": "Live/Recent"
   },
   {
