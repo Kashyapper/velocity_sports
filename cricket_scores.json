@@ -16,11 +16,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Kent 197/3 &  238/10 * v Worcestershire 217/10 ",
+    "title": "Kent 238/10 &  197/3 * v Worcestershire 217/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1513437.html?CMP=OTC-RSS ",
-    "away": "Kent 197/3 &  238/10 *",
+    "away": "Kent 238/10 &  197/3 *",
     "home": "Worcestershire 217/10",
-    "description": "Kent 197/3 &  238/10 * v Worcestershire 217/10 ",
+    "description": "Kent 238/10 &  197/3 * v Worcestershire 217/10 ",
     "status": "Live/Recent"
   },
   {
@@ -32,27 +32,27 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Middlesex 116/2 &  247/10 * v Lancashire 151/10 ",
+    "title": "Middlesex 247/10 &  116/2 * v Lancashire 151/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1513439.html?CMP=OTC-RSS ",
-    "away": "Middlesex 116/2 &  247/10 *",
+    "away": "Middlesex 247/10 &  116/2 *",
     "home": "Lancashire 151/10",
-    "description": "Middlesex 116/2 &  247/10 * v Lancashire 151/10 ",
+    "description": "Middlesex 247/10 &  116/2 * v Lancashire 151/10 ",
     "status": "Live/Recent"
   },
   {
-    "title": "Essex 177/10  v Sussex 275/10 &  90/4 *",
+    "title": "Essex 177/10  v Sussex 90/4 &  275/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1513376.html?CMP=OTC-RSS ",
     "away": "Essex 177/10",
-    "home": "Sussex 275/10 &  90/4 *",
-    "description": "Essex 177/10  v Sussex 275/10 &  90/4 *",
+    "home": "Sussex 90/4 &  275/10 *",
+    "description": "Essex 177/10  v Sussex 90/4 &  275/10 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Surrey 83/10 &  27 * v Yorkshire 185/10 &  82/10 ",
+    "title": "Surrey 27 &  83/10 * v Yorkshire 185/10 &  82/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1513377.html?CMP=OTC-RSS ",
-    "away": "Surrey 83/10 &  27 *",
+    "away": "Surrey 27 &  83/10 *",
     "home": "Yorkshire 185/10 &  82/10",
-    "description": "Surrey 83/10 &  27 * v Yorkshire 185/10 &  82/10 ",
+    "description": "Surrey 27 &  83/10 * v Yorkshire 185/10 &  82/10 ",
     "status": "Live/Recent"
   },
   {
@@ -80,11 +80,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "St Kitts and Nevis Patriots 128/2 * v St Lucia Kings",
+    "title": "St Kitts and Nevis Patriots 235/4  v St Lucia Kings 98/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1534203.html?CMP=OTC-RSS ",
-    "away": "St Kitts and Nevis Patriots 128/2 *",
-    "home": "St Lucia Kings",
-    "description": "St Kitts and Nevis Patriots 128/2 * v St Lucia Kings",
+    "away": "St Kitts and Nevis Patriots 235/4",
+    "home": "St Lucia Kings 98/10 *",
+    "description": "St Kitts and Nevis Patriots 235/4  v St Lucia Kings 98/10 *",
     "status": "Live/Recent"
   },
   {
@@ -125,6 +125,14 @@
     "away": "United Arab Emirates Women",
     "home": "Indonesia Women",
     "description": "United Arab Emirates Women v Indonesia Women",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Guyana Amazon Warriors v Jamaica Kingsmen",
+    "link": "http://www.cricinfo.com/ci/engine/match/1534204.html?CMP=OTC-RSS ",
+    "away": "Guyana Amazon Warriors",
+    "home": "Jamaica Kingsmen",
+    "description": "Guyana Amazon Warriors v Jamaica Kingsmen",
     "status": "Live/Recent"
   }
 ]
