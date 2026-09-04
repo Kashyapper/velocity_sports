@@ -48,11 +48,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Surrey 27 &  83/10 * v Yorkshire 82/10 &  185/10 ",
+    "title": "Surrey 83/10 &  27 * v Yorkshire 185/10 &  82/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1513377.html?CMP=OTC-RSS ",
-    "away": "Surrey 27 &  83/10 *",
-    "home": "Yorkshire 82/10 &  185/10",
-    "description": "Surrey 27 &  83/10 * v Yorkshire 82/10 &  185/10 ",
+    "away": "Surrey 83/10 &  27 *",
+    "home": "Yorkshire 185/10 &  82/10",
+    "description": "Surrey 83/10 &  27 * v Yorkshire 185/10 &  82/10 ",
     "status": "Live/Recent"
   },
   {
@@ -64,11 +64,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Somerset 441/10  v Glamorgan 30/1 &  194/10 *",
+    "title": "Somerset 441/10  v Glamorgan 194/10 &  30/1 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1513379.html?CMP=OTC-RSS ",
     "away": "Somerset 441/10",
-    "home": "Glamorgan 30/1 &  194/10 *",
-    "description": "Somerset 441/10  v Glamorgan 30/1 &  194/10 *",
+    "home": "Glamorgan 194/10 &  30/1 *",
+    "description": "Somerset 441/10  v Glamorgan 194/10 &  30/1 *",
     "status": "Live/Recent"
   },
   {
@@ -80,75 +80,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Durham Women 200/9  v Hampshire Women 201/1 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1513590.html?CMP=OTC-RSS ",
-    "away": "Durham Women 200/9",
-    "home": "Hampshire Women 201/1 *",
-    "description": "Durham Women 200/9  v Hampshire Women 201/1 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Lancashire Women 234/9  v Surrey Women 167/6 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1513591.html?CMP=OTC-RSS ",
-    "away": "Lancashire Women 234/9",
-    "home": "Surrey Women 167/6 *",
-    "description": "Lancashire Women 234/9  v Surrey Women 167/6 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Yorkshire Women 125/10 * v Somerset Women 130/10 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1513592.html?CMP=OTC-RSS ",
-    "away": "Yorkshire Women 125/10 *",
-    "home": "Somerset Women 130/10",
-    "description": "Yorkshire Women 125/10 * v Somerset Women 130/10 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Warwickshire Women 208/3 * v Essex Women 202/10 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1513593.html?CMP=OTC-RSS ",
-    "away": "Warwickshire Women 208/3 *",
-    "home": "Essex Women 202/10",
-    "description": "Warwickshire Women 208/3 * v Essex Women 202/10 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Namibia 156/6  v Zimbabwe 159/5 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1549528.html?CMP=OTC-RSS ",
-    "away": "Namibia 156/6",
-    "home": "Zimbabwe 159/5 *",
-    "description": "Namibia 156/6  v Zimbabwe 159/5 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "England Women 166/4 * v Ireland Women 165/10 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1496553.html?CMP=OTC-RSS ",
-    "away": "England Women 166/4 *",
-    "home": "Ireland Women 165/10",
-    "description": "England Women 166/4 * v Ireland Women 165/10 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Amsterdam Flames 177/3 * v Glasgow Cosmic 171/8 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1547883.html?CMP=OTC-RSS ",
-    "away": "Amsterdam Flames 177/3 *",
-    "home": "Glasgow Cosmic 171/8",
-    "description": "Amsterdam Flames 177/3 * v Glasgow Cosmic 171/8 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Hong Kong Women 56/10 * v India Women 193/5 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1548897.html?CMP=OTC-RSS ",
-    "away": "Hong Kong Women 56/10 *",
-    "home": "India Women 193/5",
-    "description": "Hong Kong Women 56/10 * v India Women 193/5 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "St Kitts and Nevis Patriots v St Lucia Kings",
+    "title": "St Kitts and Nevis Patriots 128/2 * v St Lucia Kings",
     "link": "http://www.cricinfo.com/ci/engine/match/1534203.html?CMP=OTC-RSS ",
-    "away": "St Kitts and Nevis Patriots",
+    "away": "St Kitts and Nevis Patriots 128/2 *",
     "home": "St Lucia Kings",
-    "description": "St Kitts and Nevis Patriots v St Lucia Kings",
+    "description": "St Kitts and Nevis Patriots 128/2 * v St Lucia Kings",
     "status": "Live/Recent"
   },
   {
@@ -165,6 +101,22 @@
     "away": "Hindukush Strikers",
     "home": "Pamir Legends",
     "description": "Hindukush Strikers v Pamir Legends",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Namibia v South Africa",
+    "link": "http://www.cricinfo.com/ci/engine/match/1549529.html?CMP=OTC-RSS ",
+    "away": "Namibia",
+    "home": "South Africa",
+    "description": "Namibia v South Africa",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Glasgow Cosmic v Belfast Wolves",
+    "link": "http://www.cricinfo.com/ci/engine/match/1547884.html?CMP=OTC-RSS ",
+    "away": "Glasgow Cosmic",
+    "home": "Belfast Wolves",
+    "description": "Glasgow Cosmic v Belfast Wolves",
     "status": "Live/Recent"
   },
   {
