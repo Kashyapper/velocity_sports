@@ -16,11 +16,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Kent 238/10 &  358/10  v Worcestershire 84/3 &  217/10 *",
+    "title": "Kent 358/10 &  238/10  v Worcestershire 84/3 &  217/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1513437.html?CMP=OTC-RSS ",
-    "away": "Kent 238/10 &  358/10",
+    "away": "Kent 358/10 &  238/10",
     "home": "Worcestershire 84/3 &  217/10 *",
-    "description": "Kent 238/10 &  358/10  v Worcestershire 84/3 &  217/10 *",
+    "description": "Kent 358/10 &  238/10  v Worcestershire 84/3 &  217/10 *",
     "status": "Live/Recent"
   },
   {
@@ -32,11 +32,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Essex 177/10 &  197/7 * v Sussex 230/10 &  275/10 ",
+    "title": "Essex 177/10 &  197/7 * v Sussex 275/10 &  230/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1513376.html?CMP=OTC-RSS ",
     "away": "Essex 177/10 &  197/7 *",
-    "home": "Sussex 230/10 &  275/10",
-    "description": "Essex 177/10 &  197/7 * v Sussex 230/10 &  275/10 ",
+    "home": "Sussex 275/10 &  230/10",
+    "description": "Essex 177/10 &  197/7 * v Sussex 275/10 &  230/10 ",
     "status": "Live/Recent"
   },
   {
@@ -48,75 +48,67 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Maiwand Champions 71/10 &  26/6 * v Mah-e-Par Stars 199/10 ",
+    "title": "Maiwand Champions 223/10 &  71/10  v Mah-e-Par Stars 21/2 &  199/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1551334.html?CMP=OTC-RSS ",
-    "away": "Maiwand Champions 71/10 &  26/6 *",
-    "home": "Mah-e-Par Stars 199/10",
-    "description": "Maiwand Champions 71/10 &  26/6 * v Mah-e-Par Stars 199/10 ",
+    "away": "Maiwand Champions 223/10 &  71/10",
+    "home": "Mah-e-Par Stars 21/2 &  199/10 *",
+    "description": "Maiwand Champions 223/10 &  71/10  v Mah-e-Par Stars 21/2 &  199/10 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Hindukush Strikers v Pamir Legends 156/2 *",
+    "title": "Hindukush Strikers v Pamir Legends 236/3 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1551335.html?CMP=OTC-RSS ",
     "away": "Hindukush Strikers",
-    "home": "Pamir Legends 156/2 *",
-    "description": "Hindukush Strikers v Pamir Legends 156/2 *",
+    "home": "Pamir Legends 236/3 *",
+    "description": "Hindukush Strikers v Pamir Legends 236/3 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Guyana Amazon Warriors 160/2 * v Jamaica Kingsmen 159/7 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1534204.html?CMP=OTC-RSS ",
-    "away": "Guyana Amazon Warriors 160/2 *",
-    "home": "Jamaica Kingsmen 159/7",
-    "description": "Guyana Amazon Warriors 160/2 * v Jamaica Kingsmen 159/7 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Kurunegala Youth Cricket Club 47/4 * v Colombo Cricket Club",
+    "title": "Kurunegala Youth Cricket Club 91/10  v Colombo Cricket Club 95/2 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1535506.html?CMP=OTC-RSS ",
-    "away": "Kurunegala Youth Cricket Club 47/4 *",
-    "home": "Colombo Cricket Club",
-    "description": "Kurunegala Youth Cricket Club 47/4 * v Colombo Cricket Club",
+    "away": "Kurunegala Youth Cricket Club 91/10",
+    "home": "Colombo Cricket Club 95/2 *",
+    "description": "Kurunegala Youth Cricket Club 91/10  v Colombo Cricket Club 95/2 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Colts Cricket Club v Nondescripts Cricket Club 52/4 *",
+    "title": "Colts Cricket Club 140/10 * v Nondescripts Cricket Club 158/9 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1535511.html?CMP=OTC-RSS ",
-    "away": "Colts Cricket Club",
-    "home": "Nondescripts Cricket Club 52/4 *",
-    "description": "Colts Cricket Club v Nondescripts Cricket Club 52/4 *",
+    "away": "Colts Cricket Club 140/10 *",
+    "home": "Nondescripts Cricket Club 158/9",
+    "description": "Colts Cricket Club 140/10 * v Nondescripts Cricket Club 158/9 ",
     "status": "Live/Recent"
   },
   {
-    "title": "Sinhalese Sports Club v Ace Capital Cricket Club 112/1 *",
+    "title": "Sinhalese Sports Club 136/8 * v Ace Capital Cricket Club 193/4 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1535509.html?CMP=OTC-RSS ",
-    "away": "Sinhalese Sports Club",
-    "home": "Ace Capital Cricket Club 112/1 *",
-    "description": "Sinhalese Sports Club v Ace Capital Cricket Club 112/1 *",
+    "away": "Sinhalese Sports Club 136/8 *",
+    "home": "Ace Capital Cricket Club 193/4",
+    "description": "Sinhalese Sports Club 136/8 * v Ace Capital Cricket Club 193/4 ",
     "status": "Live/Recent"
   },
   {
-    "title": "Moors Sports Club v Burgher Recreation Club",
+    "title": "Moors Sports Club 76/1 * v Burgher Recreation Club",
     "link": "http://www.cricinfo.com/ci/engine/match/1535510.html?CMP=OTC-RSS ",
-    "away": "Moors Sports Club",
+    "away": "Moors Sports Club 76/1 *",
     "home": "Burgher Recreation Club",
-    "description": "Moors Sports Club v Burgher Recreation Club",
+    "description": "Moors Sports Club 76/1 * v Burgher Recreation Club",
     "status": "Live/Recent"
   },
   {
-    "title": "Nugegoda Sports Welfare Club v Police Sports Club",
+    "title": "Nugegoda Sports Welfare Club 53 * v Police Sports Club",
     "link": "http://www.cricinfo.com/ci/engine/match/1535508.html?CMP=OTC-RSS ",
-    "away": "Nugegoda Sports Welfare Club",
+    "away": "Nugegoda Sports Welfare Club 53 *",
     "home": "Police Sports Club",
-    "description": "Nugegoda Sports Welfare Club v Police Sports Club",
+    "description": "Nugegoda Sports Welfare Club 53 * v Police Sports Club",
     "status": "Live/Recent"
   },
   {
-    "title": "Badureliya Sports Club v Panadura Sports Club",
+    "title": "Badureliya Sports Club v Panadura Sports Club 41/4 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1535507.html?CMP=OTC-RSS ",
     "away": "Badureliya Sports Club",
-    "home": "Panadura Sports Club",
-    "description": "Badureliya Sports Club v Panadura Sports Club",
+    "home": "Panadura Sports Club 41/4 *",
+    "description": "Badureliya Sports Club v Panadura Sports Club 41/4 *",
     "status": "Live/Recent"
   },
   {
