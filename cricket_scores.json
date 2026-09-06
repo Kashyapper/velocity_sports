@@ -24,14 +24,6 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Glasgow Cosmic 159/6  v Edinburgh Castle Rockers 163/3 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1547887.html?CMP=OTC-RSS ",
-    "away": "Glasgow Cosmic 159/6",
-    "home": "Edinburgh Castle Rockers 163/3 *",
-    "description": "Glasgow Cosmic 159/6  v Edinburgh Castle Rockers 163/3 *",
-    "status": "Live/Recent"
-  },
-  {
     "title": "Essex Women 226/10 * v Surrey Women 344/7 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1513594.html?CMP=OTC-RSS ",
     "away": "Essex Women 226/10 *",
@@ -64,22 +56,6 @@
     "status": "Live/Recent"
   },
   {
-    "title": "South Africa 205/5  v Zimbabwe 157/10 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1549530.html?CMP=OTC-RSS ",
-    "away": "South Africa 205/5",
-    "home": "Zimbabwe 157/10 *",
-    "description": "South Africa 205/5  v Zimbabwe 157/10 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Amsterdam Flames 178/2 * v Rotterdam Dockers 176/6 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1547888.html?CMP=OTC-RSS ",
-    "away": "Amsterdam Flames 178/2 *",
-    "home": "Rotterdam Dockers 176/6",
-    "description": "Amsterdam Flames 178/2 * v Rotterdam Dockers 176/6 ",
-    "status": "Live/Recent"
-  },
-  {
     "title": "Guyana Amazon Warriors Women 138/7  v Jamaica Empress Women 136/9 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1540214.html?CMP=OTC-RSS ",
     "away": "Guyana Amazon Warriors Women 138/7",
@@ -96,11 +72,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Guyana Amazon Warriors v St Kitts and Nevis Patriots 115/9 *",
+    "title": "Guyana Amazon Warriors 124/3 * v St Kitts and Nevis Patriots 128/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1534206.html?CMP=OTC-RSS ",
-    "away": "Guyana Amazon Warriors",
-    "home": "St Kitts and Nevis Patriots 115/9 *",
-    "description": "Guyana Amazon Warriors v St Kitts and Nevis Patriots 115/9 *",
+    "away": "Guyana Amazon Warriors 124/3 *",
+    "home": "St Kitts and Nevis Patriots 128/10",
+    "description": "Guyana Amazon Warriors 124/3 * v St Kitts and Nevis Patriots 128/10 ",
     "status": "Live/Recent"
   },
   {
