@@ -96,11 +96,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Guyana Amazon Warriors v St Kitts and Nevis Patriots",
+    "title": "Guyana Amazon Warriors v St Kitts and Nevis Patriots 115/9 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1534206.html?CMP=OTC-RSS ",
     "away": "Guyana Amazon Warriors",
-    "home": "St Kitts and Nevis Patriots",
-    "description": "Guyana Amazon Warriors v St Kitts and Nevis Patriots",
+    "home": "St Kitts and Nevis Patriots 115/9 *",
+    "description": "Guyana Amazon Warriors v St Kitts and Nevis Patriots 115/9 *",
     "status": "Live/Recent"
   },
   {
@@ -125,6 +125,30 @@
     "away": "Malaysia",
     "home": "Bahrain",
     "description": "Malaysia v Bahrain",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Colombo Cricket Club v Sinhalese Sports Club",
+    "link": "http://www.cricinfo.com/ci/engine/match/1547444.html?CMP=OTC-RSS ",
+    "away": "Colombo Cricket Club",
+    "home": "Sinhalese Sports Club",
+    "description": "Colombo Cricket Club v Sinhalese Sports Club",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Moors Sports Club v Colts Cricket Club",
+    "link": "http://www.cricinfo.com/ci/engine/match/1547445.html?CMP=OTC-RSS ",
+    "away": "Moors Sports Club",
+    "home": "Colts Cricket Club",
+    "description": "Moors Sports Club v Colts Cricket Club",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Hong Kong Women v Pakistan Women",
+    "link": "http://www.cricinfo.com/ci/engine/match/1548901.html?CMP=OTC-RSS ",
+    "away": "Hong Kong Women",
+    "home": "Pakistan Women",
+    "description": "Hong Kong Women v Pakistan Women",
     "status": "Live/Recent"
   }
 ]
