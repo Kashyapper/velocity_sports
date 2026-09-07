@@ -1,13 +1,5 @@
 [
   {
-    "title": "Hindukush Strikers v Pamir Legends 654/9 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1551335.html?CMP=OTC-RSS ",
-    "away": "Hindukush Strikers",
-    "home": "Pamir Legends 654/9 *",
-    "description": "Hindukush Strikers v Pamir Legends 654/9 *",
-    "status": "Live/Recent"
-  },
-  {
     "title": "East Zone 708/10 * v South Zone",
     "link": "http://www.cricinfo.com/ci/engine/match/1546441.html?CMP=OTC-RSS ",
     "away": "East Zone 708/10 *",
@@ -29,6 +21,14 @@
     "away": "Oman",
     "home": "United Arab Emirates",
     "description": "Oman v United Arab Emirates",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "United Arab Emirates Women v Bangladesh Women",
+    "link": "http://www.cricinfo.com/ci/engine/match/1548902.html?CMP=OTC-RSS ",
+    "away": "United Arab Emirates Women",
+    "home": "Bangladesh Women",
+    "description": "United Arab Emirates Women v Bangladesh Women",
     "status": "Live/Recent"
   }
 ]
