@@ -16,46 +16,6 @@
     "status": "Live/Recent"
   },
   {
-    "title": "England Women 291/10  v Ireland Women 177/10 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1496554.html?CMP=OTC-RSS ",
-    "away": "England Women 291/10",
-    "home": "Ireland Women 177/10 *",
-    "description": "England Women 291/10  v Ireland Women 177/10 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Essex Women 226/10 * v Surrey Women 344/7 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1513594.html?CMP=OTC-RSS ",
-    "away": "Essex Women 226/10 *",
-    "home": "Surrey Women 344/7",
-    "description": "Essex Women 226/10 * v Surrey Women 344/7 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Lancashire Women 169/8  v Durham Women 166/9 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1513595.html?CMP=OTC-RSS ",
-    "away": "Lancashire Women 169/8",
-    "home": "Durham Women 166/9 *",
-    "description": "Lancashire Women 169/8  v Durham Women 166/9 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "The Blaze Women 193/4 * v Somerset Women 192/10 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1513596.html?CMP=OTC-RSS ",
-    "away": "The Blaze Women 193/4 *",
-    "home": "Somerset Women 192/10",
-    "description": "The Blaze Women 193/4 * v Somerset Women 192/10 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Hampshire Women 170/3 * v Yorkshire Women 166/10 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1513597.html?CMP=OTC-RSS ",
-    "away": "Hampshire Women 170/3 *",
-    "home": "Yorkshire Women 166/10",
-    "description": "Hampshire Women 170/3 * v Yorkshire Women 166/10 ",
-    "status": "Live/Recent"
-  },
-  {
     "title": "Guyana Amazon Warriors Women 138/7  v Jamaica Empress Women 136/9 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1540214.html?CMP=OTC-RSS ",
     "away": "Guyana Amazon Warriors Women 138/7",
@@ -64,27 +24,19 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Bangladesh Women 114/8  v Sri Lanka Women 115/6 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1548900.html?CMP=OTC-RSS ",
-    "away": "Bangladesh Women 114/8",
-    "home": "Sri Lanka Women 115/6 *",
-    "description": "Bangladesh Women 114/8  v Sri Lanka Women 115/6 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Guyana Amazon Warriors 124/3 * v St Kitts and Nevis Patriots 128/10 ",
+    "title": "Guyana Amazon Warriors 132/3 * v St Kitts and Nevis Patriots 128/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1534206.html?CMP=OTC-RSS ",
-    "away": "Guyana Amazon Warriors 124/3 *",
+    "away": "Guyana Amazon Warriors 132/3 *",
     "home": "St Kitts and Nevis Patriots 128/10",
-    "description": "Guyana Amazon Warriors 124/3 * v St Kitts and Nevis Patriots 128/10 ",
+    "description": "Guyana Amazon Warriors 132/3 * v St Kitts and Nevis Patriots 128/10 ",
     "status": "Live/Recent"
   },
   {
-    "title": "Barbados Tridents v St Lucia Kings",
+    "title": "Barbados Tridents v St Lucia Kings 81/2 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1534207.html?CMP=OTC-RSS ",
     "away": "Barbados Tridents",
-    "home": "St Lucia Kings",
-    "description": "Barbados Tridents v St Lucia Kings",
+    "home": "St Lucia Kings 81/2 *",
+    "description": "Barbados Tridents v St Lucia Kings 81/2 *",
     "status": "Live/Recent"
   },
   {
