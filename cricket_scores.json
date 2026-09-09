@@ -1,34 +1,34 @@
 [
   {
-    "title": "East Zone 212/5 &  708/10 * v South Zone 336/10 ",
+    "title": "East Zone 708/10 &  212/5 * v South Zone 336/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1546441.html?CMP=OTC-RSS ",
-    "away": "East Zone 212/5 &  708/10 *",
+    "away": "East Zone 708/10 &  212/5 *",
     "home": "South Zone 336/10",
-    "description": "East Zone 212/5 &  708/10 * v South Zone 336/10 ",
+    "description": "East Zone 708/10 &  212/5 * v South Zone 336/10 ",
     "status": "Live/Recent"
   },
   {
-    "title": "Derbyshire 100/1 &  300/10 * v Kent 219/10 ",
+    "title": "Derbyshire 300/10 &  100/1 * v Kent 219/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1513440.html?CMP=OTC-RSS ",
-    "away": "Derbyshire 100/1 &  300/10 *",
+    "away": "Derbyshire 300/10 &  100/1 *",
     "home": "Kent 219/10",
-    "description": "Derbyshire 100/1 &  300/10 * v Kent 219/10 ",
+    "description": "Derbyshire 300/10 &  100/1 * v Kent 219/10 ",
     "status": "Live/Recent"
   },
   {
-    "title": "Worcestershire 200/10 &  55/3 * v Northamptonshire 289/10 ",
+    "title": "Worcestershire 55/3 &  200/10 * v Northamptonshire 289/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1513441.html?CMP=OTC-RSS ",
-    "away": "Worcestershire 200/10 &  55/3 *",
+    "away": "Worcestershire 55/3 &  200/10 *",
     "home": "Northamptonshire 289/10",
-    "description": "Worcestershire 200/10 &  55/3 * v Northamptonshire 289/10 ",
+    "description": "Worcestershire 55/3 &  200/10 * v Northamptonshire 289/10 ",
     "status": "Live/Recent"
   },
   {
-    "title": "Durham 204/2 &  252/10 * v Middlesex 203/10 ",
+    "title": "Durham 252/10 &  204/2 * v Middlesex 203/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1513442.html?CMP=OTC-RSS ",
-    "away": "Durham 204/2 &  252/10 *",
+    "away": "Durham 252/10 &  204/2 *",
     "home": "Middlesex 203/10",
-    "description": "Durham 204/2 &  252/10 * v Middlesex 203/10 ",
+    "description": "Durham 252/10 &  204/2 * v Middlesex 203/10 ",
     "status": "Live/Recent"
   },
   {
@@ -56,11 +56,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Glamorgan 65/10 &  69/10 * v Warwickshire 391/10 ",
+    "title": "Glamorgan 69/10 &  65/10 * v Warwickshire 391/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1513383.html?CMP=OTC-RSS ",
-    "away": "Glamorgan 65/10 &  69/10 *",
+    "away": "Glamorgan 69/10 &  65/10 *",
     "home": "Warwickshire 391/10",
-    "description": "Glamorgan 65/10 &  69/10 * v Warwickshire 391/10 ",
+    "description": "Glamorgan 69/10 &  65/10 * v Warwickshire 391/10 ",
     "status": "Live/Recent"
   },
   {
@@ -72,19 +72,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Leicestershire 157/10  v Somerset 166/3 &  363/10 *",
+    "title": "Leicestershire 157/10  v Somerset 363/10 &  166/3 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1513385.html?CMP=OTC-RSS ",
     "away": "Leicestershire 157/10",
-    "home": "Somerset 166/3 &  363/10 *",
-    "description": "Leicestershire 157/10  v Somerset 166/3 &  363/10 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Namibia 162/8 * v South Africa 348/6 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1549531.html?CMP=OTC-RSS ",
-    "away": "Namibia 162/8 *",
-    "home": "South Africa 348/6",
-    "description": "Namibia 162/8 * v South Africa 348/6 ",
+    "home": "Somerset 363/10 &  166/3 *",
+    "description": "Leicestershire 157/10  v Somerset 363/10 &  166/3 *",
     "status": "Live/Recent"
   },
   {
