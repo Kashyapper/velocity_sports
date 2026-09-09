@@ -1,10 +1,10 @@
 [
   {
-    "title": "East Zone 708/10  v South Zone 242/6 *",
+    "title": "East Zone 708/10  v South Zone 311/6 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1546441.html?CMP=OTC-RSS ",
     "away": "East Zone 708/10",
-    "home": "South Zone 242/6 *",
-    "description": "East Zone 708/10  v South Zone 242/6 *",
+    "home": "South Zone 311/6 *",
+    "description": "East Zone 708/10  v South Zone 311/6 *",
     "status": "Live/Recent"
   },
   {
@@ -80,27 +80,27 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Guyana Amazon Warriors v Antigua and Barbuda Falcons 182/5 *",
+    "title": "Guyana Amazon Warriors 117/10 * v Antigua and Barbuda Falcons 182/5 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1534208.html?CMP=OTC-RSS ",
-    "away": "Guyana Amazon Warriors",
-    "home": "Antigua and Barbuda Falcons 182/5 *",
-    "description": "Guyana Amazon Warriors v Antigua and Barbuda Falcons 182/5 *",
+    "away": "Guyana Amazon Warriors 117/10 *",
+    "home": "Antigua and Barbuda Falcons 182/5",
+    "description": "Guyana Amazon Warriors 117/10 * v Antigua and Barbuda Falcons 182/5 ",
     "status": "Live/Recent"
   },
   {
-    "title": "Tamil Union Cricket and Athletic Club v Panadura Sports Club",
+    "title": "Tamil Union Cricket and Athletic Club 172/3 * v Panadura Sports Club",
     "link": "http://www.cricinfo.com/ci/engine/match/1535536.html?CMP=OTC-RSS ",
-    "away": "Tamil Union Cricket and Athletic Club",
+    "away": "Tamil Union Cricket and Athletic Club 172/3 *",
     "home": "Panadura Sports Club",
-    "description": "Tamil Union Cricket and Athletic Club v Panadura Sports Club",
+    "description": "Tamil Union Cricket and Athletic Club 172/3 * v Panadura Sports Club",
     "status": "Live/Recent"
   },
   {
-    "title": "Moors Sports Club v Nondescripts Cricket Club",
+    "title": "Moors Sports Club 136/6 * v Nondescripts Cricket Club",
     "link": "http://www.cricinfo.com/ci/engine/match/1535538.html?CMP=OTC-RSS ",
-    "away": "Moors Sports Club",
+    "away": "Moors Sports Club 136/6 *",
     "home": "Nondescripts Cricket Club",
-    "description": "Moors Sports Club v Nondescripts Cricket Club",
+    "description": "Moors Sports Club 136/6 * v Nondescripts Cricket Club",
     "status": "Live/Recent"
   },
   {
@@ -181,6 +181,14 @@
     "away": "Dublin Guardians",
     "home": "Belfast Wolves",
     "description": "Dublin Guardians v Belfast Wolves",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Guyana Amazon Warriors v St Lucia Kings",
+    "link": "http://www.cricinfo.com/ci/engine/match/1534209.html?CMP=OTC-RSS ",
+    "away": "Guyana Amazon Warriors",
+    "home": "St Lucia Kings",
+    "description": "Guyana Amazon Warriors v St Lucia Kings",
     "status": "Live/Recent"
   }
 ]
