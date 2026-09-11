@@ -1,10 +1,10 @@
 [
   {
-    "title": "Derbyshire 352/8 &  300/10  v Kent 252/10 &  219/10 *",
+    "title": "Derbyshire 352/8 &  300/10  v Kent 219/10 &  252/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1513440.html?CMP=OTC-RSS ",
     "away": "Derbyshire 352/8 &  300/10",
-    "home": "Kent 252/10 &  219/10 *",
-    "description": "Derbyshire 352/8 &  300/10  v Kent 252/10 &  219/10 *",
+    "home": "Kent 219/10 &  252/10 *",
+    "description": "Derbyshire 352/8 &  300/10  v Kent 219/10 &  252/10 *",
     "status": "Live/Recent"
   },
   {
@@ -16,11 +16,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Lancashire 134/10 &  142/10 * v Gloucestershire 212/10 &  169/10 ",
+    "title": "Lancashire 134/10 &  142/10 * v Gloucestershire 169/10 &  212/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1513443.html?CMP=OTC-RSS ",
     "away": "Lancashire 134/10 &  142/10 *",
-    "home": "Gloucestershire 212/10 &  169/10",
-    "description": "Lancashire 134/10 &  142/10 * v Gloucestershire 212/10 &  169/10 ",
+    "home": "Gloucestershire 169/10 &  212/10",
+    "description": "Lancashire 134/10 &  142/10 * v Gloucestershire 169/10 &  212/10 ",
     "status": "Live/Recent"
   },
   {
@@ -40,11 +40,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "England 453/10  v Pakistan 133/10 &  449/10 *",
+    "title": "England 453/10  v Pakistan 449/10 &  133/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1496584.html?CMP=OTC-RSS ",
     "away": "England 453/10",
-    "home": "Pakistan 133/10 &  449/10 *",
-    "description": "England 453/10  v Pakistan 133/10 &  449/10 *",
+    "home": "Pakistan 449/10 &  133/10 *",
+    "description": "England 453/10  v Pakistan 449/10 &  133/10 *",
     "status": "Live/Recent"
   },
   {
@@ -61,14 +61,6 @@
     "away": "Namibia 178/10 *",
     "home": "South Africa 335/9",
     "description": "Namibia 178/10 * v South Africa 335/9 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Moors Sports Club 260/10  v Sinhalese Sports Club 235/10 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1547446.html?CMP=OTC-RSS ",
-    "away": "Moors Sports Club 260/10",
-    "home": "Sinhalese Sports Club 235/10 *",
-    "description": "Moors Sports Club 260/10  v Sinhalese Sports Club 235/10 *",
     "status": "Live/Recent"
   },
   {
