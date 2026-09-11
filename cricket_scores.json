@@ -1,34 +1,34 @@
 [
   {
-    "title": "Derbyshire 352/8 &  300/10  v Kent 3 &  219/10 *",
+    "title": "Derbyshire 352/8 &  300/10  v Kent 219/10 &  3 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1513440.html?CMP=OTC-RSS ",
     "away": "Derbyshire 352/8 &  300/10",
-    "home": "Kent 3 &  219/10 *",
-    "description": "Derbyshire 352/8 &  300/10  v Kent 3 &  219/10 *",
+    "home": "Kent 219/10 &  3 *",
+    "description": "Derbyshire 352/8 &  300/10  v Kent 219/10 &  3 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Durham 252/10 &  374/10  v Middlesex 55/2 &  203/10 *",
+    "title": "Durham 374/10 &  252/10  v Middlesex 203/10 &  55/2 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1513442.html?CMP=OTC-RSS ",
-    "away": "Durham 252/10 &  374/10",
-    "home": "Middlesex 55/2 &  203/10 *",
-    "description": "Durham 252/10 &  374/10  v Middlesex 55/2 &  203/10 *",
+    "away": "Durham 374/10 &  252/10",
+    "home": "Middlesex 203/10 &  55/2 *",
+    "description": "Durham 374/10 &  252/10  v Middlesex 203/10 &  55/2 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Lancashire 120/6 &  134/10 * v Gloucestershire 212/10 &  169/10 ",
+    "title": "Lancashire 134/10 &  120/6 * v Gloucestershire 212/10 &  169/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1513443.html?CMP=OTC-RSS ",
-    "away": "Lancashire 120/6 &  134/10 *",
+    "away": "Lancashire 134/10 &  120/6 *",
     "home": "Gloucestershire 212/10 &  169/10",
-    "description": "Lancashire 120/6 &  134/10 * v Gloucestershire 212/10 &  169/10 ",
+    "description": "Lancashire 134/10 &  120/6 * v Gloucestershire 212/10 &  169/10 ",
     "status": "Live/Recent"
   },
   {
-    "title": "Nottinghamshire 104/10 &  377/10  v Hampshire 304/10 &  61/6 *",
+    "title": "Nottinghamshire 104/10 &  377/10  v Hampshire 61/6 &  304/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1513381.html?CMP=OTC-RSS ",
     "away": "Nottinghamshire 104/10 &  377/10",
-    "home": "Hampshire 304/10 &  61/6 *",
-    "description": "Nottinghamshire 104/10 &  377/10  v Hampshire 304/10 &  61/6 *",
+    "home": "Hampshire 61/6 &  304/10 *",
+    "description": "Nottinghamshire 104/10 &  377/10  v Hampshire 61/6 &  304/10 *",
     "status": "Live/Recent"
   },
   {
@@ -48,43 +48,35 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Maiwand Champions 109/10  v Hindukush Strikers 156/5 *",
+    "title": "Maiwand Champions 167/1 &  109/10 * v Hindukush Strikers 169/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1551336.html?CMP=OTC-RSS ",
-    "away": "Maiwand Champions 109/10",
-    "home": "Hindukush Strikers 156/5 *",
-    "description": "Maiwand Champions 109/10  v Hindukush Strikers 156/5 *",
+    "away": "Maiwand Champions 167/1 &  109/10 *",
+    "home": "Hindukush Strikers 169/10",
+    "description": "Maiwand Champions 167/1 &  109/10 * v Hindukush Strikers 169/10 ",
     "status": "Live/Recent"
   },
   {
-    "title": "Pamir Legends 103/10  v Mah-e-Par Stars 231/9 *",
+    "title": "Pamir Legends 103/10 &  152/10 * v Mah-e-Par Stars 231/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1551337.html?CMP=OTC-RSS ",
-    "away": "Pamir Legends 103/10",
-    "home": "Mah-e-Par Stars 231/9 *",
-    "description": "Pamir Legends 103/10  v Mah-e-Par Stars 231/9 *",
+    "away": "Pamir Legends 103/10 &  152/10 *",
+    "home": "Mah-e-Par Stars 231/10",
+    "description": "Pamir Legends 103/10 &  152/10 * v Mah-e-Par Stars 231/10 ",
     "status": "Live/Recent"
   },
   {
-    "title": "Barbados Tridents 120/6 * v St Kitts and Nevis Patriots 118/10 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1534210.html?CMP=OTC-RSS ",
-    "away": "Barbados Tridents 120/6 *",
-    "home": "St Kitts and Nevis Patriots 118/10",
-    "description": "Barbados Tridents 120/6 * v St Kitts and Nevis Patriots 118/10 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Namibia v South Africa",
+    "title": "Namibia v South Africa 100/1 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1549532.html?CMP=OTC-RSS ",
     "away": "Namibia",
-    "home": "South Africa",
-    "description": "Namibia v South Africa",
+    "home": "South Africa 100/1 *",
+    "description": "Namibia v South Africa 100/1 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Moors Sports Club v Sinhalese Sports Club",
+    "title": "Moors Sports Club 1 * v Sinhalese Sports Club",
     "link": "http://www.cricinfo.com/ci/engine/match/1547446.html?CMP=OTC-RSS ",
-    "away": "Moors Sports Club",
+    "away": "Moors Sports Club 1 *",
     "home": "Sinhalese Sports Club",
-    "description": "Moors Sports Club v Sinhalese Sports Club",
+    "description": "Moors Sports Club 1 * v Sinhalese Sports Club",
     "status": "Live/Recent"
   },
   {
