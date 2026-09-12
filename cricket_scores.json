@@ -8,27 +8,27 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Maiwand Champions 296/2 &  109/10 * v Hindukush Strikers 169/10 ",
+    "title": "Maiwand Champions 109/10 &  403/7 * v Hindukush Strikers 169/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1551336.html?CMP=OTC-RSS ",
-    "away": "Maiwand Champions 296/2 &  109/10 *",
+    "away": "Maiwand Champions 109/10 &  403/7 *",
     "home": "Hindukush Strikers 169/10",
-    "description": "Maiwand Champions 296/2 &  109/10 * v Hindukush Strikers 169/10 ",
+    "description": "Maiwand Champions 109/10 &  403/7 * v Hindukush Strikers 169/10 ",
     "status": "Live/Recent"
   },
   {
-    "title": "Guyana Amazon Warriors 36/2 * v Trinbago Knight Riders 126/8 ",
+    "title": "Guyana Amazon Warriors 127/4 * v Trinbago Knight Riders 126/8 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1534211.html?CMP=OTC-RSS ",
-    "away": "Guyana Amazon Warriors 36/2 *",
+    "away": "Guyana Amazon Warriors 127/4 *",
     "home": "Trinbago Knight Riders 126/8",
-    "description": "Guyana Amazon Warriors 36/2 * v Trinbago Knight Riders 126/8 ",
+    "description": "Guyana Amazon Warriors 127/4 * v Trinbago Knight Riders 126/8 ",
     "status": "Live/Recent"
   },
   {
-    "title": "Nepal 8 * v United Arab Emirates",
+    "title": "Nepal 313/9  v United Arab Emirates 53/2 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1549969.html?CMP=OTC-RSS ",
-    "away": "Nepal 8 *",
-    "home": "United Arab Emirates",
-    "description": "Nepal 8 * v United Arab Emirates",
+    "away": "Nepal 313/9",
+    "home": "United Arab Emirates 53/2 *",
+    "description": "Nepal 313/9  v United Arab Emirates 53/2 *",
     "status": "Live/Recent"
   },
   {
@@ -77,6 +77,30 @@
     "away": "Dublin Guardians",
     "home": "Glasgow Cosmic",
     "description": "Dublin Guardians v Glasgow Cosmic",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Guyana Amazon Warriors Women v Trinbago Knight Riders Women",
+    "link": "http://www.cricinfo.com/ci/engine/match/1540216.html?CMP=OTC-RSS ",
+    "away": "Guyana Amazon Warriors Women",
+    "home": "Trinbago Knight Riders Women",
+    "description": "Guyana Amazon Warriors Women v Trinbago Knight Riders Women",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Barbados Tridents Women v Jamaica Empress Women",
+    "link": "http://www.cricinfo.com/ci/engine/match/1540217.html?CMP=OTC-RSS ",
+    "away": "Barbados Tridents Women",
+    "home": "Jamaica Empress Women",
+    "description": "Barbados Tridents Women v Jamaica Empress Women",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Barbados Tridents v Jamaica Kingsmen",
+    "link": "http://www.cricinfo.com/ci/engine/match/1534212.html?CMP=OTC-RSS ",
+    "away": "Barbados Tridents",
+    "home": "Jamaica Kingsmen",
+    "description": "Barbados Tridents v Jamaica Kingsmen",
     "status": "Live/Recent"
   }
 ]
