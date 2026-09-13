@@ -1,58 +1,10 @@
 [
   {
-    "title": "Western Province 145/1 &  143/10 * v Warriors 347/10 &  96/4 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1551661.html?CMP=OTC-RSS ",
-    "away": "Western Province 145/1 &  143/10 *",
-    "home": "Warriors 347/10 &  96/4",
-    "description": "Western Province 145/1 &  143/10 * v Warriors 347/10 &  96/4 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Knights 228/10 &  232/10 * v North West 251/10 &  344/10 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1551662.html?CMP=OTC-RSS ",
-    "away": "Knights 228/10 &  232/10 *",
-    "home": "North West 251/10 &  344/10",
-    "description": "Knights 228/10 &  232/10 * v North West 251/10 &  344/10 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Lions 314/10 &  312/8  v Boland 135/4 &  348/10 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1551663.html?CMP=OTC-RSS ",
-    "away": "Lions 314/10 &  312/8",
-    "home": "Boland 135/4 &  348/10 *",
-    "description": "Lions 314/10 &  312/8  v Boland 135/4 &  348/10 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Titans 421/10  v Dolphins 157/10 &  204/9 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1551664.html?CMP=OTC-RSS ",
-    "away": "Titans 421/10",
-    "home": "Dolphins 157/10 &  204/9 *",
-    "description": "Titans 421/10  v Dolphins 157/10 &  204/9 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Namibia 156/10  v South Africa 157/1 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1549533.html?CMP=OTC-RSS ",
-    "away": "Namibia 156/10",
-    "home": "South Africa 157/1 *",
-    "description": "Namibia 156/10  v South Africa 157/1 *",
-    "status": "Live/Recent"
-  },
-  {
     "title": "Edinburgh Castle Rockers 118/10  v Amsterdam Flames 120/2 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1547895.html?CMP=OTC-RSS ",
     "away": "Edinburgh Castle Rockers 118/10",
     "home": "Amsterdam Flames 120/2 *",
     "description": "Edinburgh Castle Rockers 118/10  v Amsterdam Flames 120/2 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Zimbabwe Women 129/7 * v South Africa Women 193/3 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1543888.html?CMP=OTC-RSS ",
-    "away": "Zimbabwe Women 129/7 *",
-    "home": "South Africa Women 193/3",
-    "description": "Zimbabwe Women 129/7 * v South Africa Women 193/3 ",
     "status": "Live/Recent"
   },
   {
@@ -64,30 +16,6 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Tamil Union Cricket and Athletic Club 193/6  v Colombo Cricket Club 193/6 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1535540.html?CMP=OTC-RSS ",
-    "away": "Tamil Union Cricket and Athletic Club 193/6",
-    "home": "Colombo Cricket Club 193/6 *",
-    "description": "Tamil Union Cricket and Athletic Club 193/6  v Colombo Cricket Club 193/6 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Sinhalese Sports Club 196/4  v Nondescripts Cricket Club 150/9 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1535541.html?CMP=OTC-RSS ",
-    "away": "Sinhalese Sports Club 196/4",
-    "home": "Nondescripts Cricket Club 150/9 *",
-    "description": "Sinhalese Sports Club 196/4  v Nondescripts Cricket Club 150/9 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "India 157/3 * v Afghanistan 156/8 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1549586.html?CMP=OTC-RSS ",
-    "away": "India 157/3 *",
-    "home": "Afghanistan 156/8",
-    "description": "India 157/3 * v Afghanistan 156/8 ",
-    "status": "Live/Recent"
-  },
-  {
     "title": "India Women 183/5  v Sri Lanka Women 111/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1548905.html?CMP=OTC-RSS ",
     "away": "India Women 183/5",
@@ -96,11 +24,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Barbados Tridents Women 158/7  v Guyana Amazon Warriors Women 116/3 *",
+    "title": "Barbados Tridents Women 158/7  v Guyana Amazon Warriors Women 159/5 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1540218.html?CMP=OTC-RSS ",
     "away": "Barbados Tridents Women 158/7",
-    "home": "Guyana Amazon Warriors Women 116/3 *",
-    "description": "Barbados Tridents Women 158/7  v Guyana Amazon Warriors Women 116/3 *",
+    "home": "Guyana Amazon Warriors Women 159/5 *",
+    "description": "Barbados Tridents Women 158/7  v Guyana Amazon Warriors Women 159/5 *",
     "status": "Live/Recent"
   },
   {
