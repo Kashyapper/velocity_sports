@@ -1,34 +1,18 @@
 [
   {
-    "title": "Maiwand Champions 109/10 &  404/9  v Hindukush Strikers 196/1 &  169/10 *",
+    "title": "Maiwand Champions 404/9 &  109/10  v Hindukush Strikers 247/3 &  169/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1551336.html?CMP=OTC-RSS ",
-    "away": "Maiwand Champions 109/10 &  404/9",
-    "home": "Hindukush Strikers 196/1 &  169/10 *",
-    "description": "Maiwand Champions 109/10 &  404/9  v Hindukush Strikers 196/1 &  169/10 *",
+    "away": "Maiwand Champions 404/9 &  109/10",
+    "home": "Hindukush Strikers 247/3 &  169/10 *",
+    "description": "Maiwand Champions 404/9 &  109/10  v Hindukush Strikers 247/3 &  169/10 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Guyana Amazon Warriors Women 119/8  v Trinbago Knight Riders Women 94/9 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1540216.html?CMP=OTC-RSS ",
-    "away": "Guyana Amazon Warriors Women 119/8",
-    "home": "Trinbago Knight Riders Women 94/9 *",
-    "description": "Guyana Amazon Warriors Women 119/8  v Trinbago Knight Riders Women 94/9 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Barbados Tridents Women 140/7  v Jamaica Empress Women 137/4 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1540217.html?CMP=OTC-RSS ",
-    "away": "Barbados Tridents Women 140/7",
-    "home": "Jamaica Empress Women 137/4 *",
-    "description": "Barbados Tridents Women 140/7  v Jamaica Empress Women 137/4 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Barbados Tridents v Jamaica Kingsmen 96/4 *",
+    "title": "Barbados Tridents 151/8 * v Jamaica Kingsmen 150/9 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1534212.html?CMP=OTC-RSS ",
-    "away": "Barbados Tridents",
-    "home": "Jamaica Kingsmen 96/4 *",
-    "description": "Barbados Tridents v Jamaica Kingsmen 96/4 *",
+    "away": "Barbados Tridents 151/8 *",
+    "home": "Jamaica Kingsmen 150/9",
+    "description": "Barbados Tridents 151/8 * v Jamaica Kingsmen 150/9 ",
     "status": "Live/Recent"
   },
   {
@@ -64,14 +48,6 @@
     "status": "Live/Recent"
   },
   {
-    "title": "England Lions v Sri Lanka",
-    "link": "http://www.cricinfo.com/ci/engine/match/1553240.html?CMP=OTC-RSS ",
-    "away": "England Lions",
-    "home": "Sri Lanka",
-    "description": "England Lions v Sri Lanka",
-    "status": "Live/Recent"
-  },
-  {
     "title": "Tamil Union Cricket and Athletic Club v Colombo Cricket Club",
     "link": "http://www.cricinfo.com/ci/engine/match/1535540.html?CMP=OTC-RSS ",
     "away": "Tamil Union Cricket and Athletic Club",
@@ -101,6 +77,22 @@
     "away": "India Women",
     "home": "Sri Lanka Women",
     "description": "India Women v Sri Lanka Women",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Barbados Tridents Women v Guyana Amazon Warriors Women",
+    "link": "http://www.cricinfo.com/ci/engine/match/1540218.html?CMP=OTC-RSS ",
+    "away": "Barbados Tridents Women",
+    "home": "Guyana Amazon Warriors Women",
+    "description": "Barbados Tridents Women v Guyana Amazon Warriors Women",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Barbados Tridents v Guyana Amazon Warriors",
+    "link": "http://www.cricinfo.com/ci/engine/match/1534213.html?CMP=OTC-RSS ",
+    "away": "Barbados Tridents",
+    "home": "Guyana Amazon Warriors",
+    "description": "Barbados Tridents v Guyana Amazon Warriors",
     "status": "Live/Recent"
   }
 ]
