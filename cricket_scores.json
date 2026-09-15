@@ -1,13 +1,5 @@
 [
   {
-    "title": "Zimbabwe 235/10 * v Australia 294/8 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1530203.html?CMP=OTC-RSS ",
-    "away": "Zimbabwe 235/10 *",
-    "home": "Australia 294/8",
-    "description": "Zimbabwe 235/10 * v Australia 294/8 ",
-    "status": "Live/Recent"
-  },
-  {
     "title": "Durham 437/7 * v Worcestershire",
     "link": "http://www.cricinfo.com/ci/engine/match/1513444.html?CMP=OTC-RSS ",
     "away": "Durham 437/7 *",
@@ -64,11 +56,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Surrey 115/10  v Glamorgan 30 &  132/10 *",
+    "title": "Surrey 115/10  v Glamorgan 132/10 &  30 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1513389.html?CMP=OTC-RSS ",
     "away": "Surrey 115/10",
-    "home": "Glamorgan 30 &  132/10 *",
-    "description": "Surrey 115/10  v Glamorgan 30 &  132/10 *",
+    "home": "Glamorgan 132/10 &  30 *",
+    "description": "Surrey 115/10  v Glamorgan 132/10 &  30 *",
     "status": "Live/Recent"
   },
   {
@@ -88,14 +80,6 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Zimbabwe Women 120/10 * v South Africa Women 200/1 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1543889.html?CMP=OTC-RSS ",
-    "away": "Zimbabwe Women 120/10 *",
-    "home": "South Africa Women 200/1",
-    "description": "Zimbabwe Women 120/10 * v South Africa Women 200/1 ",
-    "status": "Live/Recent"
-  },
-  {
     "title": "Edinburgh Castle Rockers 176/5 * v Rotterdam Dockers 181/6 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1547898.html?CMP=OTC-RSS ",
     "away": "Edinburgh Castle Rockers 176/5 *",
@@ -104,19 +88,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "India 163/3 * v Afghanistan 159/8 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1549587.html?CMP=OTC-RSS ",
-    "away": "India 163/3 *",
-    "home": "Afghanistan 159/8",
-    "description": "India 163/3 * v Afghanistan 159/8 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "England 254/4  v Sri Lanka 41/3 *",
+    "title": "England 254/4  v Sri Lanka 135/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1496585.html?CMP=OTC-RSS ",
     "away": "England 254/4",
-    "home": "Sri Lanka 41/3 *",
-    "description": "England 254/4  v Sri Lanka 41/3 *",
+    "home": "Sri Lanka 135/10 *",
+    "description": "England 254/4  v Sri Lanka 135/10 *",
     "status": "Live/Recent"
   },
   {
