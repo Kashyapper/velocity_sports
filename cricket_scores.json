@@ -56,11 +56,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Surrey 115/10  v Glamorgan 132/10 &  30 *",
+    "title": "Surrey 115/10  v Glamorgan 30 &  132/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1513389.html?CMP=OTC-RSS ",
     "away": "Surrey 115/10",
-    "home": "Glamorgan 132/10 &  30 *",
-    "description": "Surrey 115/10  v Glamorgan 132/10 &  30 *",
+    "home": "Glamorgan 30 &  132/10 *",
+    "description": "Surrey 115/10  v Glamorgan 30 &  132/10 *",
     "status": "Live/Recent"
   },
   {
@@ -72,19 +72,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "England 254/4  v Sri Lanka 135/10 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1496585.html?CMP=OTC-RSS ",
-    "away": "England 254/4",
-    "home": "Sri Lanka 135/10 *",
-    "description": "England 254/4  v Sri Lanka 135/10 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Malaysia v United Arab Emirates",
+    "title": "Malaysia 156/9  v United Arab Emirates 157/3 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1552896.html?CMP=OTC-RSS ",
-    "away": "Malaysia",
-    "home": "United Arab Emirates",
-    "description": "Malaysia v United Arab Emirates",
+    "away": "Malaysia 156/9",
+    "home": "United Arab Emirates 157/3 *",
+    "description": "Malaysia 156/9  v United Arab Emirates 157/3 *",
     "status": "Live/Recent"
   },
   {
@@ -96,11 +88,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Pamir Legends v Mah-e-Par Stars",
+    "title": "Pamir Legends v Mah-e-Par Stars 25 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1551339.html?CMP=OTC-RSS ",
     "away": "Pamir Legends",
-    "home": "Mah-e-Par Stars",
-    "description": "Pamir Legends v Mah-e-Par Stars",
+    "home": "Mah-e-Par Stars 25 *",
+    "description": "Pamir Legends v Mah-e-Par Stars 25 *",
     "status": "Live/Recent"
   },
   {
@@ -133,6 +125,22 @@
     "away": "Tamil Union Cricket and Athletic Club",
     "home": "Sinhalese Sports Club",
     "description": "Tamil Union Cricket and Athletic Club v Sinhalese Sports Club",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Barbados Tridents Women v Guyana Amazon Warriors Women",
+    "link": "http://www.cricinfo.com/ci/engine/match/1540219.html?CMP=OTC-RSS ",
+    "away": "Barbados Tridents Women",
+    "home": "Guyana Amazon Warriors Women",
+    "description": "Barbados Tridents Women v Guyana Amazon Warriors Women",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Barbados Tridents v Jamaica Kingsmen",
+    "link": "http://www.cricinfo.com/ci/engine/match/1534214.html?CMP=OTC-RSS ",
+    "away": "Barbados Tridents",
+    "home": "Jamaica Kingsmen",
+    "description": "Barbados Tridents v Jamaica Kingsmen",
     "status": "Live/Recent"
   }
 ]
