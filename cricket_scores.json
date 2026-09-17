@@ -16,11 +16,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Gloucestershire 296/10  v Middlesex 326/10 &  17 *",
+    "title": "Gloucestershire 296/10  v Middlesex 17 &  326/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1513446.html?CMP=OTC-RSS ",
     "away": "Gloucestershire 296/10",
-    "home": "Middlesex 326/10 &  17 *",
-    "description": "Gloucestershire 296/10  v Middlesex 326/10 &  17 *",
+    "home": "Middlesex 17 &  326/10 *",
+    "description": "Gloucestershire 296/10  v Middlesex 17 &  326/10 *",
     "status": "Live/Recent"
   },
   {
@@ -32,19 +32,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Essex 189/10 &  134/10  v Warwickshire 191/10 &  138/2 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1513386.html?CMP=OTC-RSS ",
-    "away": "Essex 189/10 &  134/10",
-    "home": "Warwickshire 191/10 &  138/2 *",
-    "description": "Essex 189/10 &  134/10  v Warwickshire 191/10 &  138/2 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Leicestershire 244/10  v Hampshire 255/3 &  214/10 *",
+    "title": "Leicestershire 244/10  v Hampshire 214/10 &  255/3 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1513387.html?CMP=OTC-RSS ",
     "away": "Leicestershire 244/10",
-    "home": "Hampshire 255/3 &  214/10 *",
-    "description": "Leicestershire 244/10  v Hampshire 255/3 &  214/10 *",
+    "home": "Hampshire 214/10 &  255/3 *",
+    "description": "Leicestershire 244/10  v Hampshire 214/10 &  255/3 *",
     "status": "Live/Recent"
   },
   {
@@ -96,11 +88,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Barbados Tridents 44/5 * v Jamaica Kingsmen",
+    "title": "Barbados Tridents 144/6  v Jamaica Kingsmen 138/1 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1534214.html?CMP=OTC-RSS ",
-    "away": "Barbados Tridents 44/5 *",
-    "home": "Jamaica Kingsmen",
-    "description": "Barbados Tridents 44/5 * v Jamaica Kingsmen",
+    "away": "Barbados Tridents 144/6",
+    "home": "Jamaica Kingsmen 138/1 *",
+    "description": "Barbados Tridents 144/6  v Jamaica Kingsmen 138/1 *",
     "status": "Live/Recent"
   },
   {
@@ -112,11 +104,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Malaysia v United Arab Emirates",
+    "title": "Malaysia v United Arab Emirates 77 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1552897.html?CMP=OTC-RSS ",
     "away": "Malaysia",
-    "home": "United Arab Emirates",
-    "description": "Malaysia v United Arab Emirates",
+    "home": "United Arab Emirates 77 *",
+    "description": "Malaysia v United Arab Emirates 77 *",
     "status": "Live/Recent"
   },
   {
