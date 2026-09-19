@@ -8,14 +8,6 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Zimbabwe Women 150/8 * v South Africa Women 164/6 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1543891.html?CMP=OTC-RSS ",
-    "away": "Zimbabwe Women 150/8 *",
-    "home": "South Africa Women 164/6",
-    "description": "Zimbabwe Women 150/8 * v South Africa Women 164/6 ",
-    "status": "Live/Recent"
-  },
-  {
     "title": "Belfast Wolves 136/3 * v Amsterdam Flames 133/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1547902.html?CMP=OTC-RSS ",
     "away": "Belfast Wolves 136/3 *",
@@ -53,6 +45,14 @@
     "away": "Western Australia",
     "home": "Tasmania",
     "description": "Western Australia v Tasmania",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Zimbabwe v Australia",
+    "link": "http://www.cricinfo.com/ci/engine/match/1530205.html?CMP=OTC-RSS ",
+    "away": "Zimbabwe",
+    "home": "Australia",
+    "description": "Zimbabwe v Australia",
     "status": "Live/Recent"
   },
   {
