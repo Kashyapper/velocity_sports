@@ -54,5 +54,13 @@
     "home": "Pamir Legends",
     "description": "Maiwand Champions v Pamir Legends",
     "status": "Live/Recent"
+  },
+  {
+    "title": "England v Sri Lanka",
+    "link": "http://www.cricinfo.com/ci/engine/match/1496588.html?CMP=OTC-RSS ",
+    "away": "England",
+    "home": "Sri Lanka",
+    "description": "England v Sri Lanka",
+    "status": "Live/Recent"
   }
 ]
