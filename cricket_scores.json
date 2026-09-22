@@ -24,11 +24,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "England 265/10  v Sri Lanka 74/2 *",
+    "title": "England 265/10  v Sri Lanka 176/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1496588.html?CMP=OTC-RSS ",
     "away": "England 265/10",
-    "home": "Sri Lanka 74/2 *",
-    "description": "England 265/10  v Sri Lanka 74/2 *",
+    "home": "Sri Lanka 176/10 *",
+    "description": "England 265/10  v Sri Lanka 176/10 *",
     "status": "Live/Recent"
   },
   {
@@ -37,6 +37,22 @@
     "away": "South Australia",
     "home": "Tasmania",
     "description": "South Australia v Tasmania",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "India Under-19s v Australia Under-19s",
+    "link": "http://www.cricinfo.com/ci/engine/match/1535683.html?CMP=OTC-RSS ",
+    "away": "India Under-19s",
+    "home": "Australia Under-19s",
+    "description": "India Under-19s v Australia Under-19s",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "India A Women v Australia A Women",
+    "link": "http://www.cricinfo.com/ci/engine/match/1552025.html?CMP=OTC-RSS ",
+    "away": "India A Women",
+    "home": "Australia A Women",
+    "description": "India A Women v Australia A Women",
     "status": "Live/Recent"
   }
 ]
