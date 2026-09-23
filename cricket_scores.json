@@ -8,27 +8,19 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Mah-e-Par Stars 464/10  v Hindukush Strikers 117/10 &  66/4 *",
+    "title": "Mah-e-Par Stars 464/10  v Hindukush Strikers 94/4 &  117/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1551341.html?CMP=OTC-RSS ",
     "away": "Mah-e-Par Stars 464/10",
-    "home": "Hindukush Strikers 117/10 &  66/4 *",
-    "description": "Mah-e-Par Stars 464/10  v Hindukush Strikers 117/10 &  66/4 *",
+    "home": "Hindukush Strikers 94/4 &  117/10 *",
+    "description": "Mah-e-Par Stars 464/10  v Hindukush Strikers 94/4 &  117/10 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Maiwand Champions 338/10  v Pamir Legends 68/3 &  110/10 *",
+    "title": "Maiwand Champions 338/10  v Pamir Legends 78/4 &  110/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1551340.html?CMP=OTC-RSS ",
     "away": "Maiwand Champions 338/10",
-    "home": "Pamir Legends 68/3 &  110/10 *",
-    "description": "Maiwand Champions 338/10  v Pamir Legends 68/3 &  110/10 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "South Australia 383/7  v Tasmania 376/8 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1544846.html?CMP=OTC-RSS ",
-    "away": "South Australia 383/7",
-    "home": "Tasmania 376/8 *",
-    "description": "South Australia 383/7  v Tasmania 376/8 *",
+    "home": "Pamir Legends 78/4 &  110/10 *",
+    "description": "Maiwand Champions 338/10  v Pamir Legends 78/4 &  110/10 *",
     "status": "Live/Recent"
   },
   {
@@ -45,6 +37,22 @@
     "away": "India A Women 338/6",
     "home": "Australia A Women 341/8 *",
     "description": "India A Women 338/6  v Australia A Women 341/8 *",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Japan v Afghanistan",
+    "link": "http://www.cricinfo.com/ci/engine/match/1552766.html?CMP=OTC-RSS ",
+    "away": "Japan",
+    "home": "Afghanistan",
+    "description": "Japan v Afghanistan",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Hong Kong v Malaysia",
+    "link": "http://www.cricinfo.com/ci/engine/match/1552767.html?CMP=OTC-RSS ",
+    "away": "Hong Kong",
+    "home": "Malaysia",
+    "description": "Hong Kong v Malaysia",
     "status": "Live/Recent"
   }
 ]
