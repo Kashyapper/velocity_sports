@@ -8,11 +8,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Mah-e-Par Stars 464/10  v Hindukush Strikers 94/4 &  117/10 *",
+    "title": "Mah-e-Par Stars 464/10  v Hindukush Strikers 117/10 &  94/4 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1551341.html?CMP=OTC-RSS ",
     "away": "Mah-e-Par Stars 464/10",
-    "home": "Hindukush Strikers 94/4 &  117/10 *",
-    "description": "Mah-e-Par Stars 464/10  v Hindukush Strikers 94/4 &  117/10 *",
+    "home": "Hindukush Strikers 117/10 &  94/4 *",
+    "description": "Mah-e-Par Stars 464/10  v Hindukush Strikers 117/10 &  94/4 *",
     "status": "Live/Recent"
   },
   {
@@ -37,6 +37,22 @@
     "away": "Hong Kong",
     "home": "Malaysia",
     "description": "Hong Kong v Malaysia",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Zimbabwe Women v West Indies Women",
+    "link": "http://www.cricinfo.com/ci/engine/match/1554975.html?CMP=OTC-RSS ",
+    "away": "Zimbabwe Women",
+    "home": "West Indies Women",
+    "description": "Zimbabwe Women v West Indies Women",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "South Africa v Australia",
+    "link": "http://www.cricinfo.com/ci/engine/match/1525655.html?CMP=OTC-RSS ",
+    "away": "South Africa",
+    "home": "Australia",
+    "description": "South Africa v Australia",
     "status": "Live/Recent"
   }
 ]
