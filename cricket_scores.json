@@ -1,42 +1,10 @@
 [
   {
-    "title": "India A 199/10 &  334/10  v Australia A 55/2 &  171/10 *",
+    "title": "India A 199/10 &  334/10  v Australia A 171/10 &  55/2 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1535672.html?CMP=OTC-RSS ",
     "away": "India A 199/10 &  334/10",
-    "home": "Australia A 55/2 &  171/10 *",
-    "description": "India A 199/10 &  334/10  v Australia A 55/2 &  171/10 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Mah-e-Par Stars 464/10  v Hindukush Strikers 117/10 &  206/9 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1551341.html?CMP=OTC-RSS ",
-    "away": "Mah-e-Par Stars 464/10",
-    "home": "Hindukush Strikers 117/10 &  206/9 *",
-    "description": "Mah-e-Par Stars 464/10  v Hindukush Strikers 117/10 &  206/9 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Maiwand Champions 338/10  v Pamir Legends 110/10 &  187/10 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1551340.html?CMP=OTC-RSS ",
-    "away": "Maiwand Champions 338/10",
-    "home": "Pamir Legends 110/10 &  187/10 *",
-    "description": "Maiwand Champions 338/10  v Pamir Legends 110/10 &  187/10 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Zimbabwe Women 200/10 * v West Indies Women 299/6 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1554975.html?CMP=OTC-RSS ",
-    "away": "Zimbabwe Women 200/10 *",
-    "home": "West Indies Women 299/6",
-    "description": "Zimbabwe Women 200/10 * v West Indies Women 299/6 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "South Africa 297/8  v Australia 230/10 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1525655.html?CMP=OTC-RSS ",
-    "away": "South Africa 297/8",
-    "home": "Australia 230/10 *",
-    "description": "South Africa 297/8  v Australia 230/10 *",
+    "home": "Australia A 171/10 &  55/2 *",
+    "description": "India A 199/10 &  334/10  v Australia A 171/10 &  55/2 *",
     "status": "Live/Recent"
   },
   {
@@ -56,11 +24,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Worcestershire 214/10 &  5 * v Derbyshire 88/10 ",
+    "title": "Worcestershire 5 &  214/10 * v Derbyshire 88/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1513450.html?CMP=OTC-RSS ",
-    "away": "Worcestershire 214/10 &  5 *",
+    "away": "Worcestershire 5 &  214/10 *",
     "home": "Derbyshire 88/10",
-    "description": "Worcestershire 214/10 &  5 * v Derbyshire 88/10 ",
+    "description": "Worcestershire 5 &  214/10 * v Derbyshire 88/10 ",
     "status": "Live/Recent"
   },
   {
@@ -112,11 +80,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "England 296/7 * v Sri Lanka 321/6 ",
+    "title": "England 305/9 * v Sri Lanka 321/6 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1496589.html?CMP=OTC-RSS ",
-    "away": "England 296/7 *",
+    "away": "England 305/9 *",
     "home": "Sri Lanka 321/6",
-    "description": "England 296/7 * v Sri Lanka 321/6 ",
+    "description": "England 305/9 * v Sri Lanka 321/6 ",
     "status": "Live/Recent"
   },
   {
