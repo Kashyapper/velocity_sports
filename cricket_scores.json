@@ -8,11 +8,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Glamorgan 505/10  v Essex 351/6 &  129/10 *",
+    "title": "Glamorgan 505/10  v Essex 129/10 &  351/6 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1513394.html?CMP=OTC-RSS ",
     "away": "Glamorgan 505/10",
-    "home": "Essex 351/6 &  129/10 *",
-    "description": "Glamorgan 505/10  v Essex 351/6 &  129/10 *",
+    "home": "Essex 129/10 &  351/6 *",
+    "description": "Glamorgan 505/10  v Essex 129/10 &  351/6 *",
     "status": "Live/Recent"
   },
   {
@@ -80,11 +80,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Western Province 59/2 * v Knights 168/7 ",
+    "title": "Western Province 169/5 * v Knights 168/7 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1551837.html?CMP=OTC-RSS ",
-    "away": "Western Province 59/2 *",
+    "away": "Western Province 169/5 *",
     "home": "Knights 168/7",
-    "description": "Western Province 59/2 * v Knights 168/7 ",
+    "description": "Western Province 169/5 * v Knights 168/7 ",
     "status": "Live/Recent"
   },
   {
@@ -101,6 +101,22 @@
     "away": "Afghanistan",
     "home": "India",
     "description": "Afghanistan v India",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Maiwand Champions v Pamir Legends",
+    "link": "http://www.cricinfo.com/ci/engine/match/1551342.html?CMP=OTC-RSS ",
+    "away": "Maiwand Champions",
+    "home": "Pamir Legends",
+    "description": "Maiwand Champions v Pamir Legends",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Mah-e-Par Stars v Hindukush Strikers",
+    "link": "http://www.cricinfo.com/ci/engine/match/1551343.html?CMP=OTC-RSS ",
+    "away": "Mah-e-Par Stars",
+    "home": "Hindukush Strikers",
+    "description": "Mah-e-Par Stars v Hindukush Strikers",
     "status": "Live/Recent"
   }
 ]
