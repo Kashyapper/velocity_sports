@@ -1,50 +1,50 @@
 [
   {
-    "title": "India Under-19s 334/8 * v Australia Under-19s 217/10 ",
+    "title": "India Under-19s 430/8 * v Australia Under-19s 217/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1535684.html?CMP=OTC-RSS ",
-    "away": "India Under-19s 334/8 *",
+    "away": "India Under-19s 430/8 *",
     "home": "Australia Under-19s 217/10",
-    "description": "India Under-19s 334/8 * v Australia Under-19s 217/10 ",
+    "description": "India Under-19s 430/8 * v Australia Under-19s 217/10 ",
     "status": "Live/Recent"
   },
   {
-    "title": "Hong Kong v Pakistan",
-    "link": "http://www.cricinfo.com/ci/engine/match/1552772.html?CMP=OTC-RSS ",
-    "away": "Hong Kong",
-    "home": "Pakistan",
-    "description": "Hong Kong v Pakistan",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Afghanistan v India",
-    "link": "http://www.cricinfo.com/ci/engine/match/1552773.html?CMP=OTC-RSS ",
-    "away": "Afghanistan",
-    "home": "India",
-    "description": "Afghanistan v India",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Maiwand Champions 60/5 * v Pamir Legends 175/10 ",
+    "title": "Maiwand Champions 103/10  v Pamir Legends 175/10 &  52/2 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1551342.html?CMP=OTC-RSS ",
-    "away": "Maiwand Champions 60/5 *",
-    "home": "Pamir Legends 175/10",
-    "description": "Maiwand Champions 60/5 * v Pamir Legends 175/10 ",
+    "away": "Maiwand Champions 103/10",
+    "home": "Pamir Legends 175/10 &  52/2 *",
+    "description": "Maiwand Champions 103/10  v Pamir Legends 175/10 &  52/2 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Mah-e-Par Stars 23/2 * v Hindukush Strikers 128/10 ",
+    "title": "Mah-e-Par Stars 125/4 * v Hindukush Strikers 128/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1551343.html?CMP=OTC-RSS ",
-    "away": "Mah-e-Par Stars 23/2 *",
+    "away": "Mah-e-Par Stars 125/4 *",
     "home": "Hindukush Strikers 128/10",
-    "description": "Mah-e-Par Stars 23/2 * v Hindukush Strikers 128/10 ",
+    "description": "Mah-e-Par Stars 125/4 * v Hindukush Strikers 128/10 ",
     "status": "Live/Recent"
   },
   {
-    "title": "Border v North West",
+    "title": "Border 151/4  v North West 138/9 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1551839.html?CMP=OTC-RSS ",
-    "away": "Border",
-    "home": "North West",
-    "description": "Border v North West",
+    "away": "Border 151/4",
+    "home": "North West 138/9 *",
+    "description": "Border 151/4  v North West 138/9 *",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Nepal v Sri Lanka",
+    "link": "http://www.cricinfo.com/ci/engine/match/1552774.html?CMP=OTC-RSS ",
+    "away": "Nepal",
+    "home": "Sri Lanka",
+    "description": "Nepal v Sri Lanka",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Bangladesh v Malaysia",
+    "link": "http://www.cricinfo.com/ci/engine/match/1552775.html?CMP=OTC-RSS ",
+    "away": "Bangladesh",
+    "home": "Malaysia",
+    "description": "Bangladesh v Malaysia",
     "status": "Live/Recent"
   }
 ]
