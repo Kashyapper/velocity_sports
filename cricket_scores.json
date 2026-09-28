@@ -8,11 +8,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Maiwand Champions 103/10  v Pamir Legends 175/10 &  52/2 *",
+    "title": "Maiwand Champions 103/10  v Pamir Legends 52/2 &  175/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1551342.html?CMP=OTC-RSS ",
     "away": "Maiwand Champions 103/10",
-    "home": "Pamir Legends 175/10 &  52/2 *",
-    "description": "Maiwand Champions 103/10  v Pamir Legends 175/10 &  52/2 *",
+    "home": "Pamir Legends 52/2 &  175/10 *",
+    "description": "Maiwand Champions 103/10  v Pamir Legends 52/2 &  175/10 *",
     "status": "Live/Recent"
   },
   {
@@ -24,14 +24,6 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Border 151/4  v North West 138/9 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1551839.html?CMP=OTC-RSS ",
-    "away": "Border 151/4",
-    "home": "North West 138/9 *",
-    "description": "Border 151/4  v North West 138/9 *",
-    "status": "Live/Recent"
-  },
-  {
     "title": "Nepal v Sri Lanka",
     "link": "http://www.cricinfo.com/ci/engine/match/1552774.html?CMP=OTC-RSS ",
     "away": "Nepal",
@@ -40,11 +32,51 @@
     "status": "Live/Recent"
   },
   {
+    "title": "India A v Australia A",
+    "link": "http://www.cricinfo.com/ci/engine/match/1535673.html?CMP=OTC-RSS ",
+    "away": "India A",
+    "home": "Australia A",
+    "description": "India A v Australia A",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "India A Women v Australia A Women",
+    "link": "http://www.cricinfo.com/ci/engine/match/1552027.html?CMP=OTC-RSS ",
+    "away": "India A Women",
+    "home": "Australia A Women",
+    "description": "India A Women v Australia A Women",
+    "status": "Live/Recent"
+  },
+  {
     "title": "Bangladesh v Malaysia",
     "link": "http://www.cricinfo.com/ci/engine/match/1552775.html?CMP=OTC-RSS ",
     "away": "Bangladesh",
     "home": "Malaysia",
     "description": "Bangladesh v Malaysia",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "South Africa Emerging Players v KwaZulu-Natal Inland",
+    "link": "http://www.cricinfo.com/ci/engine/match/1551842.html?CMP=OTC-RSS ",
+    "away": "South Africa Emerging Players",
+    "home": "KwaZulu-Natal Inland",
+    "description": "South Africa Emerging Players v KwaZulu-Natal Inland",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Warriors v Limpopo",
+    "link": "http://www.cricinfo.com/ci/engine/match/1551841.html?CMP=OTC-RSS ",
+    "away": "Warriors",
+    "home": "Limpopo",
+    "description": "Warriors v Limpopo",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Boland v Knights",
+    "link": "http://www.cricinfo.com/ci/engine/match/1551840.html?CMP=OTC-RSS ",
+    "away": "Boland",
+    "home": "Knights",
+    "description": "Boland v Knights",
     "status": "Live/Recent"
   }
 ]
