@@ -1,58 +1,42 @@
 [
   {
-    "title": "India Under-19s 494/10  v Australia Under-19s 217/10 &  180/7 *",
+    "title": "India Under-19s 494/10  v Australia Under-19s 217/10 &  229/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1535684.html?CMP=OTC-RSS ",
     "away": "India Under-19s 494/10",
-    "home": "Australia Under-19s 217/10 &  180/7 *",
-    "description": "India Under-19s 494/10  v Australia Under-19s 217/10 &  180/7 *",
+    "home": "Australia Under-19s 217/10 &  229/10 *",
+    "description": "India Under-19s 494/10  v Australia Under-19s 217/10 &  229/10 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Maiwand Champions 103/10  v Pamir Legends 175/10 &  258/7 *",
+    "title": "Maiwand Champions 110/9 &  103/10 * v Pamir Legends 332/10 &  175/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1551342.html?CMP=OTC-RSS ",
-    "away": "Maiwand Champions 103/10",
-    "home": "Pamir Legends 175/10 &  258/7 *",
-    "description": "Maiwand Champions 103/10  v Pamir Legends 175/10 &  258/7 *",
+    "away": "Maiwand Champions 110/9 &  103/10 *",
+    "home": "Pamir Legends 332/10 &  175/10",
+    "description": "Maiwand Champions 110/9 &  103/10 * v Pamir Legends 332/10 &  175/10 ",
     "status": "Live/Recent"
   },
   {
-    "title": "Mah-e-Par Stars 266/10  v Hindukush Strikers 128/10 &  36/1 *",
+    "title": "Mah-e-Par Stars 266/10  v Hindukush Strikers 128/10 &  115/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1551343.html?CMP=OTC-RSS ",
     "away": "Mah-e-Par Stars 266/10",
-    "home": "Hindukush Strikers 128/10 &  36/1 *",
-    "description": "Mah-e-Par Stars 266/10  v Hindukush Strikers 128/10 &  36/1 *",
+    "home": "Hindukush Strikers 128/10 &  115/10 *",
+    "description": "Mah-e-Par Stars 266/10  v Hindukush Strikers 128/10 &  115/10 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Nepal v Sri Lanka",
-    "link": "http://www.cricinfo.com/ci/engine/match/1552774.html?CMP=OTC-RSS ",
-    "away": "Nepal",
-    "home": "Sri Lanka",
-    "description": "Nepal v Sri Lanka",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "India A v Australia A 170/5 *",
+    "title": "India A v Australia A 282/7 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1535673.html?CMP=OTC-RSS ",
     "away": "India A",
-    "home": "Australia A 170/5 *",
-    "description": "India A v Australia A 170/5 *",
+    "home": "Australia A 282/7 *",
+    "description": "India A v Australia A 282/7 *",
     "status": "Live/Recent"
   },
   {
-    "title": "India A Women 203/5 * v Australia A Women",
+    "title": "India A Women 351/9 * v Australia A Women",
     "link": "http://www.cricinfo.com/ci/engine/match/1552027.html?CMP=OTC-RSS ",
-    "away": "India A Women 203/5 *",
+    "away": "India A Women 351/9 *",
     "home": "Australia A Women",
-    "description": "India A Women 203/5 * v Australia A Women",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Bangladesh v Malaysia",
-    "link": "http://www.cricinfo.com/ci/engine/match/1552775.html?CMP=OTC-RSS ",
-    "away": "Bangladesh",
-    "home": "Malaysia",
-    "description": "Bangladesh v Malaysia",
+    "description": "India A Women 351/9 * v Australia A Women",
     "status": "Live/Recent"
   },
   {
@@ -64,11 +48,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Warriors v Limpopo",
+    "title": "Warriors 175/4  v Limpopo 140/8 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1551841.html?CMP=OTC-RSS ",
-    "away": "Warriors",
-    "home": "Limpopo",
-    "description": "Warriors v Limpopo",
+    "away": "Warriors 175/4",
+    "home": "Limpopo 140/8 *",
+    "description": "Warriors 175/4  v Limpopo 140/8 *",
     "status": "Live/Recent"
   },
   {
