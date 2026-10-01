@@ -1,50 +1,42 @@
 [
   {
-    "title": "India A 122/5 * v Australia A 358/10 ",
+    "title": "India A 167/10  v Australia A 12 &  358/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1535673.html?CMP=OTC-RSS ",
-    "away": "India A 122/5 *",
-    "home": "Australia A 358/10",
-    "description": "India A 122/5 * v Australia A 358/10 ",
+    "away": "India A 167/10",
+    "home": "Australia A 12 &  358/10 *",
+    "description": "India A 167/10  v Australia A 12 &  358/10 *",
     "status": "Live/Recent"
   },
   {
-    "title": "India A Women 134/2 &  364/10 * v Australia A Women 176/10 ",
+    "title": "India A Women 257/10 &  364/10 * v Australia A Women 176/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1552027.html?CMP=OTC-RSS ",
-    "away": "India A Women 134/2 &  364/10 *",
+    "away": "India A Women 257/10 &  364/10 *",
     "home": "Australia A Women 176/10",
-    "description": "India A Women 134/2 &  364/10 * v Australia A Women 176/10 ",
+    "description": "India A Women 257/10 &  364/10 * v Australia A Women 176/10 ",
     "status": "Live/Recent"
   },
   {
-    "title": "South Africa 145/4 * v Australia 322/9 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1525657.html?CMP=OTC-RSS ",
-    "away": "South Africa 145/4 *",
-    "home": "Australia 322/9",
-    "description": "South Africa 145/4 * v Australia 322/9 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Bangladesh v Pakistan",
+    "title": "Bangladesh 111/7  v Pakistan 112/4 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1552776.html?CMP=OTC-RSS ",
-    "away": "Bangladesh",
-    "home": "Pakistan",
-    "description": "Bangladesh v Pakistan",
+    "away": "Bangladesh 111/7",
+    "home": "Pakistan 112/4 *",
+    "description": "Bangladesh 111/7  v Pakistan 112/4 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Jammu & Kashmir v Rest of India",
+    "title": "Jammu & Kashmir v Rest of India 93/2 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1546442.html?CMP=OTC-RSS ",
     "away": "Jammu & Kashmir",
-    "home": "Rest of India",
-    "description": "Jammu & Kashmir v Rest of India",
+    "home": "Rest of India 93/2 *",
+    "description": "Jammu & Kashmir v Rest of India 93/2 *",
     "status": "Live/Recent"
   },
   {
-    "title": "India v Sri Lanka",
+    "title": "India 169/7 * v Sri Lanka",
     "link": "http://www.cricinfo.com/ci/engine/match/1552777.html?CMP=OTC-RSS ",
-    "away": "India",
+    "away": "India 169/7 *",
     "home": "Sri Lanka",
-    "description": "India v Sri Lanka",
+    "description": "India 169/7 * v Sri Lanka",
     "status": "Live/Recent"
   },
   {
