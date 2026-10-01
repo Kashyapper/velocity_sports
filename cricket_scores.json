@@ -1,10 +1,10 @@
 [
   {
-    "title": "India A 167/10 &  28/1 * v Australia A 173/4 &  358/10 ",
+    "title": "India A 167/10 &  28/1 * v Australia A 358/10 &  173/4 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1535673.html?CMP=OTC-RSS ",
     "away": "India A 167/10 &  28/1 *",
-    "home": "Australia A 173/4 &  358/10",
-    "description": "India A 167/10 &  28/1 * v Australia A 173/4 &  358/10 ",
+    "home": "Australia A 358/10 &  173/4",
+    "description": "India A 167/10 &  28/1 * v Australia A 358/10 &  173/4 ",
     "status": "Live/Recent"
   },
   {
@@ -13,14 +13,6 @@
     "away": "Jammu & Kashmir 21/2 *",
     "home": "Rest of India 237/10",
     "description": "Jammu & Kashmir 21/2 * v Rest of India 237/10 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "South Western Districts 182/4  v Border 143/9 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1551845.html?CMP=OTC-RSS ",
-    "away": "South Western Districts 182/4",
-    "home": "Border 143/9 *",
-    "description": "South Western Districts 182/4  v Border 143/9 *",
     "status": "Live/Recent"
   },
   {
@@ -45,6 +37,30 @@
     "away": "Mississauga Masters",
     "home": "Montreal Royal Tigers",
     "description": "Mississauga Masters v Montreal Royal Tigers",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Mpumalanga v KwaZulu-Natal Inland",
+    "link": "http://www.cricinfo.com/ci/engine/match/1551847.html?CMP=OTC-RSS ",
+    "away": "Mpumalanga",
+    "home": "KwaZulu-Natal Inland",
+    "description": "Mpumalanga v KwaZulu-Natal Inland",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Lions v North West",
+    "link": "http://www.cricinfo.com/ci/engine/match/1551848.html?CMP=OTC-RSS ",
+    "away": "Lions",
+    "home": "North West",
+    "description": "Lions v North West",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Knights v Titans",
+    "link": "http://www.cricinfo.com/ci/engine/match/1551846.html?CMP=OTC-RSS ",
+    "away": "Knights",
+    "home": "Titans",
+    "description": "Knights v Titans",
     "status": "Live/Recent"
   }
 ]
