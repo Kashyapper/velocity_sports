@@ -8,27 +8,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "India A Women 364/10 &  134/2 * v Australia A Women 176/10 ",
+    "title": "India A Women 134/2 &  364/10 * v Australia A Women 176/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1552027.html?CMP=OTC-RSS ",
-    "away": "India A Women 364/10 &  134/2 *",
+    "away": "India A Women 134/2 &  364/10 *",
     "home": "Australia A Women 176/10",
-    "description": "India A Women 364/10 &  134/2 * v Australia A Women 176/10 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Zimbabwe Women 180/10 * v West Indies Women 271/5 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1554977.html?CMP=OTC-RSS ",
-    "away": "Zimbabwe Women 180/10 *",
-    "home": "West Indies Women 271/5",
-    "description": "Zimbabwe Women 180/10 * v West Indies Women 271/5 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "India 406/2 * v West Indies 405/7 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1529228.html?CMP=OTC-RSS ",
-    "away": "India 406/2 *",
-    "home": "West Indies 405/7",
-    "description": "India 406/2 * v West Indies 405/7 ",
+    "description": "India A Women 134/2 &  364/10 * v Australia A Women 176/10 ",
     "status": "Live/Recent"
   },
   {
@@ -37,22 +21,6 @@
     "away": "South Africa 145/4 *",
     "home": "Australia 322/9",
     "description": "South Africa 145/4 * v Australia 322/9 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Dolphins 239/5  v Northern Cape 52/4 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1551843.html?CMP=OTC-RSS ",
-    "away": "Dolphins 239/5",
-    "home": "Northern Cape 52/4 *",
-    "description": "Dolphins 239/5  v Northern Cape 52/4 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Easterns v Mpumalanga",
-    "link": "http://www.cricinfo.com/ci/engine/match/1551844.html?CMP=OTC-RSS ",
-    "away": "Easterns",
-    "home": "Mpumalanga",
-    "description": "Easterns v Mpumalanga",
     "status": "Live/Recent"
   },
   {
@@ -77,6 +45,14 @@
     "away": "India",
     "home": "Sri Lanka",
     "description": "India v Sri Lanka",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "South Western Districts v Border",
+    "link": "http://www.cricinfo.com/ci/engine/match/1551845.html?CMP=OTC-RSS ",
+    "away": "South Western Districts",
+    "home": "Border",
+    "description": "South Western Districts v Border",
     "status": "Live/Recent"
   }
 ]
