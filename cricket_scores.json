@@ -1,18 +1,10 @@
 [
   {
-    "title": "India A 167/10 &  310/9 * v Australia A 358/10 &  173/4 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1535673.html?CMP=OTC-RSS ",
-    "away": "India A 167/10 &  310/9 *",
-    "home": "Australia A 358/10 &  173/4",
-    "description": "India A 167/10 &  310/9 * v Australia A 358/10 &  173/4 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Jammu & Kashmir 278/10  v Rest of India 237/10 &  24/1 *",
+    "title": "Jammu & Kashmir 278/10  v Rest of India 24/1 &  237/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1546442.html?CMP=OTC-RSS ",
     "away": "Jammu & Kashmir 278/10",
-    "home": "Rest of India 237/10 &  24/1 *",
-    "description": "Jammu & Kashmir 278/10  v Rest of India 237/10 &  24/1 *",
+    "home": "Rest of India 24/1 &  237/10 *",
+    "description": "Jammu & Kashmir 278/10  v Rest of India 24/1 &  237/10 *",
     "status": "Live/Recent"
   },
   {
@@ -24,19 +16,19 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Lions v North West",
+    "title": "Lions 205/5  v North West 201/4 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1551848.html?CMP=OTC-RSS ",
-    "away": "Lions",
-    "home": "North West",
-    "description": "Lions v North West",
+    "away": "Lions 205/5",
+    "home": "North West 201/4 *",
+    "description": "Lions 205/5  v North West 201/4 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Knights v Titans",
+    "title": "Knights 143/10 * v Titans 267/3 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1551846.html?CMP=OTC-RSS ",
-    "away": "Knights",
-    "home": "Titans",
-    "description": "Knights v Titans",
+    "away": "Knights 143/10 *",
+    "home": "Titans 267/3",
+    "description": "Knights 143/10 * v Titans 267/3 ",
     "status": "Live/Recent"
   },
   {
@@ -56,6 +48,14 @@
     "status": "Live/Recent"
   },
   {
+    "title": "Bangladesh v Sri Lanka",
+    "link": "http://www.cricinfo.com/ci/engine/match/1552778.html?CMP=OTC-RSS ",
+    "away": "Bangladesh",
+    "home": "Sri Lanka",
+    "description": "Bangladesh v Sri Lanka",
+    "status": "Live/Recent"
+  },
+  {
     "title": "Montreal Royal Tigers v White Rock Warriors",
     "link": "http://www.cricinfo.com/ci/engine/match/1556695.html?CMP=OTC-RSS ",
     "away": "Montreal Royal Tigers",
@@ -64,11 +64,27 @@
     "status": "Live/Recent"
   },
   {
+    "title": "India v Pakistan",
+    "link": "http://www.cricinfo.com/ci/engine/match/1552779.html?CMP=OTC-RSS ",
+    "away": "India",
+    "home": "Pakistan",
+    "description": "India v Pakistan",
+    "status": "Live/Recent"
+  },
+  {
     "title": "Brampton Blitz v Mississauga Masters",
     "link": "http://www.cricinfo.com/ci/engine/match/1556696.html?CMP=OTC-RSS ",
     "away": "Brampton Blitz",
     "home": "Mississauga Masters",
     "description": "Brampton Blitz v Mississauga Masters",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "India v West Indies",
+    "link": "http://www.cricinfo.com/ci/engine/match/1529229.html?CMP=OTC-RSS ",
+    "away": "India",
+    "home": "West Indies",
+    "description": "India v West Indies",
     "status": "Live/Recent"
   }
 ]
