@@ -1,10 +1,10 @@
 [
   {
-    "title": "Jammu & Kashmir 278/10  v Rest of India 306/8 &  237/10 *",
+    "title": "Jammu & Kashmir 278/10  v Rest of India 237/10 &  306/8 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1546442.html?CMP=OTC-RSS ",
     "away": "Jammu & Kashmir 278/10",
-    "home": "Rest of India 306/8 &  237/10 *",
-    "description": "Jammu & Kashmir 278/10  v Rest of India 306/8 &  237/10 *",
+    "home": "Rest of India 237/10 &  306/8 *",
+    "description": "Jammu & Kashmir 278/10  v Rest of India 237/10 &  306/8 *",
     "status": "Live/Recent"
   },
   {
@@ -16,11 +16,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "India 351/7  v West Indies 279/4 *",
+    "title": "India 351/7  v West Indies 352/5 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1529229.html?CMP=OTC-RSS ",
     "away": "India 351/7",
-    "home": "West Indies 279/4 *",
-    "description": "India 351/7  v West Indies 279/4 *",
+    "home": "West Indies 352/5 *",
+    "description": "India 351/7  v West Indies 352/5 *",
     "status": "Live/Recent"
   },
   {
@@ -61,6 +61,14 @@
     "away": "Vancouver Warriors Women",
     "home": "Toronto Sixers Women",
     "description": "Vancouver Warriors Women v Toronto Sixers Women",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Mah-e-Par Stars v Hindukush Strikers",
+    "link": "http://www.cricinfo.com/ci/engine/match/1551344.html?CMP=OTC-RSS ",
+    "away": "Mah-e-Par Stars",
+    "home": "Hindukush Strikers",
+    "description": "Mah-e-Par Stars v Hindukush Strikers",
     "status": "Live/Recent"
   },
   {
