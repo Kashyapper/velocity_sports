@@ -1,26 +1,26 @@
 [
   {
-    "title": "Mah-e-Par Stars 97/1 &  259/10 * v Hindukush Strikers 292/10 ",
+    "title": "Mah-e-Par Stars 259/10 &  376/7 * v Hindukush Strikers 292/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1551344.html?CMP=OTC-RSS ",
-    "away": "Mah-e-Par Stars 97/1 &  259/10 *",
+    "away": "Mah-e-Par Stars 259/10 &  376/7 *",
     "home": "Hindukush Strikers 292/10",
-    "description": "Mah-e-Par Stars 97/1 &  259/10 * v Hindukush Strikers 292/10 ",
+    "description": "Mah-e-Par Stars 259/10 &  376/7 * v Hindukush Strikers 292/10 ",
     "status": "Live/Recent"
   },
   {
-    "title": "India Under-19s 162/4 * v Australia Under-19s 174/10 ",
+    "title": "India Under-19s 315/10  v Australia Under-19s 86/4 &  174/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1535685.html?CMP=OTC-RSS ",
-    "away": "India Under-19s 162/4 *",
-    "home": "Australia Under-19s 174/10",
-    "description": "India Under-19s 162/4 * v Australia Under-19s 174/10 ",
+    "away": "India Under-19s 315/10",
+    "home": "Australia Under-19s 86/4 &  174/10 *",
+    "description": "India Under-19s 315/10  v Australia Under-19s 86/4 &  174/10 *",
     "status": "Live/Recent"
   },
   {
-    "title": "India A v Australia A",
+    "title": "India A 39/3 * v Australia A 274/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1535674.html?CMP=OTC-RSS ",
-    "away": "India A",
-    "home": "Australia A",
-    "description": "India A v Australia A",
+    "away": "India A 39/3 *",
+    "home": "Australia A 274/10",
+    "description": "India A 39/3 * v Australia A 274/10 ",
     "status": "Live/Recent"
   },
   {
@@ -37,6 +37,14 @@
     "away": "Western Province",
     "home": "Easterns",
     "description": "Western Province v Easterns",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Victoria v South Australia",
+    "link": "http://www.cricinfo.com/ci/engine/match/1544864.html?CMP=OTC-RSS ",
+    "away": "Victoria",
+    "home": "South Australia",
+    "description": "Victoria v South Australia",
     "status": "Live/Recent"
   }
 ]
