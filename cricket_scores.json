@@ -1,10 +1,10 @@
 [
   {
-    "title": "Victoria 244/10 &  175/7 * v South Australia 508/10 ",
+    "title": "Victoria 175/7 &  244/10 * v South Australia 508/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1544864.html?CMP=OTC-RSS ",
-    "away": "Victoria 244/10 &  175/7 *",
+    "away": "Victoria 175/7 &  244/10 *",
     "home": "South Australia 508/10",
-    "description": "Victoria 244/10 &  175/7 * v South Australia 508/10 ",
+    "description": "Victoria 175/7 &  244/10 * v South Australia 508/10 ",
     "status": "Live/Recent"
   },
   {
@@ -21,22 +21,6 @@
     "away": "Western Australia 158/8 *",
     "home": "Queensland 307/10",
     "description": "Western Australia 158/8 * v Queensland 307/10 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "India A 206/10 * v Australia A 275/10 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1535675.html?CMP=OTC-RSS ",
-    "away": "India A 206/10 *",
-    "home": "Australia A 275/10",
-    "description": "India A 206/10 * v Australia A 275/10 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Oman 263/10  v Canada 222/10 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1554415.html?CMP=OTC-RSS ",
-    "away": "Oman 263/10",
-    "home": "Canada 222/10 *",
-    "description": "Oman 263/10  v Canada 222/10 *",
     "status": "Live/Recent"
   },
   {
@@ -64,27 +48,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Pakistan 187/6 * v Sri Lanka 182/8 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1550708.html?CMP=OTC-RSS ",
-    "away": "Pakistan 187/6 *",
-    "home": "Sri Lanka 182/8",
-    "description": "Pakistan 187/6 * v Sri Lanka 182/8 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "India 249/5  v West Indies 252/4 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1529231.html?CMP=OTC-RSS ",
-    "away": "India 249/5",
-    "home": "West Indies 252/4 *",
-    "description": "India 249/5  v West Indies 252/4 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Namibia v United Arab Emirates 124/9 *",
+    "title": "Namibia 135/2 * v United Arab Emirates 134/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1554412.html?CMP=OTC-RSS ",
-    "away": "Namibia",
-    "home": "United Arab Emirates 124/9 *",
-    "description": "Namibia v United Arab Emirates 124/9 *",
+    "away": "Namibia 135/2 *",
+    "home": "United Arab Emirates 134/10",
+    "description": "Namibia 135/2 * v United Arab Emirates 134/10 ",
     "status": "Live/Recent"
   }
 ]
