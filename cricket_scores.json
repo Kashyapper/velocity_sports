@@ -1,13 +1,5 @@
 [
   {
-    "title": "Victoria 224/10 &  244/10 * v South Australia 508/10 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1544864.html?CMP=OTC-RSS ",
-    "away": "Victoria 224/10 &  244/10 *",
-    "home": "South Australia 508/10",
-    "description": "Victoria 224/10 &  244/10 * v South Australia 508/10 ",
-    "status": "Live/Recent"
-  },
-  {
     "title": "New South Wales 500/9  v Tasmania 203/2 &  245/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1544865.html?CMP=OTC-RSS ",
     "away": "New South Wales 500/9",
@@ -16,35 +8,35 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Western Australia 50/3 &  175/10 * v Queensland 68/10 &  307/10 ",
+    "title": "Western Australia 175/10 &  134/5 * v Queensland 307/10 &  68/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1544866.html?CMP=OTC-RSS ",
-    "away": "Western Australia 50/3 &  175/10 *",
-    "home": "Queensland 68/10 &  307/10",
-    "description": "Western Australia 50/3 &  175/10 * v Queensland 68/10 &  307/10 ",
+    "away": "Western Australia 175/10 &  134/5 *",
+    "home": "Queensland 307/10 &  68/10",
+    "description": "Western Australia 175/10 &  134/5 * v Queensland 307/10 &  68/10 ",
     "status": "Live/Recent"
   },
   {
-    "title": "Afghanistan 15 * v Bangladesh 346/10 ",
+    "title": "Afghanistan 211/4 * v Bangladesh 346/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1555116.html?CMP=OTC-RSS ",
-    "away": "Afghanistan 15 *",
+    "away": "Afghanistan 211/4 *",
     "home": "Bangladesh 346/10",
-    "description": "Afghanistan 15 * v Bangladesh 346/10 ",
+    "description": "Afghanistan 211/4 * v Bangladesh 346/10 ",
     "status": "Live/Recent"
   },
   {
-    "title": "South Africa v Australia 187/6 *",
+    "title": "South Africa/1 * v Australia 390/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1525659.html?CMP=OTC-RSS ",
-    "away": "South Africa",
-    "home": "Australia 187/6 *",
-    "description": "South Africa v Australia 187/6 *",
+    "away": "South Africa/1 *",
+    "home": "Australia 390/10",
+    "description": "South Africa/1 * v Australia 390/10 ",
     "status": "Live/Recent"
   },
   {
-    "title": "Mpumalanga v Western Province",
+    "title": "Mpumalanga 108/9 * v Western Province 136/7 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1551862.html?CMP=OTC-RSS ",
-    "away": "Mpumalanga",
-    "home": "Western Province",
-    "description": "Mpumalanga v Western Province",
+    "away": "Mpumalanga 108/9 *",
+    "home": "Western Province 136/7",
+    "description": "Mpumalanga 108/9 * v Western Province 136/7 ",
     "status": "Live/Recent"
   },
   {
