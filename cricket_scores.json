@@ -1,10 +1,10 @@
 [
   {
-    "title": "Afghanistan 240/10  v Bangladesh 223/6 &  346/10 *",
+    "title": "Afghanistan 240/10  v Bangladesh 346/10 &  223/6 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1555116.html?CMP=OTC-RSS ",
     "away": "Afghanistan 240/10",
-    "home": "Bangladesh 223/6 &  346/10 *",
-    "description": "Afghanistan 240/10  v Bangladesh 223/6 &  346/10 *",
+    "home": "Bangladesh 346/10 &  223/6 *",
+    "description": "Afghanistan 240/10  v Bangladesh 346/10 &  223/6 *",
     "status": "Live/Recent"
   },
   {
@@ -168,35 +168,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "India A 275/10  v Australia A 226/10 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1535676.html?CMP=OTC-RSS ",
-    "away": "India A 275/10",
-    "home": "Australia A 226/10 *",
-    "description": "India A 275/10  v Australia A 226/10 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Canada 211/10 * v Nepal 235/10 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1554416.html?CMP=OTC-RSS ",
-    "away": "Canada 211/10 *",
-    "home": "Nepal 235/10",
-    "description": "Canada 211/10 * v Nepal 235/10 ",
-    "status": "Live/Recent"
-  },
-  {
     "title": "South Africa Emerging Players 151/4  v Boland 155/7 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1551863.html?CMP=OTC-RSS ",
     "away": "South Africa Emerging Players 151/4",
     "home": "Boland 155/7 *",
     "description": "South Africa Emerging Players 151/4  v Boland 155/7 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Pakistan 215/3  v Sri Lanka 133/7 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1550709.html?CMP=OTC-RSS ",
-    "away": "Pakistan 215/3",
-    "home": "Sri Lanka 133/7 *",
-    "description": "Pakistan 215/3  v Sri Lanka 133/7 *",
     "status": "Live/Recent"
   },
   {
@@ -208,19 +184,19 @@
     "status": "Live/Recent"
   },
   {
-    "title": "United States of America v United Arab Emirates 174/6 *",
+    "title": "United States of America 147/3 * v United Arab Emirates 213/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1554413.html?CMP=OTC-RSS ",
-    "away": "United States of America",
-    "home": "United Arab Emirates 174/6 *",
-    "description": "United States of America v United Arab Emirates 174/6 *",
+    "away": "United States of America 147/3 *",
+    "home": "United Arab Emirates 213/10",
+    "description": "United States of America 147/3 * v United Arab Emirates 213/10 ",
     "status": "Live/Recent"
   },
   {
-    "title": "Titans 260/4 * v Easterns",
+    "title": "Titans 260/4  v Easterns 161/7 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1551864.html?CMP=OTC-RSS ",
-    "away": "Titans 260/4 *",
-    "home": "Easterns",
-    "description": "Titans 260/4 * v Easterns",
+    "away": "Titans 260/4",
+    "home": "Easterns 161/7 *",
+    "description": "Titans 260/4  v Easterns 161/7 *",
     "status": "Live/Recent"
   },
   {
