@@ -1,10 +1,10 @@
 [
   {
-    "title": "New South Wales 500/9  v Tasmania 203/2 &  245/10 *",
+    "title": "New South Wales 500/9  v Tasmania 247/4 &  245/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1544865.html?CMP=OTC-RSS ",
     "away": "New South Wales 500/9",
-    "home": "Tasmania 203/2 &  245/10 *",
-    "description": "New South Wales 500/9  v Tasmania 203/2 &  245/10 *",
+    "home": "Tasmania 247/4 &  245/10 *",
+    "description": "New South Wales 500/9  v Tasmania 247/4 &  245/10 *",
     "status": "Live/Recent"
   },
   {
@@ -29,22 +29,6 @@
     "away": "South Africa 27/1 *",
     "home": "Australia 390/10",
     "description": "South Africa 27/1 * v Australia 390/10 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Mpumalanga 111/10 * v Western Province 136/7 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1551862.html?CMP=OTC-RSS ",
-    "away": "Mpumalanga 111/10 *",
-    "home": "Western Province 136/7",
-    "description": "Mpumalanga 111/10 * v Western Province 136/7 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "North West 149/6  v South Western Districts 150/4 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1551861.html?CMP=OTC-RSS ",
-    "away": "North West 149/6",
-    "home": "South Western Districts 150/4 *",
-    "description": "North West 149/6  v South Western Districts 150/4 *",
     "status": "Live/Recent"
   },
   {
@@ -240,6 +224,14 @@
     "status": "Live/Recent"
   },
   {
+    "title": "South Africa Emerging Players v Boland",
+    "link": "http://www.cricinfo.com/ci/engine/match/1551863.html?CMP=OTC-RSS ",
+    "away": "South Africa Emerging Players",
+    "home": "Boland",
+    "description": "South Africa Emerging Players v Boland",
+    "status": "Live/Recent"
+  },
+  {
     "title": "Pakistan v Sri Lanka",
     "link": "http://www.cricinfo.com/ci/engine/match/1550709.html?CMP=OTC-RSS ",
     "away": "Pakistan",
@@ -253,6 +245,14 @@
     "away": "India",
     "home": "West Indies",
     "description": "India v West Indies",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Titans v Easterns",
+    "link": "http://www.cricinfo.com/ci/engine/match/1551864.html?CMP=OTC-RSS ",
+    "away": "Titans",
+    "home": "Easterns",
+    "description": "Titans v Easterns",
     "status": "Live/Recent"
   }
 ]
