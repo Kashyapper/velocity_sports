@@ -1,18 +1,10 @@
 [
   {
-    "title": "Afghanistan 346/8 &  240/10 * v Bangladesh 372/7 &  346/10 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1555116.html?CMP=OTC-RSS ",
-    "away": "Afghanistan 346/8 &  240/10 *",
-    "home": "Bangladesh 372/7 &  346/10",
-    "description": "Afghanistan 346/8 &  240/10 * v Bangladesh 372/7 &  346/10 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "South Africa 206/10 &  284/10 * v Australia 390/10 &  314/6 ",
+    "title": "South Africa 284/10 &  206/10 * v Australia 314/6 &  390/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1525659.html?CMP=OTC-RSS ",
-    "away": "South Africa 206/10 &  284/10 *",
-    "home": "Australia 390/10 &  314/6",
-    "description": "South Africa 206/10 &  284/10 * v Australia 390/10 &  314/6 ",
+    "away": "South Africa 284/10 &  206/10 *",
+    "home": "Australia 314/6 &  390/10",
+    "description": "South Africa 284/10 &  206/10 * v Australia 314/6 &  390/10 ",
     "status": "Live/Recent"
   },
   {
@@ -21,14 +13,6 @@
     "away": "Sikkim 44 &  245/10 *",
     "home": "Meghalaya 395/10",
     "description": "Sikkim 44 &  245/10 * v Meghalaya 395/10 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Bihar 141/10 &  132/10 * v Uttar Pradesh 540/10 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1546525.html?CMP=OTC-RSS ",
-    "away": "Bihar 141/10 &  132/10 *",
-    "home": "Uttar Pradesh 540/10",
-    "description": "Bihar 141/10 &  132/10 * v Uttar Pradesh 540/10 ",
     "status": "Live/Recent"
   },
   {
@@ -48,11 +32,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Goa 35/1 &  199/10 * v Baroda 472/8 ",
+    "title": "Goa 199/10 &  35/1 * v Baroda 472/8 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1546524.html?CMP=OTC-RSS ",
-    "away": "Goa 35/1 &  199/10 *",
+    "away": "Goa 199/10 &  35/1 *",
     "home": "Baroda 472/8",
-    "description": "Goa 35/1 &  199/10 * v Baroda 472/8 ",
+    "description": "Goa 199/10 &  35/1 * v Baroda 472/8 ",
     "status": "Live/Recent"
   },
   {
@@ -80,14 +64,6 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Hyderabad (India) 294/10  v Tripura 134/10 &  120/10 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1546528.html?CMP=OTC-RSS ",
-    "away": "Hyderabad (India) 294/10",
-    "home": "Tripura 134/10 &  120/10 *",
-    "description": "Hyderabad (India) 294/10  v Tripura 134/10 &  120/10 *",
-    "status": "Live/Recent"
-  },
-  {
     "title": "Punjab 287/5 * v Assam 373/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1546530.html?CMP=OTC-RSS ",
     "away": "Punjab 287/5 *",
@@ -96,27 +72,27 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Saurashtra 392/10 &  45 * v Chhattisgarh 312/10 ",
+    "title": "Saurashtra 45 &  392/10 * v Chhattisgarh 312/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1546531.html?CMP=OTC-RSS ",
-    "away": "Saurashtra 392/10 &  45 *",
+    "away": "Saurashtra 45 &  392/10 *",
     "home": "Chhattisgarh 312/10",
-    "description": "Saurashtra 392/10 &  45 * v Chhattisgarh 312/10 ",
+    "description": "Saurashtra 45 &  392/10 * v Chhattisgarh 312/10 ",
     "status": "Live/Recent"
   },
   {
-    "title": "Gujarat 439/10  v Odisha 119/4 &  324/10 *",
+    "title": "Gujarat 439/10  v Odisha 324/10 &  119/4 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1546533.html?CMP=OTC-RSS ",
     "away": "Gujarat 439/10",
-    "home": "Odisha 119/4 &  324/10 *",
-    "description": "Gujarat 439/10  v Odisha 119/4 &  324/10 *",
+    "home": "Odisha 324/10 &  119/4 *",
+    "description": "Gujarat 439/10  v Odisha 324/10 &  119/4 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Services 227/10  v Maharashtra 66/5 &  333/10 *",
+    "title": "Services 227/10  v Maharashtra 333/10 &  66/5 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1546535.html?CMP=OTC-RSS ",
     "away": "Services 227/10",
-    "home": "Maharashtra 66/5 &  333/10 *",
-    "description": "Services 227/10  v Maharashtra 66/5 &  333/10 *",
+    "home": "Maharashtra 333/10 &  66/5 *",
+    "description": "Services 227/10  v Maharashtra 333/10 &  66/5 *",
     "status": "Live/Recent"
   },
   {
@@ -128,27 +104,19 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Mumbai 429/10  v Chandigarh 78/10 &  196/10 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1546539.html?CMP=OTC-RSS ",
-    "away": "Mumbai 429/10",
-    "home": "Chandigarh 78/10 &  196/10 *",
-    "description": "Mumbai 429/10  v Chandigarh 78/10 &  196/10 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Railways 278/10 &  34 * v Uttarakhand 470/10 ",
+    "title": "Railways 34 &  278/10 * v Uttarakhand 470/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1546537.html?CMP=OTC-RSS ",
-    "away": "Railways 278/10 &  34 *",
+    "away": "Railways 34 &  278/10 *",
     "home": "Uttarakhand 470/10",
-    "description": "Railways 278/10 &  34 * v Uttarakhand 470/10 ",
+    "description": "Railways 34 &  278/10 * v Uttarakhand 470/10 ",
     "status": "Live/Recent"
   },
   {
-    "title": "Rajasthan 81/4 &  363/10 * v Tamil Nadu 274/10 ",
+    "title": "Rajasthan 363/10 &  81/4 * v Tamil Nadu 274/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1546538.html?CMP=OTC-RSS ",
-    "away": "Rajasthan 81/4 &  363/10 *",
+    "away": "Rajasthan 363/10 &  81/4 *",
     "home": "Tamil Nadu 274/10",
-    "description": "Rajasthan 81/4 &  363/10 * v Tamil Nadu 274/10 ",
+    "description": "Rajasthan 363/10 &  81/4 * v Tamil Nadu 274/10 ",
     "status": "Live/Recent"
   },
   {
@@ -168,22 +136,6 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Oman 150/10 * v Nepal 263/8 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1554417.html?CMP=OTC-RSS ",
-    "away": "Oman 150/10 *",
-    "home": "Nepal 263/8",
-    "description": "Oman 150/10 * v Nepal 263/8 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Western Australia 246/10 * v Queensland 261/10 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1544850.html?CMP=OTC-RSS ",
-    "away": "Western Australia 246/10 *",
-    "home": "Queensland 261/10",
-    "description": "Western Australia 246/10 * v Queensland 261/10 ",
-    "status": "Live/Recent"
-  },
-  {
     "title": "KwaZulu-Natal Inland 183/6 * v Titans 204/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1551867.html?CMP=OTC-RSS ",
     "away": "KwaZulu-Natal Inland 183/6 *",
@@ -200,35 +152,27 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Pakistan 168/8  v Sri Lanka 172/2 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1550710.html?CMP=OTC-RSS ",
-    "away": "Pakistan 168/8",
-    "home": "Sri Lanka 172/2 *",
-    "description": "Pakistan 168/8  v Sri Lanka 172/2 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "United States of America 181/6 * v Namibia",
+    "title": "United States of America 277/7  v Namibia 220/2 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1554414.html?CMP=OTC-RSS ",
-    "away": "United States of America 181/6 *",
-    "home": "Namibia",
-    "description": "United States of America 181/6 * v Namibia",
+    "away": "United States of America 277/7",
+    "home": "Namibia 220/2 *",
+    "description": "United States of America 277/7  v Namibia 220/2 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Lions 138/8 * v Border",
+    "title": "Lions 138/8  v Border 133/6 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1551865.html?CMP=OTC-RSS ",
-    "away": "Lions 138/8 *",
-    "home": "Border",
-    "description": "Lions 138/8 * v Border",
+    "away": "Lions 138/8",
+    "home": "Border 133/6 *",
+    "description": "Lions 138/8  v Border 133/6 *",
     "status": "Live/Recent"
   },
   {
-    "title": "North West 144/5 * v Dolphins",
+    "title": "North West 144/5  v Dolphins 148/3 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1551866.html?CMP=OTC-RSS ",
-    "away": "North West 144/5 *",
-    "home": "Dolphins",
-    "description": "North West 144/5 * v Dolphins",
+    "away": "North West 144/5",
+    "home": "Dolphins 148/3 *",
+    "description": "North West 144/5  v Dolphins 148/3 *",
     "status": "Live/Recent"
   },
   {
@@ -237,6 +181,14 @@
     "away": "Australia Women",
     "home": "Bangladesh Women",
     "description": "Australia Women v Bangladesh Women",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "India v West Indies",
+    "link": "http://www.cricinfo.com/ci/engine/match/1529233.html?CMP=OTC-RSS ",
+    "away": "India",
+    "home": "West Indies",
+    "description": "India v West Indies",
     "status": "Live/Recent"
   }
 ]
