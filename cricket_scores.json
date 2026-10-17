@@ -8,22 +8,6 @@
     "status": "Live/Recent"
   },
   {
-    "title": "India 118/5 * v West Indies",
-    "link": "http://www.cricinfo.com/ci/engine/match/1529234.html?CMP=OTC-RSS ",
-    "away": "India 118/5 *",
-    "home": "West Indies",
-    "description": "India 118/5 * v West Indies",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Boland 141/6  v Mpumalanga 102/10 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1551872.html?CMP=OTC-RSS ",
-    "away": "Boland 141/6",
-    "home": "Mpumalanga 102/10 *",
-    "description": "Boland 141/6  v Mpumalanga 102/10 *",
-    "status": "Live/Recent"
-  },
-  {
     "title": "Diasqua Little Sai Wan Cricket Club v United Services Recreation Club",
     "link": "http://www.cricinfo.com/ci/engine/match/1555411.html?CMP=OTC-RSS ",
     "away": "Diasqua Little Sai Wan Cricket Club",
@@ -192,6 +176,14 @@
     "status": "Live/Recent"
   },
   {
+    "title": "South Africa v Australia",
+    "link": "http://www.cricinfo.com/ci/engine/match/1525660.html?CMP=OTC-RSS ",
+    "away": "South Africa",
+    "home": "Australia",
+    "description": "South Africa v Australia",
+    "status": "Live/Recent"
+  },
+  {
     "title": "Pakistan v Sri Lanka",
     "link": "http://www.cricinfo.com/ci/engine/match/1550713.html?CMP=OTC-RSS ",
     "away": "Pakistan",
@@ -205,6 +197,22 @@
     "away": "Australia Women",
     "home": "New Zealand Women",
     "description": "Australia Women v New Zealand Women",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "South Africa Emerging Players v Knights",
+    "link": "http://www.cricinfo.com/ci/engine/match/1551874.html?CMP=OTC-RSS ",
+    "away": "South Africa Emerging Players",
+    "home": "Knights",
+    "description": "South Africa Emerging Players v Knights",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Lions v Northern Cape",
+    "link": "http://www.cricinfo.com/ci/engine/match/1551873.html?CMP=OTC-RSS ",
+    "away": "Lions",
+    "home": "Northern Cape",
+    "description": "Lions v Northern Cape",
     "status": "Live/Recent"
   },
   {
