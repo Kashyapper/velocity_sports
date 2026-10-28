@@ -1,10 +1,10 @@
 [
   {
-    "title": "Sikkim 184/10 &  87/4 * v Nagaland 187/10 &  208/10 ",
+    "title": "Sikkim 87/4 &  184/10 * v Nagaland 187/10 &  208/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1546580.html?CMP=OTC-RSS ",
-    "away": "Sikkim 184/10 &  87/4 *",
+    "away": "Sikkim 87/4 &  184/10 *",
     "home": "Nagaland 187/10 &  208/10",
-    "description": "Sikkim 184/10 &  87/4 * v Nagaland 187/10 &  208/10 ",
+    "description": "Sikkim 87/4 &  184/10 * v Nagaland 187/10 &  208/10 ",
     "status": "Live/Recent"
   },
   {
@@ -32,11 +32,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Puducherry 39 &  172/10 * v Uttar Pradesh 333/10 ",
+    "title": "Puducherry 172/10 &  39 * v Uttar Pradesh 333/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1546565.html?CMP=OTC-RSS ",
-    "away": "Puducherry 39 &  172/10 *",
+    "away": "Puducherry 172/10 &  39 *",
     "home": "Uttar Pradesh 333/10",
-    "description": "Puducherry 39 &  172/10 * v Uttar Pradesh 333/10 ",
+    "description": "Puducherry 172/10 &  39 * v Uttar Pradesh 333/10 ",
     "status": "Live/Recent"
   },
   {
@@ -48,11 +48,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Hyderabad (India) 380/10  v Punjab 431/10 &  57 *",
+    "title": "Hyderabad (India) 380/10  v Punjab 57 &  431/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1546566.html?CMP=OTC-RSS ",
     "away": "Hyderabad (India) 380/10",
-    "home": "Punjab 431/10 &  57 *",
-    "description": "Hyderabad (India) 380/10  v Punjab 431/10 &  57 *",
+    "home": "Punjab 57 &  431/10 *",
+    "description": "Hyderabad (India) 380/10  v Punjab 57 &  431/10 *",
     "status": "Live/Recent"
   },
   {
@@ -72,11 +72,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Kerala 141/10 &  53/4 * v Bengal 198/10 &  350/10 ",
+    "title": "Kerala 53/4 &  141/10 * v Bengal 350/10 &  198/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1546572.html?CMP=OTC-RSS ",
-    "away": "Kerala 141/10 &  53/4 *",
-    "home": "Bengal 198/10 &  350/10",
-    "description": "Kerala 141/10 &  53/4 * v Bengal 198/10 &  350/10 ",
+    "away": "Kerala 53/4 &  141/10 *",
+    "home": "Bengal 350/10 &  198/10",
+    "description": "Kerala 53/4 &  141/10 * v Bengal 350/10 &  198/10 ",
     "status": "Live/Recent"
   },
   {
@@ -96,27 +96,27 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Mumbai 430/10  v Haryana 270/10 &  73/2 *",
+    "title": "Mumbai 430/10  v Haryana 73/2 &  270/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1546574.html?CMP=OTC-RSS ",
     "away": "Mumbai 430/10",
-    "home": "Haryana 270/10 &  73/2 *",
-    "description": "Mumbai 430/10  v Haryana 270/10 &  73/2 *",
+    "home": "Haryana 73/2 &  270/10 *",
+    "description": "Mumbai 430/10  v Haryana 73/2 &  270/10 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Uttarakhand 194/10 &  38 * v Rajasthan 272/10 &  290/5 ",
+    "title": "Uttarakhand 38 &  194/10 * v Rajasthan 272/10 &  290/5 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1546575.html?CMP=OTC-RSS ",
-    "away": "Uttarakhand 194/10 &  38 *",
+    "away": "Uttarakhand 38 &  194/10 *",
     "home": "Rajasthan 272/10 &  290/5",
-    "description": "Uttarakhand 194/10 &  38 * v Rajasthan 272/10 &  290/5 ",
+    "description": "Uttarakhand 38 &  194/10 * v Rajasthan 272/10 &  290/5 ",
     "status": "Live/Recent"
   },
   {
-    "title": "Manipur 12/1 &  364/10 * v Arunachal Pradesh 431/10 &  111/10 ",
+    "title": "Manipur 364/10 &  12/1 * v Arunachal Pradesh 111/10 &  431/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1546578.html?CMP=OTC-RSS ",
-    "away": "Manipur 12/1 &  364/10 *",
-    "home": "Arunachal Pradesh 431/10 &  111/10",
-    "description": "Manipur 12/1 &  364/10 * v Arunachal Pradesh 431/10 &  111/10 ",
+    "away": "Manipur 364/10 &  12/1 *",
+    "home": "Arunachal Pradesh 111/10 &  431/10",
+    "description": "Manipur 364/10 &  12/1 * v Arunachal Pradesh 111/10 &  431/10 ",
     "status": "Live/Recent"
   },
   {
@@ -168,14 +168,6 @@
     "status": "Live/Recent"
   },
   {
-    "title": "India Women 133/2 * v Zimbabwe Women 131/10 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1535657.html?CMP=OTC-RSS ",
-    "away": "India Women 133/2 *",
-    "home": "Zimbabwe Women 131/10",
-    "description": "India Women 133/2 * v Zimbabwe Women 131/10 ",
-    "status": "Live/Recent"
-  },
-  {
     "title": "Brampton Blazers 81/10 * v Vancouver Guardians 177/7 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1559959.html?CMP=OTC-RSS ",
     "away": "Brampton Blazers 81/10 *",
@@ -184,19 +176,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Lions 204/1 * v Easterns 198/6 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1551888.html?CMP=OTC-RSS ",
-    "away": "Lions 204/1 *",
-    "home": "Easterns 198/6",
-    "description": "Lions 204/1 * v Easterns 198/6 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Mississauga Skyhawks v Toronto Kings",
+    "title": "Mississauga Skyhawks 34/1 * v Toronto Kings",
     "link": "http://www.cricinfo.com/ci/engine/match/1559960.html?CMP=OTC-RSS ",
-    "away": "Mississauga Skyhawks",
+    "away": "Mississauga Skyhawks 34/1 *",
     "home": "Toronto Kings",
-    "description": "Mississauga Skyhawks v Toronto Kings",
+    "description": "Mississauga Skyhawks 34/1 * v Toronto Kings",
     "status": "Live/Recent"
   },
   {
@@ -205,6 +189,14 @@
     "away": "Melbourne Renegades Women",
     "home": "Sydney Thunder Women",
     "description": "Melbourne Renegades Women v Sydney Thunder Women",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "United Arab Emirates v Oman",
+    "link": "http://www.cricinfo.com/ci/engine/match/1559565.html?CMP=OTC-RSS ",
+    "away": "United Arab Emirates",
+    "home": "Oman",
+    "description": "United Arab Emirates v Oman",
     "status": "Live/Recent"
   },
   {
@@ -237,6 +229,22 @@
     "away": "Biratnagar Kings (NPL)",
     "home": "Karnali Yaks (NPL)",
     "description": "Biratnagar Kings (NPL) v Karnali Yaks (NPL)",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "South Western Districts v Titans",
+    "link": "http://www.cricinfo.com/ci/engine/match/1551889.html?CMP=OTC-RSS ",
+    "away": "South Western Districts",
+    "home": "Titans",
+    "description": "South Western Districts v Titans",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Afghanistan v Zimbabwe",
+    "link": "http://www.cricinfo.com/ci/engine/match/1555121.html?CMP=OTC-RSS ",
+    "away": "Afghanistan",
+    "home": "Zimbabwe",
+    "description": "Afghanistan v Zimbabwe",
     "status": "Live/Recent"
   }
 ]
