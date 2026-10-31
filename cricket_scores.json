@@ -32,38 +32,6 @@
     "status": "Live/Recent"
   },
   {
-    "title": "United Arab Emirates 266/5 * v Netherlands 263/4 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1559566.html?CMP=OTC-RSS ",
-    "away": "United Arab Emirates 266/5 *",
-    "home": "Netherlands 263/4",
-    "description": "United Arab Emirates 266/5 * v Netherlands 263/4 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Chitwan Rhinos (NPL) v Lumbini Lions (NPL)",
-    "link": "http://www.cricinfo.com/ci/engine/match/1558588.html?CMP=OTC-RSS ",
-    "away": "Chitwan Rhinos (NPL)",
-    "home": "Lumbini Lions (NPL)",
-    "description": "Chitwan Rhinos (NPL) v Lumbini Lions (NPL)",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Pakistan 331/7 * v Sri Lanka 325/8 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1550719.html?CMP=OTC-RSS ",
-    "away": "Pakistan 331/7 *",
-    "home": "Sri Lanka 325/8",
-    "description": "Pakistan 331/7 * v Sri Lanka 325/8 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Biratnagar Kings (NPL) 105/2  v Sudur Paschim Royals (NPL) 70/3 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1558589.html?CMP=OTC-RSS ",
-    "away": "Biratnagar Kings (NPL) 105/2",
-    "home": "Sudur Paschim Royals (NPL) 70/3 *",
-    "description": "Biratnagar Kings (NPL) 105/2  v Sudur Paschim Royals (NPL) 70/3 *",
-    "status": "Live/Recent"
-  },
-  {
     "title": "South Western Districts 149/4 * v Easterns 144/7 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1551890.html?CMP=OTC-RSS ",
     "away": "South Western Districts 149/4 *",
@@ -80,11 +48,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Warriors v Western Province 130/8 *",
+    "title": "Warriors 133/6 * v Western Province 130/8 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1551891.html?CMP=OTC-RSS ",
-    "away": "Warriors",
-    "home": "Western Province 130/8 *",
-    "description": "Warriors v Western Province 130/8 *",
+    "away": "Warriors 133/6 *",
+    "home": "Western Province 130/8",
+    "description": "Warriors 133/6 * v Western Province 130/8 ",
     "status": "Live/Recent"
   },
   {
@@ -165,6 +133,22 @@
     "away": "Sydney Sixers Women",
     "home": "Hobart Hurricanes Women",
     "description": "Sydney Sixers Women v Hobart Hurricanes Women",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Janakpur Bolts (NPL) v Pokhara Avengers (NPL)",
+    "link": "http://www.cricinfo.com/ci/engine/match/1558590.html?CMP=OTC-RSS ",
+    "away": "Janakpur Bolts (NPL)",
+    "home": "Pokhara Avengers (NPL)",
+    "description": "Janakpur Bolts (NPL) v Pokhara Avengers (NPL)",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Afghanistan v Zimbabwe",
+    "link": "http://www.cricinfo.com/ci/engine/match/1555122.html?CMP=OTC-RSS ",
+    "away": "Afghanistan",
+    "home": "Zimbabwe",
+    "description": "Afghanistan v Zimbabwe",
     "status": "Live/Recent"
   }
 ]
