@@ -1,10 +1,10 @@
 [
   {
-    "title": "New Zealand A 218/3 * v India A 346/10 ",
+    "title": "New Zealand A 224/4 * v India A 346/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1552530.html?CMP=OTC-RSS ",
-    "away": "New Zealand A 218/3 *",
+    "away": "New Zealand A 224/4 *",
     "home": "India A 346/10",
-    "description": "New Zealand A 218/3 * v India A 346/10 ",
+    "description": "New Zealand A 224/4 * v India A 346/10 ",
     "status": "Live/Recent"
   },
   {
@@ -13,46 +13,6 @@
     "away": "Queensland 202/5 *",
     "home": "Victoria 307/10",
     "description": "Queensland 202/5 * v Victoria 307/10 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Namibia 131/5 * v Ireland 129/10 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1558235.html?CMP=OTC-RSS ",
-    "away": "Namibia 131/5 *",
-    "home": "Ireland 129/10",
-    "description": "Namibia 131/5 * v Ireland 129/10 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Mid West Rhinos 310/8  v Mountaineers 294/8 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1559687.html?CMP=OTC-RSS ",
-    "away": "Mid West Rhinos 310/8",
-    "home": "Mountaineers 294/8 *",
-    "description": "Mid West Rhinos 310/8  v Mountaineers 294/8 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Mashonaland Eagles 206/7 * v Matabeleland Tuskers 205/10 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1559688.html?CMP=OTC-RSS ",
-    "away": "Mashonaland Eagles 206/7 *",
-    "home": "Matabeleland Tuskers 205/10",
-    "description": "Mashonaland Eagles 206/7 * v Matabeleland Tuskers 205/10 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Dolphins 174/4  v Boland 178/3 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1551892.html?CMP=OTC-RSS ",
-    "away": "Dolphins 174/4",
-    "home": "Boland 178/3 *",
-    "description": "Dolphins 174/4  v Boland 178/3 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Lions 206/3  v Titans 191/7 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1551893.html?CMP=OTC-RSS ",
-    "away": "Lions 206/3",
-    "home": "Titans 191/7 *",
-    "description": "Lions 206/3  v Titans 191/7 *",
     "status": "Live/Recent"
   },
   {
@@ -229,6 +189,14 @@
     "away": "Mizoram",
     "home": "Arunachal Pradesh",
     "description": "Mizoram v Arunachal Pradesh",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Netherlands v Oman",
+    "link": "http://www.cricinfo.com/ci/engine/match/1559567.html?CMP=OTC-RSS ",
+    "away": "Netherlands",
+    "home": "Oman",
+    "description": "Netherlands v Oman",
     "status": "Live/Recent"
   },
   {
