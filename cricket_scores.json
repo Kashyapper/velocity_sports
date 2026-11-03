@@ -1,10 +1,10 @@
 [
   {
-    "title": "New Zealand A 424/10  v India A 32 &  346/10 *",
+    "title": "New Zealand A 424/10  v India A 151/2 &  346/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1552530.html?CMP=OTC-RSS ",
     "away": "New Zealand A 424/10",
-    "home": "India A 32 &  346/10 *",
-    "description": "New Zealand A 424/10  v India A 32 &  346/10 *",
+    "home": "India A 151/2 &  346/10 *",
+    "description": "New Zealand A 424/10  v India A 151/2 &  346/10 *",
     "status": "Live/Recent"
   },
   {
@@ -168,14 +168,6 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Netherlands 183/3 * v Oman 182/10 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1559567.html?CMP=OTC-RSS ",
-    "away": "Netherlands 183/3 *",
-    "home": "Oman 182/10",
-    "description": "Netherlands 183/3 * v Oman 182/10 ",
-    "status": "Live/Recent"
-  },
-  {
     "title": "Toronto Kings v Montreal Warriors",
     "link": "http://www.cricinfo.com/ci/engine/match/1559969.html?CMP=OTC-RSS ",
     "away": "Toronto Kings",
@@ -197,6 +189,14 @@
     "away": "Lumbini Lions (NPL)",
     "home": "Pokhara Avengers (NPL)",
     "description": "Lumbini Lions (NPL) v Pokhara Avengers (NPL)",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Dolphins v Western Province",
+    "link": "http://www.cricinfo.com/ci/engine/match/1551894.html?CMP=OTC-RSS ",
+    "away": "Dolphins",
+    "home": "Western Province",
+    "description": "Dolphins v Western Province",
     "status": "Live/Recent"
   }
 ]
