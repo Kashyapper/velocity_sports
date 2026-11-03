@@ -16,11 +16,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Tripura 54/4 &  268/10 * v Saurashtra 118/10 ",
+    "title": "Tripura 268/10 &  54/4 * v Saurashtra 118/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1546588.html?CMP=OTC-RSS ",
-    "away": "Tripura 54/4 &  268/10 *",
+    "away": "Tripura 268/10 &  54/4 *",
     "home": "Saurashtra 118/10",
-    "description": "Tripura 54/4 &  268/10 * v Saurashtra 118/10 ",
+    "description": "Tripura 268/10 &  54/4 * v Saurashtra 118/10 ",
     "status": "Live/Recent"
   },
   {
@@ -40,11 +40,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Goa 397/10  v Bihar 107/9 &  63/3 *",
+    "title": "Goa 397/10  v Bihar 63/3 &  107/9 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1546582.html?CMP=OTC-RSS ",
     "away": "Goa 397/10",
-    "home": "Bihar 107/9 &  63/3 *",
-    "description": "Goa 397/10  v Bihar 107/9 &  63/3 *",
+    "home": "Bihar 63/3 &  107/9 *",
+    "description": "Goa 397/10  v Bihar 63/3 &  107/9 *",
     "status": "Live/Recent"
   },
   {
@@ -64,11 +64,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Vidarbha 334/9  v Madhya Pradesh 19/1 &  209/10 *",
+    "title": "Vidarbha 334/9  v Madhya Pradesh 209/10 &  19/1 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1546583.html?CMP=OTC-RSS ",
     "away": "Vidarbha 334/9",
-    "home": "Madhya Pradesh 19/1 &  209/10 *",
-    "description": "Vidarbha 334/9  v Madhya Pradesh 19/1 &  209/10 *",
+    "home": "Madhya Pradesh 209/10 &  19/1 *",
+    "description": "Vidarbha 334/9  v Madhya Pradesh 209/10 &  19/1 *",
     "status": "Live/Recent"
   },
   {
@@ -152,22 +152,6 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Biratnagar Kings (NPL) 174/3  v Janakpur Bolts (NPL) 172/7 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1558593.html?CMP=OTC-RSS ",
-    "away": "Biratnagar Kings (NPL) 174/3",
-    "home": "Janakpur Bolts (NPL) 172/7 *",
-    "description": "Biratnagar Kings (NPL) 174/3  v Janakpur Bolts (NPL) 172/7 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Lumbini Lions (NPL) 98/2 * v Pokhara Avengers (NPL) 97/9 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1558594.html?CMP=OTC-RSS ",
-    "away": "Lumbini Lions (NPL) 98/2 *",
-    "home": "Pokhara Avengers (NPL) 97/9",
-    "description": "Lumbini Lions (NPL) 98/2 * v Pokhara Avengers (NPL) 97/9 ",
-    "status": "Live/Recent"
-  },
-  {
     "title": "Dolphins v Western Province",
     "link": "http://www.cricinfo.com/ci/engine/match/1551894.html?CMP=OTC-RSS ",
     "away": "Dolphins",
@@ -181,6 +165,22 @@
     "away": "New Zealand",
     "home": "India",
     "description": "New Zealand v India",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Pakistan Cricket Board Patron's XI v Sri Lanka",
+    "link": "http://www.cricinfo.com/ci/engine/match/1553591.html?CMP=OTC-RSS ",
+    "away": "Pakistan Cricket Board Patron's XI",
+    "home": "Sri Lanka",
+    "description": "Pakistan Cricket Board Patron's XI v Sri Lanka",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "United Arab Emirates v Oman",
+    "link": "http://www.cricinfo.com/ci/engine/match/1559568.html?CMP=OTC-RSS ",
+    "away": "United Arab Emirates",
+    "home": "Oman",
+    "description": "United Arab Emirates v Oman",
     "status": "Live/Recent"
   },
   {
