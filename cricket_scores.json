@@ -16,14 +16,6 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Royal Desert Champions 81/9  v United Tigers 84/1 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1561257.html?CMP=OTC-RSS ",
-    "away": "Royal Desert Champions 81/9",
-    "home": "United Tigers 84/1 *",
-    "description": "Royal Desert Champions 81/9  v United Tigers 84/1 *",
-    "status": "Live/Recent"
-  },
-  {
     "title": "New Zealand v India",
     "link": "http://www.cricinfo.com/ci/engine/match/1539439.html?CMP=OTC-RSS ",
     "away": "New Zealand",
@@ -77,6 +69,14 @@
     "away": "Emirates Eagles",
     "home": "UAE Bulls",
     "description": "Emirates Eagles v UAE Bulls",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Western Province v South Western Districts",
+    "link": "http://www.cricinfo.com/ci/engine/match/1559993.html?CMP=OTC-RSS ",
+    "away": "Western Province",
+    "home": "South Western Districts",
+    "description": "Western Province v South Western Districts",
     "status": "Live/Recent"
   }
 ]
