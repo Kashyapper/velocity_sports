@@ -8,83 +8,75 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Afghanistan 159/6 * v Zimbabwe 339/10 ",
+    "title": "Afghanistan 193/6 * v Zimbabwe 339/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1555124.html?CMP=OTC-RSS ",
-    "away": "Afghanistan 159/6 *",
+    "away": "Afghanistan 193/6 *",
     "home": "Zimbabwe 339/10",
-    "description": "Afghanistan 159/6 * v Zimbabwe 339/10 ",
+    "description": "Afghanistan 193/6 * v Zimbabwe 339/10 ",
     "status": "Live/Recent"
   },
   {
-    "title": "Lions 183/7 * v Warriors 219/4 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1555483.html?CMP=OTC-RSS ",
-    "away": "Lions 183/7 *",
-    "home": "Warriors 219/4",
-    "description": "Lions 183/7 * v Warriors 219/4 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Sydney Sixers Women 40/1 * v Melbourne Renegades Women",
+    "title": "Sydney Sixers Women 152/6  v Melbourne Renegades Women 156/8 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1543966.html?CMP=OTC-RSS ",
-    "away": "Sydney Sixers Women 40/1 *",
-    "home": "Melbourne Renegades Women",
-    "description": "Sydney Sixers Women 40/1 * v Melbourne Renegades Women",
+    "away": "Sydney Sixers Women 152/6",
+    "home": "Melbourne Renegades Women 156/8 *",
+    "description": "Sydney Sixers Women 152/6  v Melbourne Renegades Women 156/8 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Diasqua Little Sai Wan Cricket Club v Pakistan Association of Hong Kong",
+    "title": "Diasqua Little Sai Wan Cricket Club 324/7  v Pakistan Association of Hong Kong 94/8 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1555415.html?CMP=OTC-RSS ",
-    "away": "Diasqua Little Sai Wan Cricket Club",
-    "home": "Pakistan Association of Hong Kong",
-    "description": "Diasqua Little Sai Wan Cricket Club v Pakistan Association of Hong Kong",
+    "away": "Diasqua Little Sai Wan Cricket Club 324/7",
+    "home": "Pakistan Association of Hong Kong 94/8 *",
+    "description": "Diasqua Little Sai Wan Cricket Club 324/7  v Pakistan Association of Hong Kong 94/8 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Hong Kong Cricket Club v United Services Recreation Club",
+    "title": "Hong Kong Cricket Club 293/7  v United Services Recreation Club 102/3 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1555416.html?CMP=OTC-RSS ",
-    "away": "Hong Kong Cricket Club",
-    "home": "United Services Recreation Club",
-    "description": "Hong Kong Cricket Club v United Services Recreation Club",
+    "away": "Hong Kong Cricket Club 293/7",
+    "home": "United Services Recreation Club 102/3 *",
+    "description": "Hong Kong Cricket Club 293/7  v United Services Recreation Club 102/3 *",
     "status": "Live/Recent"
   },
   {
-    "title": "New Zealand v India",
+    "title": "New Zealand 69/2 * v India 209/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1539441.html?CMP=OTC-RSS ",
-    "away": "New Zealand",
-    "home": "India",
-    "description": "New Zealand v India",
+    "away": "New Zealand 69/2 *",
+    "home": "India 209/10",
+    "description": "New Zealand 69/2 * v India 209/10 ",
     "status": "Live/Recent"
   },
   {
-    "title": "Australia v England",
+    "title": "Australia v England 322/5 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1528704.html?CMP=OTC-RSS ",
     "away": "Australia",
-    "home": "England",
-    "description": "Australia v England",
+    "home": "England 322/5 *",
+    "description": "Australia v England 322/5 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Thailand Women v Zimbabwe Women",
+    "title": "Thailand Women 31/4 * v Zimbabwe Women 110/5 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1557551.html?CMP=OTC-RSS ",
-    "away": "Thailand Women",
-    "home": "Zimbabwe Women",
-    "description": "Thailand Women v Zimbabwe Women",
+    "away": "Thailand Women 31/4 *",
+    "home": "Zimbabwe Women 110/5",
+    "description": "Thailand Women 31/4 * v Zimbabwe Women 110/5 ",
     "status": "Live/Recent"
   },
   {
-    "title": "Pakistan Women v Netherlands Women",
+    "title": "Pakistan Women 126/7  v Netherlands Women 63 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1557552.html?CMP=OTC-RSS ",
-    "away": "Pakistan Women",
-    "home": "Netherlands Women",
-    "description": "Pakistan Women v Netherlands Women",
+    "away": "Pakistan Women 126/7",
+    "home": "Netherlands Women 63 *",
+    "description": "Pakistan Women 126/7  v Netherlands Women 63 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Chitwan Rhinos (NPL) v Karnali Yaks (NPL)",
+    "title": "Chitwan Rhinos (NPL) v Karnali Yaks (NPL) 41/2 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1558608.html?CMP=OTC-RSS ",
     "away": "Chitwan Rhinos (NPL)",
-    "home": "Karnali Yaks (NPL)",
-    "description": "Chitwan Rhinos (NPL) v Karnali Yaks (NPL)",
+    "home": "Karnali Yaks (NPL) 41/2 *",
+    "description": "Chitwan Rhinos (NPL) v Karnali Yaks (NPL) 41/2 *",
     "status": "Live/Recent"
   },
   {
