@@ -1,10 +1,10 @@
 [
   {
-    "title": "New Zealand 368/10  v India 159/1 *",
+    "title": "New Zealand 368/10  v India 344/2 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1539442.html?CMP=OTC-RSS ",
     "away": "New Zealand 368/10",
-    "home": "India 159/1 *",
-    "description": "New Zealand 368/10  v India 159/1 *",
+    "home": "India 344/2 *",
+    "description": "New Zealand 368/10  v India 344/2 *",
     "status": "Live/Recent"
   },
   {
@@ -40,11 +40,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Colombo Cricket Club 427/10  v Tamil Union Cricket and Athletic Club 179/10 &  31/3 *",
+    "title": "Colombo Cricket Club 427/10  v Tamil Union Cricket and Athletic Club 31/3 &  179/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1560150.html?CMP=OTC-RSS ",
     "away": "Colombo Cricket Club 427/10",
-    "home": "Tamil Union Cricket and Athletic Club 179/10 &  31/3 *",
-    "description": "Colombo Cricket Club 427/10  v Tamil Union Cricket and Athletic Club 179/10 &  31/3 *",
+    "home": "Tamil Union Cricket and Athletic Club 31/3 &  179/10 *",
+    "description": "Colombo Cricket Club 427/10  v Tamil Union Cricket and Athletic Club 31/3 &  179/10 *",
     "status": "Live/Recent"
   },
   {
@@ -56,27 +56,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "Zimbabwe A 260/9 * v Ireland A 254/10 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1558239.html?CMP=OTC-RSS ",
-    "away": "Zimbabwe A 260/9 *",
-    "home": "Ireland A 254/10",
-    "description": "Zimbabwe A 260/9 * v Ireland A 254/10 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Yas Lions 110/4 * v UAE Bulls 134/3 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1561281.html?CMP=OTC-RSS ",
-    "away": "Yas Lions 110/4 *",
-    "home": "UAE Bulls 134/3",
-    "description": "Yas Lions 110/4 * v UAE Bulls 134/3 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Hobart Hurricanes Women v Sydney Thunder Women",
+    "title": "Hobart Hurricanes Women 17 * v Sydney Thunder Women 150/5 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1543972.html?CMP=OTC-RSS ",
-    "away": "Hobart Hurricanes Women",
-    "home": "Sydney Thunder Women",
-    "description": "Hobart Hurricanes Women v Sydney Thunder Women",
+    "away": "Hobart Hurricanes Women 17 *",
+    "home": "Sydney Thunder Women 150/5",
+    "description": "Hobart Hurricanes Women 17 * v Sydney Thunder Women 150/5 ",
     "status": "Live/Recent"
   },
   {
