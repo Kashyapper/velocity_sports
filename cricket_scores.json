@@ -1,58 +1,50 @@
 [
   {
-    "title": "New South Wales 303/10 &  20 * v Queensland 306/6 &  278/10 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1544876.html?CMP=OTC-RSS ",
-    "away": "New South Wales 303/10 &  20 *",
-    "home": "Queensland 306/6 &  278/10",
-    "description": "New South Wales 303/10 &  20 * v Queensland 306/6 &  278/10 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Western Australia 238/6 * v Tasmania 342/10 ",
+    "title": "Western Australia 439/10  v Tasmania 42/2 &  342/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1544877.html?CMP=OTC-RSS ",
-    "away": "Western Australia 238/6 *",
-    "home": "Tasmania 342/10",
-    "description": "Western Australia 238/6 * v Tasmania 342/10 ",
+    "away": "Western Australia 439/10",
+    "home": "Tasmania 42/2 &  342/10 *",
+    "description": "Western Australia 439/10  v Tasmania 42/2 &  342/10 *",
     "status": "Live/Recent"
   },
   {
-    "title": "South Africa 494/7 * v Bangladesh 91/10 ",
+    "title": "South Africa 494/7  v Bangladesh 184/10 &  91/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1525663.html?CMP=OTC-RSS ",
-    "away": "South Africa 494/7 *",
-    "home": "Bangladesh 91/10",
-    "description": "South Africa 494/7 * v Bangladesh 91/10 ",
+    "away": "South Africa 494/7",
+    "home": "Bangladesh 184/10 &  91/10 *",
+    "description": "South Africa 494/7  v Bangladesh 184/10 &  91/10 *",
     "status": "Live/Recent"
   },
   {
-    "title": "South Australia 287/10  v Victoria 107/2 *",
+    "title": "South Australia 287/10  v Victoria 275/3 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1544878.html?CMP=OTC-RSS ",
     "away": "South Australia 287/10",
-    "home": "Victoria 107/2 *",
-    "description": "South Australia 287/10  v Victoria 107/2 *",
+    "home": "Victoria 275/3 *",
+    "description": "South Australia 287/10  v Victoria 275/3 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Ireland Women v Sri Lanka Women",
+    "title": "Ireland Women 96/10  v Sri Lanka Women 99/4 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1557572.html?CMP=OTC-RSS ",
-    "away": "Ireland Women",
-    "home": "Sri Lanka Women",
-    "description": "Ireland Women v Sri Lanka Women",
+    "away": "Ireland Women 96/10",
+    "home": "Sri Lanka Women 99/4 *",
+    "description": "Ireland Women 96/10  v Sri Lanka Women 99/4 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Zimbabwe A v Ireland A",
+    "title": "Zimbabwe A 209/10  v Ireland A 121/1 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1558241.html?CMP=OTC-RSS ",
-    "away": "Zimbabwe A",
-    "home": "Ireland A",
-    "description": "Zimbabwe A v Ireland A",
+    "away": "Zimbabwe A 209/10",
+    "home": "Ireland A 121/1 *",
+    "description": "Zimbabwe A 209/10  v Ireland A 121/1 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Melbourne Renegades Women v Brisbane Heat Women",
+    "title": "Melbourne Renegades Women 138/7 * v Brisbane Heat Women 137/8 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1543976.html?CMP=OTC-RSS ",
-    "away": "Melbourne Renegades Women",
-    "home": "Brisbane Heat Women",
-    "description": "Melbourne Renegades Women v Brisbane Heat Women",
+    "away": "Melbourne Renegades Women 138/7 *",
+    "home": "Brisbane Heat Women 137/8",
+    "description": "Melbourne Renegades Women 138/7 * v Brisbane Heat Women 137/8 ",
     "status": "Live/Recent"
   },
   {
@@ -61,6 +53,22 @@
     "away": "Dubai Capitals",
     "home": "Desert Vipers",
     "description": "Dubai Capitals v Desert Vipers",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Sydney Thunder Women v Adelaide Strikers Women",
+    "link": "http://www.cricinfo.com/ci/engine/match/1543977.html?CMP=OTC-RSS ",
+    "away": "Sydney Thunder Women",
+    "home": "Adelaide Strikers Women",
+    "description": "Sydney Thunder Women v Adelaide Strikers Women",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Sydney Sixers Women v Melbourne Stars Women",
+    "link": "http://www.cricinfo.com/ci/engine/match/1543978.html?CMP=OTC-RSS ",
+    "away": "Sydney Sixers Women",
+    "home": "Melbourne Stars Women",
+    "description": "Sydney Sixers Women v Melbourne Stars Women",
     "status": "Live/Recent"
   }
 ]
