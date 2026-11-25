@@ -1,18 +1,18 @@
 [
   {
-    "title": "New South Wales 303/10  v Queensland 106/2 &  278/10 *",
+    "title": "New South Wales 303/10 &  20 * v Queensland 306/6 &  278/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1544876.html?CMP=OTC-RSS ",
-    "away": "New South Wales 303/10",
-    "home": "Queensland 106/2 &  278/10 *",
-    "description": "New South Wales 303/10  v Queensland 106/2 &  278/10 *",
+    "away": "New South Wales 303/10 &  20 *",
+    "home": "Queensland 306/6 &  278/10",
+    "description": "New South Wales 303/10 &  20 * v Queensland 306/6 &  278/10 ",
     "status": "Live/Recent"
   },
   {
-    "title": "Western Australia 197/5 * v Tasmania 342/10 ",
+    "title": "Western Australia 238/6 * v Tasmania 342/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1544877.html?CMP=OTC-RSS ",
-    "away": "Western Australia 197/5 *",
+    "away": "Western Australia 238/6 *",
     "home": "Tasmania 342/10",
-    "description": "Western Australia 197/5 * v Tasmania 342/10 ",
+    "description": "Western Australia 238/6 * v Tasmania 342/10 ",
     "status": "Live/Recent"
   },
   {
@@ -24,43 +24,11 @@
     "status": "Live/Recent"
   },
   {
-    "title": "South Australia 272/8 * v Victoria",
+    "title": "South Australia 287/10  v Victoria 107/2 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1544878.html?CMP=OTC-RSS ",
-    "away": "South Australia 272/8 *",
-    "home": "Victoria",
-    "description": "South Australia 272/8 * v Victoria",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "India A 254/3 * v United Arab Emirates 249/8 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1562353.html?CMP=OTC-RSS ",
-    "away": "India A 254/3 *",
-    "home": "United Arab Emirates 249/8",
-    "description": "India A 254/3 * v United Arab Emirates 249/8 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Mid West Rhinos 313/6 * v Mashonaland Eagles 309/10 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1559698.html?CMP=OTC-RSS ",
-    "away": "Mid West Rhinos 313/6 *",
-    "home": "Mashonaland Eagles 309/10",
-    "description": "Mid West Rhinos 313/6 * v Mashonaland Eagles 309/10 ",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Pakistan A 168/10  v Nepal 72/10 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1562352.html?CMP=OTC-RSS ",
-    "away": "Pakistan A 168/10",
-    "home": "Nepal 72/10 *",
-    "description": "Pakistan A 168/10  v Nepal 72/10 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Gulf Giants 93/4 * v MI Emirates 91/10 ",
-    "link": "http://www.cricinfo.com/ci/engine/match/1557447.html?CMP=OTC-RSS ",
-    "away": "Gulf Giants 93/4 *",
-    "home": "MI Emirates 91/10",
-    "description": "Gulf Giants 93/4 * v MI Emirates 91/10 ",
+    "away": "South Australia 287/10",
+    "home": "Victoria 107/2 *",
+    "description": "South Australia 287/10  v Victoria 107/2 *",
     "status": "Live/Recent"
   },
   {
@@ -69,6 +37,14 @@
     "away": "Ireland Women",
     "home": "Sri Lanka Women",
     "description": "Ireland Women v Sri Lanka Women",
+    "status": "Live/Recent"
+  },
+  {
+    "title": "Zimbabwe A v Ireland A",
+    "link": "http://www.cricinfo.com/ci/engine/match/1558241.html?CMP=OTC-RSS ",
+    "away": "Zimbabwe A",
+    "home": "Ireland A",
+    "description": "Zimbabwe A v Ireland A",
     "status": "Live/Recent"
   },
   {
