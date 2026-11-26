@@ -1,66 +1,58 @@
 [
   {
-    "title": "Western Australia 439/10  v Tasmania 42/2 &  342/10 *",
+    "title": "Western Australia 439/10  v Tasmania 342/10 &  133/4 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1544877.html?CMP=OTC-RSS ",
     "away": "Western Australia 439/10",
-    "home": "Tasmania 42/2 &  342/10 *",
-    "description": "Western Australia 439/10  v Tasmania 42/2 &  342/10 *",
+    "home": "Tasmania 342/10 &  133/4 *",
+    "description": "Western Australia 439/10  v Tasmania 342/10 &  133/4 *",
     "status": "Live/Recent"
   },
   {
-    "title": "South Australia 287/10  v Victoria 275/3 *",
+    "title": "South Australia 287/10 &  28 * v Victoria 417/10 ",
     "link": "http://www.cricinfo.com/ci/engine/match/1544878.html?CMP=OTC-RSS ",
-    "away": "South Australia 287/10",
-    "home": "Victoria 275/3 *",
-    "description": "South Australia 287/10  v Victoria 275/3 *",
+    "away": "South Australia 287/10 &  28 *",
+    "home": "Victoria 417/10",
+    "description": "South Australia 287/10 &  28 * v Victoria 417/10 ",
     "status": "Live/Recent"
   },
   {
-    "title": "Dubai Capitals 164/7  v Desert Vipers 119/10 *",
-    "link": "http://www.cricinfo.com/ci/engine/match/1557448.html?CMP=OTC-RSS ",
-    "away": "Dubai Capitals 164/7",
-    "home": "Desert Vipers 119/10 *",
-    "description": "Dubai Capitals 164/7  v Desert Vipers 119/10 *",
-    "status": "Live/Recent"
-  },
-  {
-    "title": "Uttarakhand v Mumbai",
+    "title": "Uttarakhand v Mumbai 210/10 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1546783.html?CMP=OTC-RSS ",
     "away": "Uttarakhand",
-    "home": "Mumbai",
-    "description": "Uttarakhand v Mumbai",
+    "home": "Mumbai 210/10 *",
+    "description": "Uttarakhand v Mumbai 210/10 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Madhya Pradesh v Puducherry",
+    "title": "Madhya Pradesh 132/6 * v Puducherry",
     "link": "http://www.cricinfo.com/ci/engine/match/1546779.html?CMP=OTC-RSS ",
-    "away": "Madhya Pradesh",
+    "away": "Madhya Pradesh 132/6 *",
     "home": "Puducherry",
-    "description": "Madhya Pradesh v Puducherry",
+    "description": "Madhya Pradesh 132/6 * v Puducherry",
     "status": "Live/Recent"
   },
   {
-    "title": "Sudur Paschim Province Under-19s v Lumbini Province Under-19s",
+    "title": "Sudur Paschim Province Under-19s v Lumbini Province Under-19s 48/1 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1564157.html?CMP=OTC-RSS ",
     "away": "Sudur Paschim Province Under-19s",
-    "home": "Lumbini Province Under-19s",
-    "description": "Sudur Paschim Province Under-19s v Lumbini Province Under-19s",
+    "home": "Lumbini Province Under-19s 48/1 *",
+    "description": "Sudur Paschim Province Under-19s v Lumbini Province Under-19s 48/1 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Karnataka v Baroda",
+    "title": "Karnataka v Baroda 54/6 *",
     "link": "http://www.cricinfo.com/ci/engine/match/1546771.html?CMP=OTC-RSS ",
     "away": "Karnataka",
-    "home": "Baroda",
-    "description": "Karnataka v Baroda",
+    "home": "Baroda 54/6 *",
+    "description": "Karnataka v Baroda 54/6 *",
     "status": "Live/Recent"
   },
   {
-    "title": "Jammu & Kashmir v Haryana",
+    "title": "Jammu & Kashmir 83/5 * v Haryana",
     "link": "http://www.cricinfo.com/ci/engine/match/1546775.html?CMP=OTC-RSS ",
-    "away": "Jammu & Kashmir",
+    "away": "Jammu & Kashmir 83/5 *",
     "home": "Haryana",
-    "description": "Jammu & Kashmir v Haryana",
+    "description": "Jammu & Kashmir 83/5 * v Haryana",
     "status": "Live/Recent"
   },
   {
